@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Snoek-VerBerkmoes Interactive Family Tree</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; padding: 0; height: 100vh;
+      font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #faf6f0; color: #1f1810;
+    }
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    h1 {
+      font-family: "Libre Caslon Text", Georgia, serif;
+      color: #4a3d2e;
+      margin-bottom: 0.5rem;
+    }
+    .subtitle { color: #8a6d3b; margin-bottom: 2rem; }
+    .card {
+      background: #fff;
+      border: 1px solid #e7e0d4;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #6b4e2e;
+      font-size: 1.15rem;
+    }
+    .card p { line-height: 1.6; }
+    a { color: #6b4e2e; font-weight: 600; }
+    a:hover { color: #c2a878; }
+    .btn {
+      display: inline-block;
+      padding: 0.7rem 1.4rem;
+      background: #6b4e2e;
+      color: #faf6f0;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 1rem;
+      margin-top: 0.5rem;
+    }
+    .btn:hover { background: #8a6d3b; color: #fff; }
+    .btn-secondary {
+      background: #c2a878;
+      color: #1f1810;
+    }
+    .btn-secondary:hover { background: #f4d58d; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+    .stat {
+      text-align: center;
+      padding: 1rem;
+      background: #faf6f0;
+      border-radius: 6px;
+      border: 1px solid #e7e0d4;
+    }
+    .stat .number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #6b4e2e;
+      display: block;
+    }
+    .stat .label { font-size: 0.85rem; color: #8a6d3b; }
+    ul { padding-left: 1.5rem; line-height: 1.8; }
+    code {
+      background: #ede4d3;
+      padding: 0.15rem 0.4rem;
+      border-radius: 3px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌳 Snoek–VerBerkmoes Family Tree</h1>
+    <p class="subtitle">829 individuals · 257 families · 1425–2023</p>
+
+    <div class="stats">
+      <div class="stat"><span class="number">829</span><span class="label">Individuals</span></div>
+      <div class="stat"><span class="number">257</span><span class="label">Families</span></div>
+      <div class="stat"><span class="number">4</span><span class="label">Family lines</span></div>
+    </div>
+
+    <div class="card">
+      <h2>Interactive viewer (recommended)</h2>
+      <p>Open the <strong>Topola Genealogy Viewer</strong> — a free, open-source interactive family tree browser with pedigree, hourglass, and descendant views. Pan, zoom, and click to explore.</p>
+      <p>
+        <a class="btn" href="https://pewu.github.io/topola-viewer/#/view?url=https%3A%2F%2Fwiredsim.github.io%2Fsnoek-verberkmoes-family-history%2F08-Media%2Fsnoek-verberkmoes.ged" target="_blank" rel="noopener">
+          Browse the Family Tree →
+        </a>
+      </p>
+      <p style="margin-top:1rem;">Opens directly in your browser — no download needed. Switch between hourglass, ancestor, and descendant views using the menu.</p>
+    </div>
+
+    <div class="card">
+      <h2>Download GEDCOM file</h2>
+      <p>The GEDCOM 7.0 file contains all 829 individuals with names, dates, places, and family structures. Compatible with every major genealogy tool.</p>
+      <p>
+        <a class="btn btn-secondary" href="snoek-verberkmoes.ged" download>
+          Download snoek-verberkmoes.ged (125 KB)
+        </a>
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Compatible tools</h2>
+      <p>Import the GEDCOM into any of these:</p>
+      <ul>
+        <li><a href="https://pewu.github.io/topola-viewer/" target="_blank">Topola Viewer</a> — free web-based viewer (drag & drop)</li>
+        <li><a href="https://www.ancestry.com" target="_blank">Ancestry.com</a> — upload via Settings → Family Tree → Import</li>
+        <li><a href="https://www.familysearch.org" target="_blank">FamilySearch</a> — free, upload via GEDCOM import</li>
+        <li><a href="https://www.myheritage.com" target="_blank">MyHeritage</a> — upload via Family Tree → Import</li>
+        <li><a href="https://gramps-project.org" target="_blank">Gramps</a> — free desktop app (Windows/Mac/Linux)</li>
+        <li><a href="https://www.wikitree.com" target="_blank">WikiTree</a> — free collaborative genealogy wiki</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>About this data</h2>
+      <p>Extracted from Ruth Taber's <em>History of the Coffin, Samargia, Snoek, VerBerkmoes Families</em> (25 Dec 2025). Four family lines spanning six centuries:</p>
+      <ul>
+        <li><strong>Coffin</strong> — Devon, England (1425) → Massachusetts → Wisconsin → Michigan</li>
+        <li><strong>Snoek</strong> — Drenthe, Netherlands → Grand Haven, Michigan (1846)</li>
+        <li><strong>VerBerkmoes</strong> — Zeeland, Netherlands → Grand Haven, Michigan (1871)</li>
+        <li><strong>Samargia</strong> — Croatia → Grand Haven, Michigan (1932)</li>
+      </ul>
+      <p>The unifying couple: <strong>John Orren Snoek Jr</strong> (1880–1937) married <strong>Delia VerBerkmoes</strong> (1879–1952) in Grand Haven on 26 September 1900.</p>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,7101 @@
+0 HEAD
+1 GEDC
+2 VERS 7.0
+1 SOUR Snoek-VerBerkmoes Vault
+2 NAME History of the Coffin, Samargia, Snoek, VerBerkmoes Families
+2 CORP Ruth Taber
+1 DATE 10 APR 2026
+1 CHAR UTF-8
+0 @SUBM@ SUBM
+1 NAME Snoek-VerBerkmoes Vault
+0 @I1@ INDI
+1 NAME Abner /Coffin/
+2 SURN Coffin
+2 GIVN Abner
+1 BIRT
+2 DATE 29 APR 1702
+2 PLAC Newbury, Essex, MA
+0 @I2@ INDI
+1 NAME Charles /Coffin/
+2 SURN Coffin
+2 GIVN Charles
+1 BIRT
+2 DATE 1868
+2 PLAC Gardner Twp., Door Cnty., Wisc.
+0 @I3@ INDI
+1 NAME Clara Barabara /Coffin/
+2 SURN Coffin
+2 GIVN Clara Barabara
+1 BIRT
+2 DATE 19 MAY 1845
+2 PLAC Canton, Oxford, Maine
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME David /Coffin/
+2 SURN Coffin
+2 GIVN David
+1 BIRT
+2 DATE 8 SEP 1838
+2 PLAC Brewer, Penobscot, ME
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME David Coffin 3m /24d/
+2 SURN 24d
+2 GIVN David Coffin 3m
+1 DEAT
+2 DATE 15 MAY 1901
+2 PLAC Gardner Twp., Door City, Wisc.
+0 @I6@ INDI
+1 NAME Deborah /Coffin/
+2 SURN Coffin
+2 GIVN Deborah
+1 BIRT
+2 DATE 1642
+1 FAMC @F2@
+0 @I7@ INDI
+1 NAME Dionis Stevens /Coffin/
+2 SURN Coffin
+2 GIVN Dionis Stevens
+1 DEAT
+2 DATE 16 OCT 1676
+2 PLAC Nantucket, Nantucket, MA
+0 @I8@ INDI
+1 NAME Elizabeth /Coffin/
+2 SURN Coffin
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 1634
+1 FAMC @F2@
+0 @I9@ INDI
+1 NAME Elizabeth /Coffin/Coffyn/
+2 SURN Coffin/Coffyn
+2 GIVN Elizabeth
+0 @I10@ INDI
+1 NAME Emma /Coffin/
+2 SURN Coffin
+2 GIVN Emma
+1 BIRT
+2 DATE 1 FEB 1867
+2 PLAC Little Sturgeon Bay, Door Cnty., Wisc.
+0 @I11@ INDI
+1 NAME Emma Coffin /Claflin/
+2 SURN Claflin
+2 GIVN Emma Coffin
+1 DEAT
+2 DATE 1940
+2 PLAC Door Cnty., Wisc.
+0 @I12@ INDI
+1 NAME Harriette Smith /Coffin/
+2 SURN Coffin
+2 GIVN Harriette Smith
+1 DEAT
+2 DATE 29 MAY 1869
+2 PLAC Waukesha, Waukesha, Wisconsin
+0 @I13@ INDI
+1 NAME James /Coffin/
+2 SURN Coffin
+2 GIVN James
+1 BIRT
+2 DATE 12 AUG 1640
+1 FAMC @F2@
+0 @I14@ INDI
+1 NAME James R /Coffin/
+2 SURN Coffin
+2 GIVN James R
+1 BIRT
+2 DATE 17 JUN 1784
+2 PLAC Freeport, Cumberland, ME
+1 FAMC @F3@
+0 @I15@ INDI
+1 NAME Joan Advent /Coffin/
+2 SURN Coffin
+2 GIVN Joan Advent
+1 DEAT
+2 DATE 2 FEB 1614
+2 PLAC Bulter's, Brixton Parish, in southern Devonshire
+0 @I16@ INDI
+1 NAME John /Coffin/
+2 SURN Coffin
+2 GIVN John
+1 BIRT
+2 DATE 30 OCT 1647
+1 FAMC @F2@
+0 @I17@ INDI
+1 NAME Judith /Coffin/
+2 SURN Coffin
+2 GIVN Judith
+1 BIRT
+2 DATE 4 DEC 1653
+2 PLAC Newbury, Essex, MA
+0 @I18@ INDI
+1 NAME Maria Louise Snavely /Coffin/
+2 SURN Coffin
+2 GIVN Maria Louise Snavely
+1 DEAT
+2 DATE 16 MAR 1904
+2 PLAC Gardner Twp., Door, Wisc.
+0 @I19@ INDI
+1 NAME Martha Ann /Coffin/
+2 SURN Coffin
+2 GIVN Martha Ann
+1 BIRT
+2 DATE 4 SEP 1840
+2 PLAC Deer Isle, Hancock, ME
+1 FAMC @F1@
+0 @I20@ INDI
+1 NAME Martha Ann Coffin /Heidelberg/
+2 SURN Heidelberg
+2 GIVN Martha Ann Coffin
+1 DEAT
+2 DATE 18 OCT 1918
+2 PLAC Waukesha Cnty.,  Wisconsin
+0 @I21@ INDI
+1 NAME Mary /Coffin/
+2 SURN Coffin
+2 GIVN Mary
+1 BIRT
+2 DATE 1645
+1 FAMC @F2@
+0 @I22@ INDI
+1 NAME Mary Coffin /Little/
+2 SURN Little
+2 GIVN Mary Coffin
+1 DEAT
+2 DATE 28 NOV 1725
+2 PLAC Newbury, Essex, MA
+1 FAMC @F4@
+0 @I23@ INDI
+1 NAME Matilda Ann /Coffin/
+2 SURN Coffin
+2 GIVN Matilda Ann
+1 BIRT
+2 DATE 23 APR 1843
+2 PLAC Deer Isle, Hancock , ME
+1 FAMC @F1@
+0 @I24@ INDI
+1 NAME Nicholas /Coffin/Coffyn/
+2 SURN Coffin/Coffyn
+2 GIVN Nicholas
+1 BIRT
+2 DATE NOV 1561
+2 PLAC Bulter's Parish, Brixton, South Hams, Devonshire, England
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I25@ INDI
+1 NAME Nicholis /Coffin/Coffyn/
+2 SURN Coffin/Coffyn
+2 GIVN Nicholis
+1 DEAT
+2 DATE 5 OCT 1613
+2 PLAC Bulter's, Brixton Parish, in southern Devonshire
+0 @I26@ INDI
+1 NAME Peter Coffin /(Coffyn)/
+2 SURN (Coffyn)
+2 GIVN Peter Coffin
+1 BIRT
+2 DATE JAN 1580
+2 PLAC Bulter's Parish, Brixton Devonshire, MA
+1 FAMC @F6@
+0 @I27@ INDI
+1 NAME Peter /Coffin/
+2 SURN Coffin
+2 GIVN Peter
+1 DEAT
+2 DATE 1628
+2 PLAC Bulter's, Brixton Parish, in southern Devonshire
+0 @I28@ INDI
+1 NAME Peter Tristram /Coffin/Coffyn/
+2 SURN Coffin/Coffyn
+2 GIVN Peter Tristram
+1 BIRT
+2 DATE 1535
+2 PLAC Portledge Alwington, Devon, Devonshire, England
+0 @I29@ INDI
+1 NAME Phoebe /Coffin/
+2 SURN Coffin
+2 GIVN Phoebe
+1 BIRT
+2 DATE 21 MAY 1847
+2 PLAC Isle Au haut, Knox, Maine
+1 FAMC @F1@
+0 @I30@ INDI
+1 NAME Phoebe Coffin /Harder/
+2 SURN Harder
+2 GIVN Phoebe Coffin
+1 FAMS @F148@
+0 @I31@ INDI
+1 NAME Samuel /Coffin/
+2 SURN Coffin
+2 GIVN Samuel
+1 FAMS @F1@
+0 @I32@ INDI
+1 NAME Sarah Atkinson /Coffin/
+2 SURN Coffin
+2 GIVN Sarah Atkinson
+1 DEAT
+2 DATE 25 JAN 1724
+2 PLAC Newbury, Essex, MA
+0 @I33@ INDI
+1 NAME Stephen /Coffin/
+2 SURN Coffin
+2 GIVN Stephen
+1 BIRT
+2 DATE 18 AUG 1664
+2 PLAC Newbury, MA
+1 FAMS @F3@
+0 @I34@ INDI
+1 NAME Steven /Coffin/
+2 SURN Coffin
+2 GIVN Steven
+1 BIRT
+2 DATE MAY 1652
+1 FAMC @F2@
+0 @I35@ INDI
+1 NAME Tristram /Coffin/
+2 SURN Coffin
+2 GIVN Tristram
+1 BIRT
+2 DATE 11 MAR 1609
+2 PLAC Butler's Parish Brixton Parish, Devon England
+1 FAMS @F2@
+1 FAMS @F4@
+0 @I36@ INDI
+1 NAME Tristram Coffin /Jr/
+2 SURN Jr
+2 GIVN Tristram Coffin
+0 @I37@ INDI
+1 NAME Wallace Coffin /Sr/
+2 SURN Sr
+2 GIVN Wallace Coffin
+0 @I38@ INDI
+1 NAME Wallace David /Coffin/
+2 SURN Coffin
+2 GIVN Wallace David
+1 BIRT
+2 DATE JUL 1871
+2 PLAC Gardner, Door Cnty., Wisc.
+0 @I39@ INDI
+1 NAME Aaltje Alice /Bosman/
+2 SURN Bosman
+2 GIVN Aaltje Alice
+1 BIRT
+2 DATE 8 NOV 1865
+2 PLAC Nieuwleusen, Overijssel, the Netherlands
+0 @I40@ INDI
+1 NAME Abigail /Starbuck/
+2 SURN Starbuck
+2 GIVN Abigail
+0 @I41@ INDI
+1 NAME Abraham /Fisher/
+2 SURN Fisher
+2 GIVN Abraham
+1 BIRT
+2 DATE 31 AUG 1873
+2 PLAC Grand Haven, Ottawa Cnty Michigan
+0 @I42@ INDI
+1 NAME Ada Orletta /Bliss/
+2 SURN Bliss
+2 GIVN Ada Orletta
+1 BIRT
+2 DATE 7 MAY 1938
+2 PLAC East Chicago, Lake Cnty, Indiana
+1 DEAT
+2 DATE 15 MAY 1971
+2 PLAC Indianapolis, Marion Cnty, Indiana
+1 FAMS @F116@
+1 FAMC @F7@
+0 @I43@ INDI
+1 NAME Adam Michael /Devereau/
+2 SURN Devereau
+2 GIVN Adam Michael
+1 BIRT
+2 DATE 16 MAY 1981
+2 PLAC Zeeland, Ottawa. MI
+0 @I44@ INDI
+1 NAME Adam Michael /Devereaux/
+2 SURN Devereaux
+2 GIVN Adam Michael
+1 FAMS @F33@
+0 @I45@ INDI
+1 NAME Adam /Rowell/
+2 SURN Rowell
+2 GIVN Adam
+0 @I46@ INDI
+1 NAME Adrian /John/
+2 SURN John
+2 GIVN Adrian
+1 DEAT
+2 DATE 8 SEP 1909
+2 PLAC 1 m 3 dys    Grand Haven  Ottawa Cnty  MI
+0 @I47@ INDI
+1 NAME Albert /Claflin/
+2 SURN Claflin
+2 GIVN Albert
+1 BIRT
+2 DATE 29 MAY 1866
+2 PLAC Fish Creek, Door Cnty., Wisc.
+0 @I48@ INDI
+1 NAME Alecia Marie /Crain/
+2 SURN Crain
+2 GIVN Alecia Marie
+1 BIRT
+2 DATE 2 DEC 1982
+2 PLAC Grand Haven, Michigan
+1 FAMS @F33@
+1 FAMC @F8@
+0 @I49@ INDI
+1 NAME Alecia Marie Crain /Devereau/
+2 SURN Devereau
+2 GIVN Alecia Marie Crain
+0 @I50@ INDI
+1 NAME Alex William /Pits/
+2 SURN Pits
+2 GIVN Alex William
+1 BIRT
+2 DATE 24 OCT 1989
+2 PLAC Solano, California
+1 DEAT
+2 DATE 3 MAY 2020
+2 PLAC Virginia
+1 FAMC @F9@
+0 @I51@ INDI
+1 NAME Alexander Craig /Hilman/
+2 SURN Hilman
+2 GIVN Alexander Craig
+1 BIRT
+2 DATE 1990
+1 FAMC @F10@
+0 @I52@ INDI
+1 NAME Alexia /Pelekonos/
+2 SURN Pelekonos
+2 GIVN Alexia
+1 BIRT
+2 DATE 8 MAY 2001
+2 PLAC Roca Raton, Florida
+1 FAMC @F11@
+0 @I53@ INDI
+1 NAME Alfonso /DeLeon/
+2 SURN DeLeon
+2 GIVN Alfonso
+1 BIRT
+2 DATE 2 JUL 1997
+2 PLAC Harlingen, Texas
+1 FAMC @F12@
+0 @I54@ INDI
+1 NAME Alisha /Ranft/
+2 SURN Ranft
+2 GIVN Alisha
+1 BIRT
+2 DATE 15 JAN 1987
+1 FAMS @F112@
+1 FAMC @F13@
+0 @I55@ INDI
+1 NAME Alison Marie /Ranft/
+2 SURN Ranft
+2 GIVN Alison Marie
+1 BIRT
+2 DATE 16 JUL 1984
+2 PLAC Niles, Michigan
+1 FAMS @F43@
+1 FAMC @F14@
+0 @I56@ INDI
+1 NAME Alison Marie /Taber/
+2 SURN Taber
+2 GIVN Alison Marie
+1 BIRT
+2 PLAC 1972  Lansing, Michigan
+1 FAMS @F18@
+1 FAMC @F15@
+0 @I57@ INDI
+1 NAME Allen D /Phipps/
+2 SURN Phipps
+2 GIVN Allen D
+1 FAMS @F78@
+1 FAMS @F210@
+0 @I58@ INDI
+1 NAME Alyda /Prince/
+2 SURN Prince
+2 GIVN Alyda
+1 BIRT
+2 DATE 31 OCT 1862
+2 PLAC Haarlemmermeer, Netherlands
+0 @I59@ INDI
+1 NAME Amanda Britney /Pease/
+2 SURN Pease
+2 GIVN Amanda Britney
+1 BIRT
+2 DATE FEB 1987
+2 PLAC Indiana
+1 FAMC @F16@
+0 @I60@ INDI
+1 NAME Ammie //
+2 GIVN Ammie
+1 FAMS @F142@
+0 @I61@ INDI
+1 NAME Amy M /Brosseit/
+2 SURN Brosseit
+2 GIVN Amy M
+1 BIRT
+2 DATE 14 DEC 1974
+1 DEAT
+2 DATE 18 DEC 1971
+2 PLAC Grand Haven, Michigan
+1 FAMC @F17@
+0 @I62@ INDI
+1 NAME Amy Renee /Lalick/
+2 SURN Lalick
+2 GIVN Amy Renee
+1 FAMS @F67@
+0 @I63@ INDI
+1 NAME Ana /Villarreal/
+2 SURN Villarreal
+2 GIVN Ana
+1 BIRT
+2 DATE 20 JAN 2000
+2 PLAC Lansing, Michigan
+1 FAMC @F18@
+0 @I64@ INDI
+1 NAME Andrew /Hieftje/
+2 SURN Hieftje
+2 GIVN Andrew
+1 BIRT
+2 DATE 6 NOV 1888
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F93@
+1 FAMS @F105@
+1 FAMS @F204@
+1 FAMC @F19@
+0 @I65@ INDI
+1 NAME Andrew J /Hieftje/
+2 SURN Hieftje
+2 GIVN Andrew J
+1 BIRT
+2 DATE 26 OCT 1916
+2 PLAC Muskegon, Muskegon, MI
+1 DEAT
+2 DATE 3 OCT 1989
+2 PLAC Memphis, Tennessee
+1 FAMC @F20@
+0 @I66@ INDI
+1 NAME Anita L /Tassier/
+2 SURN Tassier
+2 GIVN Anita L
+1 BIRT
+2 DATE 1939
+1 FAMC @F21@
+0 @I67@ INDI
+1 NAME Anna P /Unsinn/
+2 SURN Unsinn
+2 GIVN Anna P
+1 BIRT
+2 DATE 25 JUN 1876
+2 PLAC Red Banks, Brown Cnty., Wisc.
+0 @I68@ INDI
+1 NAME Anna P Unsinn /Speerschneider/
+2 SURN Speerschneider
+2 GIVN Anna P Unsinn
+0 @I69@ INDI
+1 NAME Annasofia /Pelekonos/
+2 SURN Pelekonos
+2 GIVN Annasofia
+1 BIRT
+2 DATE 25 JUL 2005
+2 PLAC Boca Raton, Florida
+1 FAMC @F11@
+0 @I70@ INDI
+1 NAME Anne Delores /Rozzo/
+2 SURN Rozzo
+2 GIVN Anne Delores
+1 BIRT
+2 DATE 1928
+2 PLAC Ohio
+1 FAMS @F37@
+1 FAMS @F249@
+0 @I71@ INDI
+1 NAME Anne Delores Rozzo /Sayers/
+2 SURN Sayers
+2 GIVN Anne Delores Rozzo
+1 DEAT
+2 DATE 27 SEP 1969
+2 PLAC Ashtabula, Ohio
+0 @I72@ INDI
+1 NAME Annette /Stanage/
+2 SURN Stanage
+2 GIVN Annette
+1 FAMS @F14@
+1 FAMS @F226@
+0 @I73@ INDI
+1 NAME Anthonette Adriana /Harnick/
+2 SURN Harnick
+2 GIVN Anthonette Adriana
+1 BIRT
+2 DATE 16 DEC 1753
+2 PLAC Borssele, Zeeland, the Netherlands
+1 FAMS @F202@
+0 @I74@ INDI
+1 NAME Anthony P /Brosseit/
+2 SURN Brosseit
+2 GIVN Anthony P
+1 BIRT
+2 DATE 1981
+2 PLAC date  location
+1 FAMS @F23@
+1 FAMC @F22@
+0 @I75@ INDI
+1 NAME Anthony Paul Brosseit /Jr/
+2 SURN Jr
+2 GIVN Anthony Paul Brosseit
+1 BIRT
+2 DATE DEC 1989
+1 FAMC @F23@
+0 @I76@ INDI
+1 NAME Arianna /Pelekonos/
+2 SURN Pelekonos
+2 GIVN Arianna
+1 BIRT
+2 DATE 7 APR 2007
+2 PLAC Boca Raton, Florida
+1 FAMC @F11@
+0 @I77@ INDI
+1 NAME Arloa /Riemersma/
+2 SURN Riemersma
+2 GIVN Arloa
+1 FAMS @F191@
+0 @I78@ INDI
+1 NAME Arron Lee Patten /Jr/
+2 SURN Jr
+2 GIVN Arron Lee Patten
+1 BIRT
+2 DATE 23 MAY 1986
+2 PLAC Crossville, Tenn
+1 FAMC @F24@
+0 @I79@ INDI
+1 NAME Arron Lee /Patten/
+2 SURN Patten
+2 GIVN Arron Lee
+1 FAMS @F24@
+1 FAMS @F90@
+0 @I80@ INDI
+1 NAME Arron Lee /Patton/
+2 SURN Patton
+2 GIVN Arron Lee
+1 FAMS @F80@
+0 @I81@ INDI
+1 NAME Arthur M /Clark/
+2 SURN Clark
+2 GIVN Arthur M
+1 FAMS @F71@
+0 @I82@ INDI
+1 NAME Ashley /Ranft/
+2 SURN Ranft
+2 GIVN Ashley
+1 BIRT
+2 DATE 8 NOV 1987
+1 FAMS @F118@
+1 FAMC @F13@
+0 @I83@ INDI
+1 NAME Aurthur David /Caulkins/
+2 SURN Caulkins
+2 GIVN Aurthur David
+1 BIRT
+2 DATE AUG 1867
+2 PLAC Waukesha, Waukesha Cnty., Wisc.
+0 @I84@ INDI
+1 NAME Baby /Hieftje/
+2 SURN Hieftje
+2 GIVN Baby
+1 BIRT
+2 DATE 1889
+2 PLAC Grand Haven, MI
+0 @I85@ INDI
+1 NAME Bailey Mae /Tomes/
+2 SURN Tomes
+2 GIVN Bailey Mae
+1 BIRT
+2 DATE 22 JUL 2008
+2 PLAC Muskegon, Michigan
+1 FAMC @F25@
+0 @I86@ INDI
+1 NAME Barbara /Brown/
+2 SURN Brown
+2 GIVN Barbara
+1 BIRT
+2 DATE 27 SEP 1934
+2 PLAC Shorewood, Milwaukee, Wisconsin
+0 @I87@ INDI
+1 NAME Barbara /Sibley/
+2 SURN Sibley
+2 GIVN Barbara
+1 FAMS @F200@
+1 FAMS @F244@
+0 @I88@ INDI
+1 NAME Barbara Van /Houten/
+2 SURN Houten
+2 GIVN Barbara Van
+1 FAMS @F205@
+1 FAMC @F26@
+0 @I89@ INDI
+1 NAME Barbara Van /Houton/
+2 SURN Houton
+2 GIVN Barbara Van
+1 FAMS @F82@
+0 @I90@ INDI
+1 NAME Barbra /Clark/
+2 SURN Clark
+2 GIVN Barbra
+1 FAMS @F88@
+0 @I91@ INDI
+1 NAME Bearle Eastling /Jr/
+2 SURN Jr
+2 GIVN Bearle Eastling
+1 BIRT
+2 DATE DEC 1957
+2 PLAC Grand Haven, Michigan
+1 FAMC @F27@
+0 @I92@ INDI
+1 NAME Bearle /Eastling/
+2 SURN Eastling
+2 GIVN Bearle
+1 FAMS @F27@
+1 FAMS @F220@
+0 @I93@ INDI
+1 NAME Beau /Ranft/
+2 SURN Ranft
+2 GIVN Beau
+1 BIRT
+2 DATE 8 DEC 2020
+1 FAMC @F28@
+0 @I94@ INDI
+1 NAME Becky Tamara /Peck/
+2 SURN Peck
+2 GIVN Becky Tamara
+1 BIRT
+2 DATE 1964
+1 DEAT
+2 DATE 4 JAN 2001
+1 FAMC @F29@
+0 @I95@ INDI
+1 NAME Bert /Roper/
+2 SURN Roper
+2 GIVN Bert
+1 BIRT
+2 DATE 6 JUN 1875
+2 PLAC Chicago, Cook, Ill
+0 @I96@ INDI
+1 NAME Beth Louise /Plews/
+2 SURN Plews
+2 GIVN Beth Louise
+1 FAMS @F101@
+0 @I97@ INDI
+1 NAME Betty Van /Houton/
+2 SURN Houton
+2 GIVN Betty Van
+1 FAMS @F206@
+0 @I98@ INDI
+1 NAME Beverly /DeKorte/
+2 SURN DeKorte
+2 GIVN Beverly
+1 FAMS @F91@
+0 @I99@ INDI
+1 NAME Beverly Van /Houten/
+2 SURN Houten
+2 GIVN Beverly Van
+1 FAMS @F207@
+1 FAMC @F26@
+0 @I100@ INDI
+1 NAME Beverly Van /Houton/
+2 SURN Houton
+2 GIVN Beverly Van
+1 FAMS @F30@
+0 @I101@ INDI
+1 NAME Bianca /Allen/
+2 SURN Allen
+2 GIVN Bianca
+1 FAMC @F30@
+0 @I102@ INDI
+1 NAME Bobbie /Williams/
+2 SURN Williams
+2 GIVN Bobbie
+1 FAMS @F111@
+0 @I103@ INDI
+1 NAME Bonnie /Hieftje/
+2 SURN Hieftje
+2 GIVN Bonnie
+1 BIRT
+2 DATE FEB 1955
+1 FAMS @F99@
+1 FAMC @F31@
+0 @I104@ INDI
+1 NAME Brandon Douglas /Kennedy/
+2 SURN Kennedy
+2 GIVN Brandon Douglas
+1 BIRT
+2 DATE 11 JUL 2009
+2 PLAC Lansing, Michigan
+1 FAMC @F32@
+0 @I105@ INDI
+1 NAME Brandon Rey /DeLeon/
+2 SURN DeLeon
+2 GIVN Brandon Rey
+1 BIRT
+2 DATE 23 MAR 1999
+2 PLAC Holland, Michigan
+1 FAMC @F12@
+0 @I106@ INDI
+1 NAME Braydon /Devereaux/
+2 SURN Devereaux
+2 GIVN Braydon
+1 BIRT
+2 DATE 13 DEC 2006
+2 PLAC Holland, Michigan
+1 FAMC @F33@
+0 @I107@ INDI
+1 NAME Brazen /Starkweather/
+2 SURN Starkweather
+2 GIVN Brazen
+1 BIRT
+2 DATE 9 APR 2006
+2 PLAC New York
+1 FAMC @F34@
+0 @I108@ INDI
+1 NAME Brian /Starkweather/
+2 SURN Starkweather
+2 GIVN Brian
+1 BIRT
+2 DATE 8 JAN 1971
+2 PLAC Albian, New York
+1 FAMS @F208@
+1 FAMC @F35@
+0 @I109@ INDI
+1 NAME Brian /Vokal/
+2 SURN Vokal
+2 GIVN Brian
+1 FAMC @F36@
+0 @I110@ INDI
+1 NAME Brianna Nicole /DeLeon/
+2 SURN DeLeon
+2 GIVN Brianna Nicole
+1 BIRT
+1 FAMC @F12@
+0 @I111@ INDI
+1 NAME Brown & Chris /Vieau/
+2 SURN Vieau
+2 GIVN Brown & Chris
+1 FAMS @F123@
+0 @I112@ INDI
+1 NAME Bruce Martin /Sayers/
+2 SURN Sayers
+2 GIVN Bruce Martin
+1 BIRT
+2 DATE NOV 1956
+2 PLAC Ashhtabula, Ohio
+1 FAMC @F37@
+0 @I113@ INDI
+1 NAME Caralee Sue /Simmons/
+2 SURN Simmons
+2 GIVN Caralee Sue
+1 BIRT
+2 DATE 10 MAY 1929
+2 PLAC Quincy Adams Illinois
+1 DEAT
+2 DATE 13 APR 2001
+2 PLAC Springfield, Illinois
+1 FAMC @F38@
+0 @I114@ INDI
+1 NAME Carol E /Hieftje/
+2 SURN Hieftje
+2 GIVN Carol E
+1 BIRT
+2 DATE 9 JUL 1927
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 18 SEP 2006
+2 PLAC Ottawa Cnty, MI
+1 FAMC @F39@
+0 @I115@ INDI
+1 NAME Caryle Ann /Sluis/
+2 SURN Sluis
+2 GIVN Caryle Ann
+1 FAMS @F17@
+0 @I116@ INDI
+1 NAME Casey /Crain/
+2 SURN Crain
+2 GIVN Casey
+1 BIRT
+2 DATE 27 FEB 1987
+2 PLAC Grand Haven, Michigan
+1 FAMS @F209@
+1 FAMC @F8@
+0 @I117@ INDI
+1 NAME Cecelia /Brosseit/
+2 SURN Brosseit
+2 GIVN Cecelia
+1 FAMS @F78@
+0 @I118@ INDI
+1 NAME Cecilla /Brosseit/
+2 SURN Brosseit
+2 GIVN Cecilla
+1 BIRT
+2 DATE 1945
+2 PLAC Grand Haven, Michigan
+1 DEAT
+1 FAMS @F210@
+1 FAMC @F40@
+0 @I119@ INDI
+1 NAME Chad /Ranft/
+2 SURN Ranft
+2 GIVN Chad
+1 BIRT
+2 DATE 30 JUN 1982
+2 PLAC Niles, Michigan
+1 FAMS @F113@
+1 FAMC @F14@
+0 @I120@ INDI
+1 NAME Charles /Dumke/
+2 SURN Dumke
+2 GIVN Charles
+0 @I121@ INDI
+1 NAME Charles /Hieftje/
+2 SURN Hieftje
+2 GIVN Charles
+1 BIRT
+2 DATE 4 NOV 1958
+2 PLAC Belding, Mi
+1 FAMC @F41@
+0 @I122@ INDI
+1 NAME Charles J /Jobin/
+2 SURN Jobin
+2 GIVN Charles J
+1 BIRT
+2 DATE 1944
+1 FAMC @F42@
+0 @I123@ INDI
+1 NAME Charlie /Jankoviak/
+2 SURN Jankoviak
+2 GIVN Charlie
+1 BIRT
+2 DATE 5 MAY 2009
+1 FAMC @F43@
+0 @I124@ INDI
+1 NAME Charlie /Lentz/
+2 SURN Lentz
+2 GIVN Charlie
+1 FAMS @F75@
+1 FAMS @F219@
+0 @I125@ INDI
+1 NAME Charlotte Kay /Tie/
+2 SURN Tie
+2 GIVN Charlotte Kay
+1 FAMS @F166@
+0 @I126@ INDI
+1 NAME Charlotte Kay /Tiel/
+2 SURN Tiel
+2 GIVN Charlotte Kay
+1 FAMS @F174@
+0 @I127@ INDI
+1 NAME Chief Joseph Wakazoo passes /away/
+2 SURN away
+2 GIVN Chief Joseph Wakazoo passes
+1 DEAT
+2 DATE 1846
+0 @I128@ INDI
+1 NAME child /Gann/
+2 SURN Gann
+2 GIVN child
+1 FAMC @F44@
+0 @I129@ INDI
+1 NAME child /Gann/
+2 SURN Gann
+2 GIVN child
+1 FAMC @F44@
+0 @I130@ INDI
+1 NAME child (Joey asked to include his child that he never /knew)/
+2 SURN knew)
+2 GIVN child (Joey asked to include his child that he never
+1 BIRT
+2 PLAC 1981     Florida
+1 FAMC @F45@
+0 @I131@ INDI
+1 NAME Chris /Vieau/
+2 SURN Vieau
+2 GIVN Chris
+1 BIRT
+2 DATE 1978
+1 FAMC @F46@
+0 @I132@ INDI
+1 NAME Christian Matthew /Tomes/
+2 SURN Tomes
+2 GIVN Christian Matthew
+1 BIRT
+2 DATE 11 NOV 2014
+2 PLAC Grand Haven, Michigan
+1 FAMC @F47@
+0 @I133@ INDI
+1 NAME Christine Ten /Hagen/
+2 SURN Hagen
+2 GIVN Christine Ten
+1 FAMC @F48@
+0 @I134@ INDI
+1 NAME Cleo Lorene /Culver/
+2 SURN Culver
+2 GIVN Cleo Lorene
+0 @I135@ INDI
+1 NAME Connor /Taber/
+2 SURN Taber
+2 GIVN Connor
+1 BIRT
+2 DATE 23 JUN 1998
+2 PLAC Okinawa, Japan
+1 FAMC @F49@
+0 @I136@ INDI
+1 NAME Cornelis /Clamce/
+2 SURN Clamce
+2 GIVN Cornelis
+1 FAMS @F194@
+0 @I137@ INDI
+1 NAME Cornelis /Clarence/
+2 SURN Clarence
+2 GIVN Cornelis
+1 FAMS @F180@
+0 @I138@ INDI
+1 NAME Cornelius Jay Van /Houten/
+2 SURN Houten
+2 GIVN Cornelius Jay Van
+1 FAMS @F26@
+0 @I139@ INDI
+1 NAME Cynthia M /Fritz/
+2 SURN Fritz
+2 GIVN Cynthia M
+1 BIRT
+2 DATE 24 JUN 1956
+1 FAMC @F50@
+0 @I140@ INDI
+1 NAME Daisy E /Hieftje/
+2 SURN Hieftje
+2 GIVN Daisy E
+1 BIRT
+2 DATE 23 JUL 1891
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 7 JUL 1968
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F19@
+0 @I141@ INDI
+1 NAME Daniel Lyn /Pease/
+2 SURN Pease
+2 GIVN Daniel Lyn
+1 FAMS @F16@
+0 @I142@ INDI
+1 NAME Daniel /Pitts/
+2 SURN Pitts
+2 GIVN Daniel
+1 FAMS @F233@
+0 @I143@ INDI
+1 NAME Danil /Pitts/
+2 SURN Pitts
+2 GIVN Danil
+1 FAMS @F9@
+0 @I144@ INDI
+1 NAME Darrell J /Bliss/
+2 SURN Bliss
+2 GIVN Darrell J
+1 BIRT
+2 DATE 2 APR 1941
+2 PLAC Hammond, Indiana
+1 FAMC @F7@
+0 @I145@ INDI
+1 NAME dau /Cardoza/
+2 SURN Cardoza
+2 GIVN dau
+1 FAMC @F51@
+0 @I146@ INDI
+1 NAME daughter /Brown/
+2 SURN Brown
+2 GIVN daughter
+1 FAMC @F52@
+0 @I147@ INDI
+1 NAME daughter /Brown/
+2 SURN Brown
+2 GIVN daughter
+1 FAMC @F52@
+0 @I148@ INDI
+1 NAME daughter /Brown/
+2 SURN Brown
+2 GIVN daughter
+1 BIRT
+2 PLAC location     date
+1 FAMC @F52@
+0 @I149@ INDI
+1 NAME daughter //
+2 GIVN daughter
+0 @I150@ INDI
+1 NAME David /Fritz/
+2 SURN Fritz
+2 GIVN David
+1 BIRT
+2 DATE APR 1953
+2 PLAC Grand Haven, Michigan
+1 FAMC @F50@
+0 @I151@ INDI
+1 NAME David Lee /Fritz/
+2 SURN Fritz
+2 GIVN David Lee
+1 FAMS @F50@
+0 @I152@ INDI
+1 NAME David /Weeks/
+2 SURN Weeks
+2 GIVN David
+1 FAMS @F91@
+1 FAMS @F207@
+0 @I153@ INDI
+1 NAME Dawn M /Wellman/
+2 SURN Wellman
+2 GIVN Dawn M
+1 FAMC @F53@
+0 @I154@ INDI
+1 NAME Deborah J /Weller/
+2 SURN Weller
+2 GIVN Deborah J
+1 FAMS @F170@
+1 FAMS @F248@
+0 @I155@ INDI
+1 NAME Debra Lee /Floyd/
+2 SURN Floyd
+2 GIVN Debra Lee
+1 FAMS @F230@
+0 @I156@ INDI
+1 NAME Dell /Lockwood/
+2 SURN Lockwood
+2 GIVN Dell
+1 BIRT
+2 DATE 1940
+2 PLAC Oakland, Michigan
+1 FAMC @F54@
+0 @I157@ INDI
+1 NAME Denise Rene /Ranft/
+2 SURN Ranft
+2 GIVN Denise Rene
+1 BIRT
+2 DATE 12 NOV 1956
+2 PLAC Big Rapids, Michigan
+1 FAMS @F211@
+1 FAMC @F55@
+0 @I158@ INDI
+1 NAME Derek Van /Dame/
+2 SURN Dame
+2 GIVN Derek Van
+1 FAMS @F133@
+0 @I159@ INDI
+1 NAME Derick K /Damp/
+2 SURN Damp
+2 GIVN Derick K
+1 FAMS @F112@
+0 @I160@ INDI
+1 NAME Derk /Vokal/
+2 SURN Vokal
+2 GIVN Derk
+1 FAMS @F36@
+0 @I161@ INDI
+1 NAME Derkje Adriaansd /Schippers/
+2 SURN Schippers
+2 GIVN Derkje Adriaansd
+1 BIRT
+2 DATE 20 OCT 1819
+2 PLAC Goes, Zeeland, Netherlands
+1 FAMS @F171@
+1 FAMS @F172@
+0 @I162@ INDI
+1 NAME Derkje /Adriaansd/
+2 SURN Adriaansd
+2 GIVN Derkje
+1 DEAT
+2 DATE 7 JUN 1890
+2 PLAC Schippers VerBerkmoes Bril 10 dys    Grand Haven,  MI
+0 @I163@ INDI
+1 NAME Dianne /Gould/
+2 SURN Gould
+2 GIVN Dianne
+1 FAMS @F110@
+1 FAMS @F149@
+0 @I164@ INDI
+1 NAME Dina /Wisse/
+2 SURN Wisse
+2 GIVN Dina
+1 BIRT
+2 DATE 9 SEP 1935
+1 FAMC @F56@
+0 @I165@ INDI
+1 NAME Dionis /Stevens/
+2 SURN Stevens
+2 GIVN Dionis
+1 BIRT
+2 DATE 4 MAR 1610
+2 PLAC Brixton Parish, Devon, England
+1 FAMS @F2@
+0 @I166@ INDI
+1 NAME Donald /Brewer/
+2 SURN Brewer
+2 GIVN Donald
+1 BIRT
+2 DATE 30 MAR 1934
+2 PLAC Port Huron St Clair, MI
+1 DEAT
+2 DATE 9 JUN 1984
+2 PLAC Wyandotte, Wayne, MI
+1 FAMC @F57@
+0 @I167@ INDI
+1 NAME Donald Howard Ter /Acher/
+2 SURN Acher
+2 GIVN Donald Howard Ter
+1 BIRT
+2 DATE 15 JUL 1916
+2 PLAC Grand haven, MI
+0 @I168@ INDI
+1 NAME Donald Howard /TerArchter/
+2 SURN TerArchter
+2 GIVN Donald Howard
+1 BIRT
+2 DATE 15 JUL 1916
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 3 JUN 1978
+2 PLAC Flint, Michigan
+1 FAMS @F81@
+1 FAMC @F58@
+0 @I169@ INDI
+1 NAME Donald /Vail/
+2 SURN Vail
+2 GIVN Donald
+1 FAMS @F74@
+0 @I170@ INDI
+1 NAME Dora /Cruz/
+2 SURN Cruz
+2 GIVN Dora
+1 FAMS @F61@
+0 @I171@ INDI
+1 NAME Doris /Bosseiman/
+2 SURN Bosseiman
+2 GIVN Doris
+1 FAMS @F146@
+0 @I172@ INDI
+1 NAME Doris /Bosselman/
+2 SURN Bosselman
+2 GIVN Doris
+1 FAMS @F125@
+0 @I173@ INDI
+1 NAME Dorothy /\/
+2 SURN \
+2 GIVN Dorothy
+1 BIRT
+2 DATE 29 NOV 1931
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 16 FEB 1997
+1 FAMS @F212@
+1 FAMC @F59@
+0 @I174@ INDI
+1 NAME Dorthy Jeanne /Rezny/
+2 SURN Rezny
+2 GIVN Dorthy Jeanne
+1 FAMS @F139@
+0 @I175@ INDI
+1 NAME Dorthy M /King/
+2 SURN King
+2 GIVN Dorthy M
+1 FAMS @F59@
+0 @I176@ INDI
+1 NAME Douglas Eugene /Taber/
+2 SURN Taber
+2 GIVN Douglas Eugene
+1 FAMS @F15@
+1 FAMS @F235@
+0 @I177@ INDI
+1 NAME Draft /Registration/
+2 SURN Registration
+2 GIVN Draft
+0 @I178@ INDI
+1 NAME Duane J /Rezny/
+2 SURN Rezny
+2 GIVN Duane J
+1 BIRT
+2 DATE 31 MAY 1944
+2 PLAC Shelden Rd Maternity Home  Grand Haven, MI
+0 @I179@ INDI
+1 NAME Earl /Killoran/
+2 SURN Killoran
+2 GIVN Earl
+0 @I180@ INDI
+1 NAME Ed /DeKorte/
+2 SURN DeKorte
+2 GIVN Ed
+1 FAMS @F82@
+1 FAMS @F205@
+0 @I181@ INDI
+1 NAME Edith Ilene /Plant/
+2 SURN Plant
+2 GIVN Edith Ilene
+1 FAMS @F192@
+1 FAMS @F246@
+0 @I182@ INDI
+1 NAME Edith Rose Grand Haven, /MI/
+2 SURN MI
+2 GIVN Edith Rose Grand Haven,
+0 @I183@ INDI
+1 NAME Edith /Rose/
+2 SURN Rose
+2 GIVN Edith
+1 FAMS @F167@
+1 FAMS @F243@
+0 @I184@ INDI
+1 NAME Edith //
+2 GIVN Edith
+1 FAMS @F181@
+0 @I185@ INDI
+1 NAME Edna M /Claflin/
+2 SURN Claflin
+2 GIVN Edna M
+0 @I186@ INDI
+1 NAME Edward F /Abbott/
+2 SURN Abbott
+2 GIVN Edward F
+1 BIRT
+2 DATE 8 FEB 1868
+2 PLAC Hancock Cnty, Illinois
+1 FAMS @F251@
+0 @I187@ INDI
+1 NAME Edward L /Tassier/
+2 SURN Tassier
+2 GIVN Edward L
+1 FAMS @F21@
+0 @I188@ INDI
+1 NAME Edythe /unknown/
+2 SURN unknown
+2 GIVN Edythe
+0 @I189@ INDI
+1 NAME Elaine Dorthy /Meloche/
+2 SURN Meloche
+2 GIVN Elaine Dorthy
+1 FAMS @F93@
+0 @I190@ INDI
+1 NAME Eleanor /Schrier/
+2 SURN Schrier
+2 GIVN Eleanor
+1 FAMS @F136@
+1 FAMS @F214@
+0 @I191@ INDI
+1 NAME Elisabeth /Rogge/
+2 SURN Rogge
+2 GIVN Elisabeth
+1 FAMS @F155@
+0 @I192@ INDI
+1 NAME Elizabeth //
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 11 JAN 1852
+2 PLAC JOHANNA ROGGE    Goes, Goes, Zeeland, the  Netherlands
+0 @I193@ INDI
+1 NAME Elizabeth Ann /Webster/
+2 SURN Webster
+2 GIVN Elizabeth Ann
+1 BIRT
+2 DATE 20 DEC 1929
+2 PLAC Flint, Michigan
+1 DEAT
+2 DATE 24 FEB 2008
+2 PLAC Columbus, Ohio
+1 FAMC @F60@
+0 @I194@ INDI
+1 NAME Elizabeth Brianne /DeLeon/
+2 SURN DeLeon
+2 GIVN Elizabeth Brianne
+1 BIRT
+2 DATE 1 MAR 2002
+2 PLAC Holland, Michigan
+1 FAMC @F12@
+0 @I195@ INDI
+1 NAME Elizabeth Carnelisd /Harnick/
+2 SURN Harnick
+2 GIVN Elizabeth Carnelisd
+1 BIRT
+2 DATE 29 NOV 1797
+2 PLAC Goes, Zeeland, Netherlands
+1 FAMS @F154@
+1 FAMS @F254@
+0 @I196@ INDI
+1 NAME Elizabeth /Chase/
+2 SURN Chase
+2 GIVN Elizabeth
+1 FAMS @F35@
+0 @I197@ INDI
+1 NAME Elizabeth /Codde/
+2 SURN Codde
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 17 MAY 1683
+2 PLAC Hulst, Zeeland, Netherlands
+0 @I198@ INDI
+1 NAME Elizabeth Johanna /Rogge/
+2 SURN Rogge
+2 GIVN Elizabeth Johanna
+1 FAMS @F156@
+0 @I199@ INDI
+1 NAME Elizabeth /Kodde/
+2 SURN Kodde
+2 GIVN Elizabeth
+0 @I200@ INDI
+1 NAME Elizabeth Lillian /Hiefftje/
+2 SURN Hiefftje
+2 GIVN Elizabeth Lillian
+1 BIRT
+2 DATE 21 APR 1910
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 22 FEB 1977
+2 PLAC Muskegon, Muskegon, MI
+1 FAMC @F20@
+0 @I201@ INDI
+1 NAME Elizabeth /Mae/
+2 SURN Mae
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 11 MAY 1914
+2 PLAC Hammond,  Lake Cnty, Ind
+0 @I202@ INDI
+1 NAME Elizabeth /Weston/
+2 SURN Weston
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 1752
+2 PLAC Duxbury, Plymouth County or Colony, MA
+0 @I203@ INDI
+1 NAME Elsa Racine /DeLeon/
+2 SURN DeLeon
+2 GIVN Elsa Racine
+1 BIRT
+2 DATE 7 SEP 1992
+2 PLAC Harlingen, Texas
+1 FAMC @F61@
+0 @I204@ INDI
+1 NAME Emily /Gann/
+2 SURN Gann
+2 GIVN Emily
+1 BIRT
+2 DATE 1 MAR 1989
+2 PLAC William Air force Base  Mesa, Arizona
+1 FAMS @F51@
+1 FAMC @F62@
+0 @I205@ INDI
+1 NAME Emma Coffi /n/
+2 SURN n
+2 GIVN Emma Coffi
+0 @I206@ INDI
+1 NAME Emma Ida /Meil/
+2 SURN Meil
+2 GIVN Emma Ida
+0 @I207@ INDI
+1 NAME Emma Ida /Meinal/
+2 SURN Meinal
+2 GIVN Emma Ida
+1 FAMS @F184@
+0 @I208@ INDI
+1 NAME Emma Ida /Meinel/
+2 SURN Meinel
+2 GIVN Emma Ida
+1 BIRT
+2 DATE 4 OCT 1878
+2 PLAC Klingenthal, Sachesen, Germany
+1 FAMS @F236@
+0 @I209@ INDI
+1 NAME Emma Ida Meinel /Wheat/
+2 SURN Wheat
+2 GIVN Emma Ida Meinel
+1 DEAT
+2 DATE 6 OCT 1967
+2 PLAC Grand Haven, Ottawa, MI
+0 @I210@ INDI
+1 NAME Emma Lorene /Nance/
+2 SURN Nance
+2 GIVN Emma Lorene
+1 FAMS @F115@
+0 @I211@ INDI
+1 NAME Enoch Russell /Moore/
+2 SURN Moore
+2 GIVN Enoch Russell
+0 @I212@ INDI
+1 NAME Ethan Michael /Devereaux/
+2 SURN Devereaux
+2 GIVN Ethan Michael
+1 BIRT
+2 DATE 5 JAN 2003
+2 PLAC Grand Haven, Michigan
+1 FAMC @F33@
+0 @I213@ INDI
+1 NAME Eugene A /Simmons/
+2 SURN Simmons
+2 GIVN Eugene A
+1 FAMS @F38@
+1 FAMS @F213@
+0 @I214@ INDI
+1 NAME Eugene /Deephouse/
+2 SURN Deephouse
+2 GIVN Eugene
+1 BIRT
+2 DATE 12 JUL 1916
+2 PLAC Spring Lake, MI
+1 DEAT
+2 DATE 31 MAY 1973
+2 PLAC Bailey, Muskegon, MI
+1 FAMS @F124@
+1 FAMC @F63@
+0 @I215@ INDI
+1 NAME Eugene /Simons/
+2 SURN Simons
+2 GIVN Eugene
+1 BIRT
+2 DATE 1904
+2 PLAC Illinois
+0 @I216@ INDI
+1 NAME Evelyn /DeLeon/
+2 SURN DeLeon
+2 GIVN Evelyn
+1 BIRT
+2 DATE 5 JUN 2015
+2 PLAC Grand Haven, Michigan
+1 FAMC @F64@
+0 @I217@ INDI
+1 NAME Evelyn F /Mauness/
+2 SURN Mauness
+2 GIVN Evelyn F
+1 FAMS @F22@
+0 @I218@ INDI
+1 NAME Father //
+2 GIVN Father
+1 FAMS @F46@
+1 FAMS @F97@
+1 FAMS @F110@
+1 FAMS @F114@
+1 FAMS @F123@
+1 FAMS @F125@
+1 FAMS @F134@
+1 FAMS @F135@
+0 @I219@ INDI
+1 NAME Ferrysburg //
+2 GIVN Ferrysburg
+0 @I220@ INDI
+1 NAME Flord D /Brewer/
+2 SURN Brewer
+2 GIVN Flord D
+1 FAMS @F57@
+0 @I221@ INDI
+1 NAME Floyd D /Brewer/
+2 SURN Brewer
+2 GIVN Floyd D
+0 @I222@ INDI
+1 NAME Former President John Adams died at the age of /91/
+2 SURN 91
+2 GIVN Former President John Adams died at the age of
+1 DEAT
+2 DATE 4 JUL 1826
+0 @I223@ INDI
+1 NAME Frances Marie /Jobin/
+2 SURN Jobin
+2 GIVN Frances Marie
+1 BIRT
+2 DATE 25 AUG 1909
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 13 OCT 1999
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F54@
+1 FAMC @F65@
+0 @I224@ INDI
+1 NAME Francis Adle /Abbott/
+2 SURN Abbott
+2 GIVN Francis Adle
+1 BIRT
+2 DATE 1906
+2 PLAC Carthage, Illinois
+1 FAMS @F213@
+0 @I225@ INDI
+1 NAME Frank Chester /Harder/
+2 SURN Harder
+2 GIVN Frank Chester
+1 BIRT
+2 DATE 20 SEP 1869
+1 FAMC @F66@
+0 @I226@ INDI
+1 NAME Frank J /Rinn/
+2 SURN Rinn
+2 GIVN Frank J
+1 BIRT
+2 DATE 10 SEP 1879
+2 PLAC Jefferson City, Missouri
+1 FAMS @F239@
+0 @I227@ INDI
+1 NAME Frank P Jobin /Jr/
+2 SURN Jr
+2 GIVN Frank P Jobin
+1 BIRT
+2 DATE 11 FEB 1879
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 17 APR 1973
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F214@
+1 FAMC @F65@
+0 @I228@ INDI
+1 NAME Frank Patrick /Jobin/
+2 SURN Jobin
+2 GIVN Frank Patrick
+1 FAMS @F65@
+0 @I229@ INDI
+1 NAME Frank Patrick Tobin /Sr/
+2 SURN Sr
+2 GIVN Frank Patrick Tobin
+1 BIRT
+2 DATE 11 FEB 1879
+2 PLAC Grand Haven, MI
+0 @I230@ INDI
+1 NAME Frans /Wisse/
+2 SURN Wisse
+2 GIVN Frans
+1 FAMC @F56@
+0 @I231@ INDI
+1 NAME Frederick Grath /Hieftje/
+2 SURN Hieftje
+2 GIVN Frederick Grath
+1 BIRT
+2 DATE 13 FEB 1923
+2 PLAC Spring Lake, Michigan
+1 DEAT
+2 DATE 29 OCT 1969
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F215@
+1 FAMC @F39@
+0 @I232@ INDI
+1 NAME Freelin /name/
+2 SURN name
+2 GIVN Freelin
+1 FAMS @F120@
+0 @I233@ INDI
+1 NAME Frieda E C Lewke Lake Cnty, /Indiana/
+2 SURN Indiana
+2 GIVN Frieda E C Lewke Lake Cnty,
+0 @I234@ INDI
+1 NAME Frieda Emma Christine /Lewke/
+2 SURN Lewke
+2 GIVN Frieda Emma Christine
+1 FAMS @F160@
+1 FAMS @F255@
+0 @I235@ INDI
+1 NAME from Goes, Zeeland, /Netherlands/
+2 SURN Netherlands
+2 GIVN from Goes, Zeeland,
+0 @I236@ INDI
+1 NAME Gabrielle Elisa /Tomes/
+2 SURN Tomes
+2 GIVN Gabrielle Elisa
+1 BIRT
+2 DATE 2002
+2 PLAC Grand Haven, Michigan
+1 FAMC @F67@
+0 @I237@ INDI
+1 NAME Gene Delavigne /Jobin/
+2 SURN Jobin
+2 GIVN Gene Delavigne
+1 BIRT
+2 DATE 21 FEB 1916
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F42@
+1 FAMC @F65@
+0 @I238@ INDI
+1 NAME George Jerry /Schuur/
+2 SURN Schuur
+2 GIVN George Jerry
+0 @I239@ INDI
+1 NAME George Joseph /Rowell/
+2 SURN Rowell
+2 GIVN George Joseph
+1 BIRT
+2 DATE 10 JUN 1949
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 23 APR 2019
+2 PLAC Muskegon, Michigan
+1 FAMC @F68@
+0 @I240@ INDI
+1 NAME George McNamara G H, /MI/
+2 SURN MI
+2 GIVN George McNamara G H,
+0 @I241@ INDI
+1 NAME George /McNamara/
+2 SURN McNamara
+2 GIVN George
+1 FAMS @F104@
+0 @I242@ INDI
+1 NAME George Peck /III/
+2 SURN III
+2 GIVN George Peck
+1 BIRT
+2 DATE 18 AUG 1941
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F29@
+1 FAMC @F69@
+0 @I243@ INDI
+1 NAME George Peck /Jr/
+2 SURN Jr
+2 GIVN George Peck
+1 FAMS @F69@
+0 @I244@ INDI
+1 NAME George W /Roper/
+2 SURN Roper
+2 GIVN George W
+1 BIRT
+2 DATE 1838
+2 PLAC Illinois
+0 @I245@ INDI
+1 NAME Gerald Henry /Kooi/
+2 SURN Kooi
+2 GIVN Gerald Henry
+1 BIRT
+2 DATE 13 APR 1941
+2 PLAC Grand Rapids, MI
+1 DEAT
+2 DATE 27 SEP 2004
+2 PLAC Grand Rapids, MI
+1 FAMS @F83@
+1 FAMC @F70@
+0 @I246@ INDI
+1 NAME Gerald Lee /Clark/
+2 SURN Clark
+2 GIVN Gerald Lee
+1 BIRT
+2 DATE 20 JUN 1947
+2 PLAC Lake Worth, Palm Beach, Florida
+1 FAMC @F71@
+0 @I247@ INDI
+1 NAME Geremo /Villarreal/
+2 SURN Villarreal
+2 GIVN Geremo
+1 FAMS @F18@
+1 FAMS @F119@
+0 @I248@ INDI
+1 NAME Germaine Charles /Lockwood/
+2 SURN Lockwood
+2 GIVN Germaine Charles
+1 BIRT
+2 DATE 17 JUL 1930
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 12 JAN 1986
+2 PLAC Searcy, Arkansas
+1 FAMS @F115@
+1 FAMC @F54@
+0 @I249@ INDI
+1 NAME Germaine William /Lockwood/
+2 SURN Lockwood
+2 GIVN Germaine William
+1 BIRT
+2 DATE 17 OCT 1900
+2 PLAC Ontario, Canada
+1 FAMS @F54@
+0 @I250@ INDI
+1 NAME Gertrude /Hieftje/
+2 SURN Hieftje
+2 GIVN Gertrude
+1 BIRT
+2 DATE OCT 1884
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 1959
+2 PLAC Flint, Michigan
+1 FAMC @F19@
+0 @I251@ INDI
+1 NAME Gertrude Hieftje /23/
+2 SURN 23
+2 GIVN Gertrude Hieftje
+0 @I252@ INDI
+1 NAME Gertrude /Voogt/
+2 SURN Voogt
+2 GIVN Gertrude
+1 FAMS @F158@
+0 @I253@ INDI
+1 NAME Gertrude Yvone /Brewer/
+2 SURN Brewer
+2 GIVN Gertrude Yvone
+1 BIRT
+2 DATE 1931
+2 PLAC Flint, Mi
+1 FAMC @F57@
+0 @I254@ INDI
+1 NAME Gillian /Stafford/
+2 SURN Stafford
+2 GIVN Gillian
+1 FAMC @F72@
+0 @I255@ INDI
+1 NAME Gloria /Roussin/
+2 SURN Roussin
+2 GIVN Gloria
+1 BIRT
+2 DATE 17 JUN 1926
+2 PLAC Noblesville, Indiana
+1 FAMS @F245@
+0 @I256@ INDI
+1 NAME Grace /Mulder/
+2 SURN Mulder
+2 GIVN Grace
+1 FAMS @F163@
+1 FAMS @F182@
+0 @I257@ INDI
+1 NAME Grace /Reed/
+2 SURN Reed
+2 GIVN Grace
+1 FAMS @F81@
+0 @I258@ INDI
+1 NAME Grand Haven, /MI/
+2 SURN MI
+2 GIVN Grand Haven,
+0 @I259@ INDI
+1 NAME Grand Haven Ottawa Cnty /Michigan/
+2 SURN Michigan
+2 GIVN Grand Haven Ottawa Cnty
+0 @I260@ INDI
+1 NAME Grand /Rapids/
+2 SURN Rapids
+2 GIVN Grand
+0 @I261@ INDI
+1 NAME Green Ridge /Cemetery/
+2 SURN Cemetery
+2 GIVN Green Ridge
+0 @I262@ INDI
+1 NAME Gregory /Slovinski/
+2 SURN Slovinski
+2 GIVN Gregory
+1 FAMC @F73@
+0 @I263@ INDI
+1 NAME h 7458 N /Polk/
+2 SURN Polk
+2 GIVN h 7458 N
+0 @I264@ INDI
+1 NAME Halli /Vokal/
+2 SURN Vokal
+2 GIVN Halli
+1 BIRT
+2 DATE DEC 1975
+1 FAMC @F36@
+0 @I265@ INDI
+1 NAME Hank /Vail/
+2 SURN Vail
+2 GIVN Hank
+1 FAMC @F74@
+0 @I266@ INDI
+1 NAME Hanna Lentz /stepdaughter/
+2 SURN stepdaughter
+2 GIVN Hanna Lentz
+1 FAMC @F75@
+0 @I267@ INDI
+1 NAME Harley Sharra /Gordan/
+2 SURN Gordan
+2 GIVN Harley Sharra
+1 FAMC @F76@
+0 @I268@ INDI
+1 NAME Harriette /Smith/
+2 SURN Smith
+2 GIVN Harriette
+1 FAMS @F1@
+0 @I269@ INDI
+1 NAME Hazel Mae /Grindle/
+2 SURN Grindle
+2 GIVN Hazel Mae
+1 FAMS @F179@
+0 @I270@ INDI
+1 NAME Helen Catherine /Finch/
+2 SURN Finch
+2 GIVN Helen Catherine
+1 FAMS @F186@
+0 @I271@ INDI
+1 NAME Helen Eleanor /Dekker/
+2 SURN Dekker
+2 GIVN Helen Eleanor
+1 FAMS @F124@
+0 @I272@ INDI
+1 NAME Helen Jean /Plant/
+2 SURN Plant
+2 GIVN Helen Jean
+1 FAMS @F187@
+0 @I273@ INDI
+1 NAME Hendrika F van der Nood van /Drunen/
+2 SURN Drunen
+2 GIVN Hendrika F van der Nood van
+0 @I274@ INDI
+1 NAME Hendrika Francia Der /Nood/
+2 SURN Nood
+2 GIVN Hendrika Francia Der
+1 BIRT
+2 DATE 5 FEB 1856
+2 PLAC the Netherlands
+0 @I275@ INDI
+1 NAME Henrickie /Pruim/
+2 SURN Pruim
+2 GIVN Henrickie
+1 BIRT
+2 DATE 19 MAR 1876
+2 PLAC Spring Lake, Ottawa, MI
+0 @I276@ INDI
+1 NAME Henry /Deephouse/
+2 SURN Deephouse
+2 GIVN Henry
+1 FAMS @F63@
+0 @I277@ INDI
+1 NAME Henry /Howard/
+2 SURN Howard
+2 GIVN Henry
+0 @I278@ INDI
+1 NAME Henry /Kooi/
+2 SURN Kooi
+2 GIVN Henry
+1 FAMS @F70@
+0 @I279@ INDI
+1 NAME Henry Russel /Boyink/
+2 SURN Boyink
+2 GIVN Henry Russel
+1 BIRT
+2 DATE 21 MAY 1929
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 17 JUN 1929
+2 PLAC Grand haven, Ottawa, MI
+1 FAMS @F77@
+1 FAMC @F77@
+0 @I280@ INDI
+1 NAME Henry T /Schuur/
+2 SURN Schuur
+2 GIVN Henry T
+0 @I281@ INDI
+1 NAME Henry Ter /Archer/
+2 SURN Archer
+2 GIVN Henry Ter
+0 @I282@ INDI
+1 NAME Henry /TerArchter/
+2 SURN TerArchter
+2 GIVN Henry
+1 FAMS @F58@
+0 @I283@ INDI
+1 NAME Herbert Charles /Rowell/
+2 SURN Rowell
+2 GIVN Herbert Charles
+1 FAMS @F68@
+0 @I284@ INDI
+1 NAME Hermina Minka Van /Dyke/
+2 SURN Dyke
+2 GIVN Hermina Minka Van
+1 FAMS @F180@
+1 FAMS @F189@
+1 FAMS @F194@
+0 @I285@ INDI
+1 NAME Howard Lewis /Brown/
+2 SURN Brown
+2 GIVN Howard Lewis
+0 @I286@ INDI
+1 NAME Ida /Fisher/
+2 SURN Fisher
+2 GIVN Ida
+1 BIRT
+2 DATE 1890
+2 PLAC Holland, Michigan
+0 @I287@ INDI
+1 NAME Ida May /Johnson/
+2 SURN Johnson
+2 GIVN Ida May
+1 BIRT
+2 DATE 16 APR 1865
+2 PLAC Sheboygon, Sheboygan., Wisconsin
+0 @I288@ INDI
+1 NAME Infant /Webster/
+2 SURN Webster
+2 GIVN Infant
+1 FAMC @F60@
+0 @I289@ INDI
+1 NAME Isra /Hendon/
+2 SURN Hendon
+2 GIVN Isra
+1 FAMS @F118@
+0 @I290@ INDI
+1 NAME Jack /Phipps/
+2 SURN Phipps
+2 GIVN Jack
+1 BIRT
+2 DATE 21 OCT 1965
+2 PLAC Ottawa Cnty, Michigan
+1 FAMC @F78@
+0 @I291@ INDI
+1 NAME Jacob /Hieftje/
+2 SURN Hieftje
+2 GIVN Jacob
+1 BIRT
+2 DATE 10 SEP 1863
+2 PLAC Zeeland, Ottawa Cnty, MI
+1 FAMS @F19@
+1 FAMS @F240@
+0 @I292@ INDI
+1 NAME Jacoba (Cora) Tobiasd /Roozendaal/
+2 SURN Roozendaal
+2 GIVN Jacoba (Cora) Tobiasd
+1 BIRT
+2 DATE 1860
+2 PLAC Yerseke, Zeeland, the Netherlands
+0 @I293@ INDI
+1 NAME Jacoba Johanna /Donkersloot/
+2 SURN Donkersloot
+2 GIVN Jacoba Johanna
+0 @I294@ INDI
+1 NAME Jacoba /Roozendall/
+2 SURN Roozendall
+2 GIVN Jacoba
+1 FAMS @F188@
+0 @I295@ INDI
+1 NAME James /Hieftje/
+2 SURN Hieftje
+2 GIVN James
+1 BIRT
+2 DATE 25 JUL 1963
+1 FAMC @F41@
+0 @I296@ INDI
+1 NAME James /Ranft/
+2 SURN Ranft
+2 GIVN James
+1 BIRT
+2 DATE 2022
+1 FAMC @F28@
+0 @I297@ INDI
+1 NAME James Sugden /Stokes/
+2 SURN Stokes
+2 GIVN James Sugden
+1 FAMS @F109@
+0 @I298@ INDI
+1 NAME James William /Rezny/
+2 SURN Rezny
+2 GIVN James William
+1 BIRT
+2 DATE 8 SEP 1942
+2 PLAC Grand Haven, Michigan
+1 FAMS @F137@
+1 FAMC @F79@
+0 @I299@ INDI
+1 NAME James William Rezny Grand /Haven/
+2 SURN Haven
+2 GIVN James William Rezny Grand
+1 BIRT
+2 DATE 8 SEP 1942
+0 @I300@ INDI
+1 NAME Jamison /Patten/
+2 SURN Patten
+2 GIVN Jamison
+1 FAMC @F80@
+0 @I301@ INDI
+1 NAME Jan //
+2 GIVN Jan
+1 FAMS @F73@
+1 FAMS @F87@
+0 @I302@ INDI
+1 NAME Janna Arends /Holthuis/
+2 SURN Holthuis
+2 GIVN Janna Arends
+1 BIRT
+2 DATE 1782
+2 PLAC Halle, Drenthe, the Netherlands
+0 @I303@ INDI
+1 NAME Jean Annette /TerArchter/
+2 SURN TerArchter
+2 GIVN Jean Annette
+1 FAMC @F81@
+0 @I304@ INDI
+1 NAME Jeanette Louise /Leonard/
+2 SURN Leonard
+2 GIVN Jeanette Louise
+1 BIRT
+2 DATE 21 JAN 1879
+2 PLAC Chicago, Cook, Ill
+0 @I305@ INDI
+1 NAME Jeanette Louise Leonard /Roper/
+2 SURN Roper
+2 GIVN Jeanette Louise Leonard
+1 DEAT
+2 DATE 10 APR 1937
+2 PLAC Chicago, Cook, Ill
+0 @I306@ INDI
+1 NAME Jeanette /unknown/
+2 SURN unknown
+2 GIVN Jeanette
+1 FAMS @F256@
+0 @I307@ INDI
+1 NAME Jeanette /?/
+2 SURN ?
+2 GIVN Jeanette
+0 @I308@ INDI
+1 NAME Jeannie /DeKorte/
+2 SURN DeKorte
+2 GIVN Jeannie
+1 FAMC @F82@
+0 @I309@ INDI
+1 NAME Jeannie /unknown/
+2 SURN unknown
+2 GIVN Jeannie
+1 FAMS @F74@
+0 @I310@ INDI
+1 NAME Jeff /Kooi/
+2 SURN Kooi
+2 GIVN Jeff
+1 FAMC @F83@
+0 @I311@ INDI
+1 NAME Jeffrey Allen /Bullers/
+2 SURN Bullers
+2 GIVN Jeffrey Allen
+1 BIRT
+2 DATE 31 OCT 1958
+1 FAMC @F84@
+0 @I312@ INDI
+1 NAME Jeffrey Allen /Taber/
+2 SURN Taber
+2 GIVN Jeffrey Allen
+1 BIRT
+2 DATE 10 JUL 1970
+2 PLAC Lansing, Michigan
+1 FAMS @F96@
+1 FAMS @F111@
+1 FAMC @F15@
+0 @I313@ INDI
+1 NAME Jennie /Outman/
+2 SURN Outman
+2 GIVN Jennie
+0 @I314@ INDI
+1 NAME Jennie //
+2 GIVN Jennie
+1 FAMS @F113@
+0 @I315@ INDI
+1 NAME Jennifer Lynn /Westgate/
+2 SURN Westgate
+2 GIVN Jennifer Lynn
+1 BIRT
+2 DATE 25 DEC 1971
+2 PLAC Indiana
+1 DEAT
+2 DATE 25 DEC 1971
+2 PLAC Indiana
+1 FAMC @F85@
+0 @I316@ INDI
+1 NAME Jennifer /Rowell/
+2 SURN Rowell
+2 GIVN Jennifer
+0 @I317@ INDI
+1 NAME Jeremy /Jankoviak/
+2 SURN Jankoviak
+2 GIVN Jeremy
+1 FAMS @F43@
+0 @I318@ INDI
+1 NAME Jerry /TerArchter/
+2 SURN TerArchter
+2 GIVN Jerry
+1 FAMC @F81@
+0 @I319@ INDI
+1 NAME Jessica Lynne /Frost/
+2 SURN Frost
+2 GIVN Jessica Lynne
+1 BIRT
+2 DATE SEP 1989
+1 FAMC @F86@
+0 @I320@ INDI
+1 NAME Jessica /Pease/
+2 SURN Pease
+2 GIVN Jessica
+1 BIRT
+2 DATE OCT 1988
+2 PLAC Indiana
+1 FAMS @F16@
+1 FAMC @F16@
+0 @I321@ INDI
+1 NAME Jessie Lee /Crain/
+2 SURN Crain
+2 GIVN Jessie Lee
+1 BIRT
+2 DATE 23 SEP 1990
+2 PLAC Grand Haven, Michigan
+1 FAMS @F216@
+1 FAMC @F8@
+0 @I322@ INDI
+1 NAME Joan Advent /Babaut/
+2 SURN Babaut
+2 GIVN Joan Advent
+1 BIRT
+2 DATE SEP 1556
+2 PLAC Torbay Unitary Authority, Devon, England
+0 @I323@ INDI
+1 NAME Joan /Avent/
+2 SURN Avent
+2 GIVN Joan
+1 BIRT
+2 DATE SEP 1560
+2 PLAC Bulter's Parish,   Brixton, Devonshire, England
+0 @I324@ INDI
+1 NAME Joanne L /Laarman/
+2 SURN Laarman
+2 GIVN Joanne L
+1 FAMS @F127@
+0 @I325@ INDI
+1 NAME Jodi Leigh /Brosseit/
+2 SURN Brosseit
+2 GIVN Jodi Leigh
+1 BIRT
+2 DATE 1973
+2 PLAC Grand Haven, Michigan
+1 FAMC @F17@
+0 @I326@ INDI
+1 NAME Johanna (Anna) K /Fisher/
+2 SURN Fisher
+2 GIVN Johanna (Anna) K
+1 BIRT
+2 DATE 15 MAY 1878
+2 PLAC Grand Haven, Michigan
+0 @I327@ INDI
+1 NAME Johanna Elizabeth /Wiest/
+2 SURN Wiest
+2 GIVN Johanna Elizabeth
+0 @I328@ INDI
+1 NAME Johannes Fredrick /Heifjte/
+2 SURN Heifjte
+2 GIVN Johannes Fredrick
+1 DEAT
+2 DATE 12 DEC 1900
+2 PLAC Zeeland, MI
+0 @I329@ INDI
+1 NAME Johannes (Visser) /Fisher/
+2 SURN Fisher
+2 GIVN Johannes (Visser)
+1 BIRT
+2 DATE 1852
+2 PLAC Grand Haven, Ottawa, Michigan
+1 FAMC @F87@
+0 @I330@ INDI
+1 NAME John /A/
+2 SURN A
+2 GIVN John
+0 @I331@ INDI
+1 NAME John Adrian 1 m /1dy/
+2 SURN 1dy
+2 GIVN John Adrian 1 m
+1 DEAT
+2 DATE 6 SEP 1909
+2 PLAC Grand Haven  Ottawa Cnty, MI
+0 @I332@ INDI
+1 NAME John Edward /Verhey/
+2 SURN Verhey
+2 GIVN John Edward
+1 FAMS @F128@
+0 @I333@ INDI
+1 NAME John Fredrick /Hieftje/
+2 SURN Hieftje
+2 GIVN John Fredrick
+1 BIRT
+2 DATE 19 APR 1894
+2 PLAC Zeeland, Ottawa, MI
+1 DEAT
+2 DATE 9 OCT 1964
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F39@
+1 FAMC @F19@
+0 @I334@ INDI
+1 NAME John Henry /Fisher/
+2 SURN Fisher
+2 GIVN John Henry
+1 BIRT
+2 DATE 1 APR 1876
+2 PLAC Grand Haven, Ottawa, MI
+0 @I335@ INDI
+1 NAME John Herbert /Frayer/
+2 SURN Frayer
+2 GIVN John Herbert
+1 FAMS @F98@
+0 @I336@ INDI
+1 NAME John /Oren/
+2 SURN Oren
+2 GIVN John
+1 FAMS @F147@
+0 @I337@ INDI
+1 NAME John Robert /Brosseit/
+2 SURN Brosseit
+2 GIVN John Robert
+1 BIRT
+2 DATE 30 NOV 1958
+2 PLAC Grand Haven, Michigan
+1 FAMS @F22@
+1 FAMC @F88@
+0 @I338@ INDI
+1 NAME John William /Dietrich/
+2 SURN Dietrich
+2 GIVN John William
+1 FAMS @F99@
+0 @I339@ INDI
+1 NAME Jonathon Happy /Webster/
+2 SURN Webster
+2 GIVN Jonathon Happy
+1 BIRT
+2 DATE 11 MAR 1885
+2 PLAC Ohio City, West Virginia
+0 @I340@ INDI
+1 NAME Joseph Anten /Rezny/
+2 SURN Rezny
+2 GIVN Joseph Anten
+0 @I341@ INDI
+1 NAME Joseph David /Rezny/
+2 SURN Rezny
+2 GIVN Joseph David
+1 BIRT
+2 DATE 22 NOV 1964
+1 FAMC @F89@
+0 @I342@ INDI
+1 NAME Joseph Delisle /Jobin/
+2 SURN Jobin
+2 GIVN Joseph Delisle
+1 BIRT
+2 DATE 6 MAR 1914
+2 PLAC Michigan
+1 DEAT
+2 DATE 12 JUL 1997
+2 PLAC Michigan
+1 FAMC @F65@
+0 @I343@ INDI
+1 NAME Joseph Edward /Rezny/
+2 SURN Rezny
+2 GIVN Joseph Edward
+1 BIRT
+2 DATE 23 NOV 1934
+2 PLAC Grand Rapids, Michigan
+1 DEAT
+2 DATE 15 MAR 1993
+2 PLAC Grand Haven, Michigan
+1 FAMS @F89@
+1 FAMC @F59@
+0 @I344@ INDI
+1 NAME Joseph /Jerovsek/
+2 SURN Jerovsek
+2 GIVN Joseph
+1 FAMS @F102@
+0 @I345@ INDI
+1 NAME Joseph Lee /Patten/
+2 SURN Patten
+2 GIVN Joseph Lee
+1 BIRT
+2 DATE 9 SEP 2005
+2 PLAC Crossville, Tenn
+1 FAMC @F90@
+0 @I346@ INDI
+1 NAME Josh /Holland/
+2 SURN Holland
+2 GIVN Josh
+1 FAMS @F95@
+1 FAMS @F218@
+0 @I347@ INDI
+1 NAME Josh /Tomes/
+2 SURN Tomes
+2 GIVN Josh
+1 BIRT
+2 DATE 28 FEB 1975
+2 PLAC Greenville, MI
+0 @I348@ INDI
+1 NAME Joshua /Allen/
+2 SURN Allen
+2 GIVN Joshua
+1 FAMC @F30@
+0 @I349@ INDI
+1 NAME Joshua /Tomes/
+2 SURN Tomes
+2 GIVN Joshua
+1 FAMS @F25@
+1 FAMS @F47@
+1 FAMS @F67@
+1 FAMS @F216@
+0 @I350@ INDI
+1 NAME Josuha /Gann/
+2 SURN Gann
+2 GIVN Josuha
+1 BIRT
+2 DATE 30 MAR 1993
+2 PLAC Hill Air Force Base, Utah
+1 FAMS @F44@
+1 FAMS @F217@
+1 FAMC @F62@
+0 @I351@ INDI
+1 NAME Joyce Arlene /Zabelle/
+2 SURN Zabelle
+2 GIVN Joyce Arlene
+0 @I352@ INDI
+1 NAME Judah /Weeks/
+2 SURN Weeks
+2 GIVN Judah
+1 FAMC @F91@
+0 @I353@ INDI
+1 NAME Judith /Greenleaf/
+2 SURN Greenleaf
+2 GIVN Judith
+1 BIRT
+2 DATE 2 SEP 1625
+2 PLAC Ipswich, Suffolk, England
+1 FAMS @F4@
+0 @I354@ INDI
+1 NAME Judith Kaye West /Marquardt/
+2 SURN Marquardt
+2 GIVN Judith Kaye West
+1 FAMS @F195@
+1 FAMS @F196@
+1 FAMS @F250@
+0 @I355@ INDI
+1 NAME June Ann /Rowell/
+2 SURN Rowell
+2 GIVN June Ann
+1 BIRT
+2 DATE 12 AUG 1955
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 14 JUN 2018
+2 PLAC Grand Haven, Michigan
+1 FAMS @F108@
+1 FAMC @F68@
+0 @I356@ INDI
+1 NAME Kadence Kristopher /Tomes/
+2 SURN Tomes
+2 GIVN Kadence Kristopher
+1 BIRT
+2 DATE 11 NOV 2014
+2 PLAC Grand Haven, Michigan
+1 FAMC @F47@
+0 @I357@ INDI
+1 NAME Kamron /Kennedy/
+2 SURN Kennedy
+2 GIVN Kamron
+1 FAMS @F32@
+0 @I358@ INDI
+1 NAME Karen /Hieftje/
+2 SURN Hieftje
+2 GIVN Karen
+1 BIRT
+2 DATE 12 MAR 1957
+1 FAMC @F31@
+0 @I359@ INDI
+1 NAME Karen Kay /Spoelstra/
+2 SURN Spoelstra
+2 GIVN Karen Kay
+1 BIRT
+2 DATE 4 JUN 1939
+2 PLAC Michigan
+1 DEAT
+2 DATE 2017
+2 PLAC Englewood, Sarasota, Florida
+0 @I360@ INDI
+1 NAME Katherine /Lober/
+2 SURN Lober
+2 GIVN Katherine
+1 FAMC @F92@
+0 @I361@ INDI
+1 NAME Katherine Marie /Reid/
+2 SURN Reid
+2 GIVN Katherine Marie
+1 BIRT
+2 DATE 28 MAR 1904
+2 PLAC Union, MI
+1 FAMS @F242@
+0 @I362@ INDI
+1 NAME Kathleen Dawn /Hieftje/
+2 SURN Hieftje
+2 GIVN Kathleen Dawn
+1 BIRT
+2 DATE 20 MAR 1947
+2 PLAC Grand Rapids, Kent, MI
+1 FAMC @F93@
+0 @I363@ INDI
+1 NAME Kelly Ann /Bryant/
+2 SURN Bryant
+2 GIVN Kelly Ann
+1 BIRT
+2 DATE 1 NOV 1961
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F94@
+0 @I364@ INDI
+1 NAME Kelsey /Taber/
+2 SURN Taber
+2 GIVN Kelsey
+1 FAMS @F95@
+0 @I365@ INDI
+1 NAME Kelsey Taylor /Taber/
+2 SURN Taber
+2 GIVN Kelsey Taylor
+1 BIRT
+2 PLAC 2026     Alabama
+1 FAMS @F218@
+1 FAMC @F95@
+0 @I366@ INDI
+1 NAME Kenneth Duane /Westgate/
+2 SURN Westgate
+2 GIVN Kenneth Duane
+1 BIRT
+2 DATE 27 JAN 1946
+1 FAMS @F237@
+0 @I367@ INDI
+1 NAME Kennith Duane /Westgate/
+2 SURN Westgate
+2 GIVN Kennith Duane
+1 FAMS @F85@
+0 @I368@ INDI
+1 NAME Kennith /Taber/
+2 SURN Taber
+2 GIVN Kennith
+1 FAMC @F96@
+0 @I369@ INDI
+1 NAME Kenzie /Starkweather/
+2 SURN Starkweather
+2 GIVN Kenzie
+1 BIRT
+2 DATE 8 MAR 2008
+2 PLAC New York
+1 FAMC @F34@
+0 @I370@ INDI
+1 NAME Kieth /name/
+2 SURN name
+2 GIVN Kieth
+1 FAMC @F97@
+0 @I371@ INDI
+1 NAME Kristin /Stroble/
+2 SURN Stroble
+2 GIVN Kristin
+1 FAMS @F34@
+1 FAMS @F208@
+0 @I372@ INDI
+1 NAME Kristine Annette /Brosseit/
+2 SURN Brosseit
+2 GIVN Kristine Annette
+1 BIRT
+2 DATE 12 JAN 1970
+2 PLAC Grand Haven, Michigan
+1 FAMC @F17@
+0 @I373@ INDI
+1 NAME Kristine /Lober/
+2 SURN Lober
+2 GIVN Kristine
+1 BIRT
+2 DATE 1952
+1 FAMC @F92@
+0 @I374@ INDI
+1 NAME Larry Vail /stepson/
+2 SURN stepson
+2 GIVN Larry Vail
+1 FAMC @F74@
+0 @I375@ INDI
+1 NAME LeAnn Jane /Eiton/
+2 SURN Eiton
+2 GIVN LeAnn Jane
+1 FAMS @F83@
+0 @I376@ INDI
+1 NAME Lena Vander /Plassche/
+2 SURN Plassche
+2 GIVN Lena Vander
+0 @I377@ INDI
+1 NAME Leo /Frayer/
+2 SURN Frayer
+2 GIVN Leo
+1 BIRT
+2 DATE 27 SEP 1957
+2 PLAC Harrisville, Michigan
+1 DEAT
+2 DATE 17 JUL 1981
+2 PLAC Muskegon, Michigan
+1 FAMC @F98@
+0 @I378@ INDI
+1 NAME Leonard /Heidelberg/
+2 SURN Heidelberg
+2 GIVN Leonard
+0 @I379@ INDI
+1 NAME Liam /Stafford/
+2 SURN Stafford
+2 GIVN Liam
+0 @I380@ INDI
+1 NAME Lillah Ellen /Lockwood/
+2 SURN Lockwood
+2 GIVN Lillah Ellen
+1 BIRT
+2 DATE 1927
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 9 NOV 1927
+2 PLAC Norton Shores, Muskegon, MI
+1 FAMC @F54@
+0 @I381@ INDI
+1 NAME Lillian Viola /Saunders/
+2 SURN Saunders
+2 GIVN Lillian Viola
+1 FAMS @F20@
+1 FAMS @F204@
+0 @I382@ INDI
+1 NAME Lilliana /DeLeon/
+2 SURN DeLeon
+2 GIVN Lilliana
+1 BIRT
+2 DATE 15 MAR 2017
+2 PLAC Holland, Michigan
+1 FAMC @F64@
+0 @I383@ INDI
+1 NAME Lindsey /Dietrich/
+2 SURN Dietrich
+2 GIVN Lindsey
+1 BIRT
+2 DATE 1980
+1 FAMC @F99@
+0 @I384@ INDI
+1 NAME Lisa Marie Crum /Vail/
+2 SURN Vail
+2 GIVN Lisa Marie Crum
+1 BIRT
+2 DATE 24 AUG 1962
+2 PLAC Grand Haven, Michigan
+1 FAMS @F24@
+1 FAMC @F100@
+0 @I385@ INDI
+1 NAME Lon Fredrick /Hieftje/
+2 SURN Hieftje
+2 GIVN Lon Fredrick
+1 BIRT
+2 DATE 26 JUL 1948
+1 DEAT
+2 DATE 25 MAR 2008
+2 PLAC Michigan
+1 FAMS @F101@
+1 FAMC @F31@
+0 @I386@ INDI
+1 NAME Lorene Cleo /Culver/
+2 SURN Culver
+2 GIVN Lorene Cleo
+1 FAMS @F164@
+1 FAMS @F197@
+1 FAMS @F238@
+0 @I387@ INDI
+1 NAME Louis F /Hieftje/
+2 SURN Hieftje
+2 GIVN Louis F
+1 FAMC @F101@
+0 @I388@ INDI
+1 NAME Luanne Vail /stepdaughter/
+2 SURN stepdaughter
+2 GIVN Luanne Vail
+1 FAMS @F219@
+1 FAMC @F74@
+0 @I389@ INDI
+1 NAME Luanne /Vail/
+2 SURN Vail
+2 GIVN Luanne
+1 FAMS @F75@
+0 @I390@ INDI
+1 NAME Lucille M /Sebelski/
+2 SURN Sebelski
+2 GIVN Lucille M
+1 FAMS @F175@
+0 @I391@ INDI
+1 NAME Lucy /Jankoviak/
+2 SURN Jankoviak
+2 GIVN Lucy
+1 BIRT
+2 DATE 20 DEC 2011
+2 PLAC Niles, Michigan
+1 FAMC @F43@
+0 @I392@ INDI
+1 NAME Lucy /Kitson/
+2 SURN Kitson
+2 GIVN Lucy
+1 FAMS @F107@
+0 @I393@ INDI
+1 NAME Luella Kathern /Rittersdorf/
+2 SURN Rittersdorf
+2 GIVN Luella Kathern
+1 FAMS @F105@
+0 @I394@ INDI
+1 NAME Lyda Fredricka /Fisher/
+2 SURN Fisher
+2 GIVN Lyda Fredricka
+1 BIRT
+2 DATE 16 JAN 1883
+2 PLAC Grand Haven, Ottawa, Michigan
+0 @I395@ INDI
+1 NAME Mabel Olive /Claflin/
+2 SURN Claflin
+2 GIVN Mabel Olive
+0 @I396@ INDI
+1 NAME Madison Haley /Taber/
+2 SURN Taber
+2 GIVN Madison Haley
+1 BIRT
+2 DATE 30 OCT 1996
+2 PLAC Uma, Arizonia
+1 FAMC @F49@
+0 @I397@ INDI
+1 NAME Magdalena Van Der /Plassche/
+2 SURN Plassche
+2 GIVN Magdalena Van Der
+1 BIRT
+2 DATE 21 MAR 1889
+2 PLAC Grode, Sluis Municipally, Zeeland
+0 @I398@ INDI
+1 NAME Magdalena /VanDerPlassche/
+2 SURN VanDerPlassche
+2 GIVN Magdalena
+0 @I399@ INDI
+1 NAME MagDelena /VanDerPlassche/
+2 SURN VanDerPlassche
+2 GIVN MagDelena
+1 FAMS @F169@
+0 @I400@ INDI
+1 NAME Margaret /Kooi/
+2 SURN Kooi
+2 GIVN Margaret
+1 FAMC @F83@
+0 @I401@ INDI
+1 NAME Margaret Wood /Sayers/
+2 SURN Sayers
+2 GIVN Margaret Wood
+1 BIRT
+2 DATE 18 SEP 1902
+2 PLAC Elk Garden, West Virginia
+1 FAMS @F157@
+0 @I402@ INDI
+1 NAME Maria Criselda /DeLeon/
+2 SURN DeLeon
+2 GIVN Maria Criselda
+1 FAMS @F12@
+0 @I403@ INDI
+1 NAME Maria Julia /Villarreal/
+2 SURN Villarreal
+2 GIVN Maria Julia
+1 BIRT
+2 DATE 3 AUG 2002
+2 PLAC Lansing, Michigan
+1 FAMC @F18@
+0 @I404@ INDI
+1 NAME Maria Louisa /Snavely/
+2 SURN Snavely
+2 GIVN Maria Louisa
+1 BIRT
+2 DATE JUL 1844
+2 PLAC Gardner Twp. Door, Wisconsin
+0 @I405@ INDI
+1 NAME Maria /Waterman/
+2 SURN Waterman
+2 GIVN Maria
+1 FAMS @F96@
+0 @I406@ INDI
+1 NAME Marian Ruth /Hieftje/
+2 SURN Hieftje
+2 GIVN Marian Ruth
+1 BIRT
+2 DATE 1 SEP 1924
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 4 NOV 1981
+2 PLAC Muskegon, Muskegon, MI
+1 FAMS @F102@
+1 FAMC @F39@
+0 @I407@ INDI
+1 NAME Marianne /Jerovsek/
+2 SURN Jerovsek
+2 GIVN Marianne
+1 BIRT
+2 DATE 27 MAR 1945
+2 PLAC Grand Haven, Michigan
+1 FAMS @F36@
+1 FAMC @F102@
+0 @I408@ INDI
+1 NAME Marie Mildred /Nichols/
+2 SURN Nichols
+2 GIVN Marie Mildred
+1 BIRT
+2 DATE 4 SEP 1903
+2 PLAC Whitehall, Muskegon, MI
+1 FAMS @F84@
+1 FAMS @F247@
+0 @I409@ INDI
+1 NAME Marie /Schuenke/
+2 SURN Schuenke
+2 GIVN Marie
+0 @I410@ INDI
+1 NAME Marilyn /Brosseit/
+2 SURN Brosseit
+2 GIVN Marilyn
+1 BIRT
+2 DATE 7 FEB 1939
+2 PLAC Grand Haven, Michigan
+1 FAMS @F220@
+0 @I411@ INDI
+1 NAME Marilyn Lee /Joseph/
+2 SURN Joseph
+2 GIVN Marilyn Lee
+1 FAMS @F89@
+0 @I412@ INDI
+1 NAME Marinus /Wise/
+2 SURN Wise
+2 GIVN Marinus
+1 BIRT
+2 DATE 1890
+2 PLAC Kattendjke, Zeeland, the Netherlands
+0 @I413@ INDI
+1 NAME Marinus /Wisse/
+2 SURN Wisse
+2 GIVN Marinus
+1 FAMS @F56@
+0 @I414@ INDI
+1 NAME Marion Maria /Fisher/
+2 SURN Fisher
+2 GIVN Marion Maria
+1 BIRT
+2 DATE 2 JUL 1905
+2 PLAC Grand Haven, MI
+0 @I415@ INDI
+1 NAME Maris /DeKorte/
+2 SURN DeKorte
+2 GIVN Maris
+1 FAMC @F82@
+0 @I416@ INDI
+1 NAME Marjorie Ann /Brosseit/
+2 SURN Brosseit
+2 GIVN Marjorie Ann
+1 BIRT
+2 DATE 7 NOV 1943
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 6 MAY 2019
+2 PLAC Grand Haven, Michigan
+1 FAMC @F40@
+0 @I417@ INDI
+1 NAME Mark Steven /Amador-Sperry/
+2 SURN Amador-Sperry
+2 GIVN Mark Steven
+1 BIRT
+2 DATE 9 FEB 1969
+2 PLAC Geneva, Ohio
+1 FAMC @F103@
+0 @I418@ INDI
+1 NAME Martha /Chapman/
+2 SURN Chapman
+2 GIVN Martha
+1 BIRT
+2 DATE 11 AUG 1749
+2 PLAC Stratham, Rockingham, NH
+0 @I419@ INDI
+1 NAME Martha /Koomen/
+2 SURN Koomen
+2 GIVN Martha
+1 FAMS @F159@
+0 @I420@ INDI
+1 NAME Marva Jean /McNamara/
+2 SURN McNamara
+2 GIVN Marva Jean
+1 BIRT
+2 DATE 22 SEP 1926
+1 FAMS @F109@
+1 FAMC @F104@
+0 @I421@ INDI
+1 NAME Mary /Boscawen/
+2 SURN Boscawen
+2 GIVN Mary
+1 BIRT
+2 DATE 20 JAN 1542
+2 PLAC St Michael, Penkivel, Cornwell, England
+1 FAMS @F5@
+0 @I422@ INDI
+1 NAME Mary E /Tassier/
+2 SURN Tassier
+2 GIVN Mary E
+1 BIRT
+2 DATE 1946
+1 FAMC @F21@
+0 @I423@ INDI
+1 NAME Mary Lou /Hieftje/
+2 SURN Hieftje
+2 GIVN Mary Lou
+1 BIRT
+2 DATE 1931
+1 FAMS @F92@
+1 FAMC @F105@
+0 @I424@ INDI
+1 NAME Mary M /McNamara/
+2 SURN McNamara
+2 GIVN Mary M
+1 BIRT
+2 DATE 29 OCT 1923
+2 PLAC Windsor, Ontario, Canada
+1 DEAT
+2 DATE 4 MAR 2002
+2 PLAC Windsor
+1 FAMS @F138@
+1 FAMC @F104@
+0 @I425@ INDI
+1 NAME Mary /Rawlins/
+2 SURN Rawlins
+2 GIVN Mary
+1 BIRT
+2 DATE 10 JUL 1709
+2 PLAC Straham, Rockingham, NH
+0 @I426@ INDI
+1 NAME Mary /Saverance/
+2 SURN Saverance
+2 GIVN Mary
+0 @I427@ INDI
+1 NAME Maxwell /Taber/
+2 SURN Taber
+2 GIVN Maxwell
+1 BIRT
+2 DATE 17 MAY 1917
+2 PLAC Okinawa, Japan
+1 FAMC @F49@
+0 @I428@ INDI
+1 NAME Mayme M /Scofield/
+2 SURN Scofield
+2 GIVN Mayme M
+0 @I429@ INDI
+1 NAME Melissa Lyn /Chapman/
+2 SURN Chapman
+2 GIVN Melissa Lyn
+1 FAMS @F161@
+0 @I430@ INDI
+1 NAME Melissa /unknown/
+2 SURN unknown
+2 GIVN Melissa
+1 FAMS @F80@
+0 @I431@ INDI
+1 NAME Melody /Frayer/
+2 SURN Frayer
+2 GIVN Melody
+1 BIRT
+2 DATE 21 OCT 1960
+2 PLAC Tawa City, Michigan
+1 FAMS @F46@
+1 FAMC @F98@
+0 @I432@ INDI
+1 NAME Memphis /Hamilton/
+2 SURN Hamilton
+2 GIVN Memphis
+1 BIRT
+2 PLAC Lansing, Michigan
+1 FAMC @F106@
+0 @I433@ INDI
+1 NAME Mercy /Littlefield/
+2 SURN Littlefield
+2 GIVN Mercy
+1 BIRT
+2 DATE 1783
+2 PLAC Freeport, Cumberland, ME
+0 @I434@ INDI
+1 NAME Meredith Lynn /Jobin/
+2 SURN Jobin
+2 GIVN Meredith Lynn
+1 BIRT
+2 DATE 16 AUG 1976
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F107@
+0 @I435@ INDI
+1 NAME Michael David /Fritz/
+2 SURN Fritz
+2 GIVN Michael David
+1 BIRT
+2 DATE APR 1953
+1 FAMC @F50@
+0 @I436@ INDI
+1 NAME Michael David /Taber/
+2 SURN Taber
+2 GIVN Michael David
+1 BIRT
+2 DATE 8 JUN 1976
+2 PLAC Lansing, Michigan
+1 FAMS @F49@
+1 FAMC @F15@
+0 @I437@ INDI
+1 NAME Michael Johnson /II/
+2 SURN II
+2 GIVN Michael Johnson
+1 FAMC @F108@
+0 @I438@ INDI
+1 NAME Michael /Pitts/
+2 SURN Pitts
+2 GIVN Michael
+1 FAMC @F9@
+0 @I439@ INDI
+1 NAME Michael /Ranft/
+2 SURN Ranft
+2 GIVN Michael
+1 FAMC @F13@
+0 @I440@ INDI
+1 NAME Michael Steven /Gann/
+2 SURN Gann
+2 GIVN Michael Steven
+1 FAMS @F62@
+1 FAMS @F229@
+0 @I441@ INDI
+1 NAME Michael /Stokes/
+2 SURN Stokes
+2 GIVN Michael
+1 BIRT
+2 DATE 1958
+1 FAMC @F109@
+0 @I442@ INDI
+1 NAME Micheal /Johnson/
+2 SURN Johnson
+2 GIVN Micheal
+1 FAMS @F108@
+0 @I443@ INDI
+1 NAME Michelle Cory /Johnson/
+2 SURN Johnson
+2 GIVN Michelle Cory
+1 FAMC @F108@
+0 @I444@ INDI
+1 NAME Mickey /name/
+2 SURN name
+2 GIVN Mickey
+1 FAMC @F110@
+0 @I445@ INDI
+1 NAME Mildred Charlotte /TerAcher/
+2 SURN TerAcher
+2 GIVN Mildred Charlotte
+0 @I446@ INDI
+1 NAME Mildred Charlotte /TerArchter/
+2 SURN TerArchter
+2 GIVN Mildred Charlotte
+1 BIRT
+2 DATE 7 JUL 1910
+2 PLAC Flint, Michigan
+1 FAMS @F57@
+1 FAMC @F58@
+0 @I447@ INDI
+1 NAME Molly a /Turner/
+2 SURN Turner
+2 GIVN Molly a
+1 FAMS @F23@
+0 @I448@ INDI
+1 NAME Molly /Jobin/
+2 SURN Jobin
+2 GIVN Molly
+1 BIRT
+2 DATE JUL 1978
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F107@
+0 @I449@ INDI
+1 NAME Monika Mae /Taber/
+2 SURN Taber
+2 GIVN Monika Mae
+1 BIRT
+2 PLAC 14, 1998
+1 FAMS @F32@
+1 FAMS @F106@
+1 FAMC @F111@
+0 @I450@ INDI
+1 NAME Moss Ridge /Cemetery/
+2 SURN Cemetery
+2 GIVN Moss Ridge
+0 @I451@ INDI
+1 NAME mother //
+2 GIVN mother
+1 FAMS @F44@
+1 FAMS @F45@
+1 FAMS @F52@
+1 FAMS @F97@
+1 FAMS @F153@
+0 @I452@ INDI
+1 NAME N /Hieftje/
+2 SURN Hieftje
+2 GIVN N
+1 BIRT
+2 DATE 1889
+1 FAMC @F19@
+0 @I453@ INDI
+1 NAME name /Damp/
+2 SURN Damp
+2 GIVN name
+1 FAMC @F112@
+0 @I454@ INDI
+1 NAME name /Damp/
+2 SURN Damp
+2 GIVN name
+1 FAMC @F112@
+0 @I455@ INDI
+1 NAME name /Damp/
+2 SURN Damp
+2 GIVN name
+1 FAMC @F112@
+0 @I456@ INDI
+1 NAME name /Frost/
+2 SURN Frost
+2 GIVN name
+1 FAMS @F86@
+0 @I457@ INDI
+1 NAME name /Ranft/
+2 SURN Ranft
+2 GIVN name
+1 FAMC @F113@
+0 @I458@ INDI
+1 NAME name /Ranft/
+2 SURN Ranft
+2 GIVN name
+1 FAMC @F113@
+0 @I459@ INDI
+1 NAME name //
+2 GIVN name
+1 FAMS @F221@
+1 FAMC @F114@
+0 @I460@ INDI
+1 NAME Nancy /Lockwood/
+2 SURN Lockwood
+2 GIVN Nancy
+1 BIRT
+2 DATE 1960
+1 DEAT
+2 DATE 2025
+1 FAMC @F115@
+0 @I461@ INDI
+1 NAME Nancy /name/
+2 SURN name
+2 GIVN Nancy
+1 BIRT
+1 FAMC @F110@
+0 @I462@ INDI
+1 NAME Nancy Sue /Saunders/
+2 SURN Saunders
+2 GIVN Nancy Sue
+1 BIRT
+2 DATE 13 JAN 1962
+2 PLAC Hammond, Indiana
+1 FAMS @F114@
+1 FAMS @F221@
+1 FAMC @F116@
+0 @I463@ INDI
+1 NAME Natalie /Ranft/
+2 SURN Ranft
+2 GIVN Natalie
+1 BIRT
+2 DATE 1980
+2 PLAC Niles, Michigan
+1 FAMS @F222@
+1 FAMC @F117@
+0 @I464@ INDI
+1 NAME Nathan //
+2 GIVN Nathan
+1 FAMC @F91@
+0 @I465@ INDI
+1 NAME Nathanand Anthony /Brosseit/
+2 SURN Brosseit
+2 GIVN Nathanand Anthony
+1 BIRT
+2 DATE NOV 1995
+2 PLAC date  location
+1 FAMC @F22@
+0 @I466@ INDI
+1 NAME Navaeh /Hendon/
+2 SURN Hendon
+2 GIVN Navaeh
+1 FAMC @F118@
+0 @I467@ INDI
+1 NAME Nellie Jean /Hieftje/
+2 SURN Hieftje
+2 GIVN Nellie Jean
+1 BIRT
+2 DATE 27 OCT 1931
+2 PLAC MI
+1 DEAT
+2 DATE 30 SEP 2002
+2 PLAC Spring Lake, Ottawa, MI
+1 FAMC @F39@
+0 @I468@ INDI
+1 NAME Nellie /Richardson/
+2 SURN Richardson
+2 GIVN Nellie
+1 FAMS @F39@
+0 @I469@ INDI
+1 NAME Nia /Hendon/
+2 SURN Hendon
+2 GIVN Nia
+1 FAMC @F118@
+0 @I470@ INDI
+1 NAME Nicholis /Lober/
+2 SURN Lober
+2 GIVN Nicholis
+1 BIRT
+2 DATE 18 JAN 1955
+1 FAMC @F92@
+0 @I471@ INDI
+1 NAME Nicholis Villarreal /stepson/
+2 SURN stepson
+2 GIVN Nicholis Villarreal
+1 FAMC @F119@
+0 @I472@ INDI
+1 NAME Nicole Leigh /Ranft/
+2 SURN Ranft
+2 GIVN Nicole Leigh
+1 BIRT
+2 DATE 20 AUG 1979
+2 PLAC Niles, Michigan
+1 FAMS @F223@
+1 FAMC @F120@
+0 @I473@ INDI
+1 NAME Noah Wyatt /Tomes/
+2 SURN Tomes
+2 GIVN Noah Wyatt
+1 BIRT
+2 DATE 6 AUG 2018
+2 PLAC Muskegon, Michigan
+1 FAMC @F47@
+0 @I474@ INDI
+1 NAME Norman /Lockwood/
+2 SURN Lockwood
+2 GIVN Norman
+1 BIRT
+2 DATE 1936
+2 PLAC Michigan
+1 DEAT
+2 DATE 29 DEC 2017
+2 PLAC Coldwater, Michigan
+1 FAMC @F54@
+0 @I475@ INDI
+1 NAME Oliver /Hamilton/
+2 SURN Hamilton
+2 GIVN Oliver
+1 BIRT
+2 PLAC Lansing, Michigan
+1 FAMC @F106@
+0 @I476@ INDI
+1 NAME Omar /Cordoza/
+2 SURN Cordoza
+2 GIVN Omar
+1 FAMS @F51@
+1 FAMS @F130@
+0 @I477@ INDI
+1 NAME Opal Marie /Cartwright/
+2 SURN Cartwright
+2 GIVN Opal Marie
+1 BIRT
+2 DATE 4 MAR 1908
+2 PLAC Marion Indiana
+1 FAMS @F241@
+0 @I478@ INDI
+1 NAME Orpha F /Weldon/
+2 SURN Weldon
+2 GIVN Orpha F
+1 BIRT
+2 DATE 28 SEP 1885
+2 PLAC Kanas
+1 FAMS @F201@
+0 @I479@ INDI
+1 NAME Orville Charles /Rutledge/
+2 SURN Rutledge
+2 GIVN Orville Charles
+1 FAMS @F252@
+0 @I480@ INDI
+1 NAME Orville John /Bliss/
+2 SURN Bliss
+2 GIVN Orville John
+1 FAMS @F7@
+0 @I481@ INDI
+1 NAME Parsons /Fodrocy/
+2 SURN Fodrocy
+2 GIVN Parsons
+1 FAMS @F25@
+0 @I482@ INDI
+1 NAME Patricia /Carter/
+2 SURN Carter
+2 GIVN Patricia
+1 FAMS @F98@
+1 FAMS @F151@
+0 @I483@ INDI
+1 NAME Patricia /Grimms/
+2 SURN Grimms
+2 GIVN Patricia
+1 FAMS @F86@
+1 FAMS @F150@
+0 @I484@ INDI
+1 NAME Patrick Lewis /Ranft/
+2 SURN Ranft
+2 GIVN Patrick Lewis
+1 BIRT
+2 DATE 17 MAY 1962
+2 PLAC Niles, Michigan
+1 FAMS @F117@
+1 FAMC @F55@
+0 @I485@ INDI
+1 NAME Patrick Lewis Ranft /Jr/
+2 SURN Jr
+2 GIVN Patrick Lewis Ranft
+1 BIRT
+2 DATE 10 MAY 1995
+2 PLAC Ventura, California
+1 FAMC @F117@
+0 @I486@ INDI
+1 NAME Patti /Shore/
+2 SURN Shore
+2 GIVN Patti
+1 BIRT
+2 DATE 9 MAR 1942
+2 PLAC Ohio
+1 DEAT
+2 DATE 11 DEC 2018
+1 FAMS @F103@
+1 FAMC @F121@
+0 @I487@ INDI
+1 NAME Patton /Hamilton/
+2 SURN Hamilton
+2 GIVN Patton
+1 BIRT
+2 PLAC Lansing, Michigan
+1 FAMC @F106@
+0 @I488@ INDI
+1 NAME Paul David /Jobin/
+2 SURN Jobin
+2 GIVN Paul David
+1 BIRT
+2 DATE 23 OCT 1947
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 9 AUG 1988
+2 PLAC Spring Lake, Ottawa, MI
+1 FAMS @F107@
+1 FAMC @F42@
+0 @I489@ INDI
+1 NAME Paul /DeKorte/
+2 SURN DeKorte
+2 GIVN Paul
+1 FAMC @F82@
+0 @I490@ INDI
+1 NAME Pearle Jane /Wilson/
+2 SURN Wilson
+2 GIVN Pearle Jane
+1 FAMS @F198@
+0 @I491@ INDI
+1 NAME Peter /Harder/
+2 SURN Harder
+2 GIVN Peter
+1 FAMS @F66@
+0 @I492@ INDI
+1 NAME Peter N /Loper/
+2 SURN Loper
+2 GIVN Peter N
+1 FAMS @F92@
+0 @I493@ INDI
+1 NAME Philip Germaine /Lockwood/
+2 SURN Lockwood
+2 GIVN Philip Germaine
+1 BIRT
+2 DATE 24 OCT 1958
+2 PLAC Detroit, Wayne, MI
+1 DEAT
+2 DATE 12 JAN 1986
+2 PLAC Searcy, Arkansas
+1 FAMC @F115@
+0 @I494@ INDI
+1 NAME Philip /Hamilton/
+2 SURN Hamilton
+2 GIVN Philip
+1 FAMS @F106@
+0 @I495@ INDI
+1 NAME Pieternella Jacoba Hendriksd /Botbijl/
+2 SURN Botbijl
+2 GIVN Pieternella Jacoba Hendriksd
+1 BIRT
+2 DATE 16 SEP 1862
+2 PLAC Zierikzee, Zeeland, The Netherlands
+1 FAMS @F162@
+0 @I496@ INDI
+1 NAME Pieternella /Jacoba/
+2 SURN Jacoba
+2 GIVN Pieternella
+1 FAMS @F173@
+0 @I497@ INDI
+1 NAME Rachel Ann /Crain/
+2 SURN Crain
+2 GIVN Rachel Ann
+1 BIRT
+2 DATE 28 OCT 1994
+2 PLAC Grand Haven, Michigan
+1 FAMS @F224@
+1 FAMC @F8@
+0 @I498@ INDI
+1 NAME Rachel /Weeks/
+2 SURN Weeks
+2 GIVN Rachel
+1 FAMC @F91@
+0 @I499@ INDI
+1 NAME Randall Craig /Hilman/
+2 SURN Hilman
+2 GIVN Randall Craig
+1 FAMS @F10@
+0 @I500@ INDI
+1 NAME Randolph Steven /Williams/
+2 SURN Williams
+2 GIVN Randolph Steven
+1 FAMS @F122@
+0 @I501@ INDI
+1 NAME Rebecca /Hieftje/
+2 SURN Hieftje
+2 GIVN Rebecca
+1 FAMC @F93@
+0 @I502@ INDI
+1 NAME Rebecca Mary /Griswold/
+2 SURN Griswold
+2 GIVN Rebecca Mary
+1 FAMS @F178@
+0 @I503@ INDI
+1 NAME Reynaldo /DeLeon/
+2 SURN DeLeon
+2 GIVN Reynaldo
+1 BIRT
+2 DATE 6 MAR 1972
+2 PLAC San Benito, Texas
+1 FAMS @F12@
+1 FAMS @F61@
+1 FAMS @F64@
+1 FAMS @F224@
+0 @I504@ INDI
+1 NAME Rhondashay /Williams/
+2 SURN Williams
+2 GIVN Rhondashay
+1 BIRT
+2 DATE 1979
+1 FAMS @F76@
+1 FAMC @F122@
+0 @I505@ INDI
+1 NAME Richard Arthur /Sayers/
+2 SURN Sayers
+2 GIVN Richard Arthur
+1 DEAT
+2 DATE 14 AUG 2001
+2 PLAC Ashtabula, Ohio
+1 FAMS @F37@
+0 @I506@ INDI
+1 NAME Richard Lee /Ranft/
+2 SURN Ranft
+2 GIVN Richard Lee
+1 BIRT
+2 DATE 2 DEC 1960
+2 PLAC Niles, Michigan
+1 FAMS @F13@
+1 FAMS @F55@
+1 FAMC @F55@
+0 @I507@ INDI
+1 NAME Riley /Brown/
+2 SURN Brown
+2 GIVN Riley
+1 BIRT
+2 PLAC location     date
+1 FAMS @F52@
+1 FAMS @F225@
+1 FAMC @F123@
+0 @I508@ INDI
+1 NAME Robert Albert /Brosseit/
+2 SURN Brosseit
+2 GIVN Robert Albert
+1 BIRT
+2 DATE 7 JAN 1912
+2 PLAC Grand Haven, Ottawa, Michigan
+1 FAMS @F40@
+1 FAMS @F232@
+0 @I509@ INDI
+1 NAME Robert /Allen/
+2 SURN Allen
+2 GIVN Robert
+1 FAMS @F30@
+1 FAMS @F206@
+0 @I510@ INDI
+1 NAME Robert E /Wellman/
+2 SURN Wellman
+2 GIVN Robert E
+1 FAMC @F53@
+0 @I511@ INDI
+1 NAME Robert /Edward/
+2 SURN Edward
+2 GIVN Robert
+1 BIRT
+2 DATE 4 AUG 1937
+2 PLAC Culver VerBerkmoes
+0 @I512@ INDI
+1 NAME Robert Edward /Wellman/
+2 SURN Wellman
+2 GIVN Robert Edward
+1 FAMS @F53@
+1 FAMS @F227@
+0 @I513@ INDI
+1 NAME Robert Eugene /Deephouse/
+2 SURN Deephouse
+2 GIVN Robert Eugene
+1 BIRT
+2 DATE 31 JAN 1945
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 24 DEC 1998
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F124@
+0 @I514@ INDI
+1 NAME Robert Herman /Ranft/
+2 SURN Ranft
+2 GIVN Robert Herman
+1 BIRT
+2 DATE 21 AUG 1958
+2 PLAC Niles, Michigan
+1 FAMS @F226@
+1 FAMC @F55@
+0 @I515@ INDI
+1 NAME Robert /Hieftje/
+2 SURN Hieftje
+2 GIVN Robert
+1 BIRT
+2 DATE 8 MAR 1962
+2 PLAC Belding, MI
+1 FAMC @F41@
+0 @I516@ INDI
+1 NAME Robert John /Brosseit/
+2 SURN Brosseit
+2 GIVN Robert John
+1 BIRT
+2 DATE 24 NOV 1937
+2 PLAC Grand Haven, Michigan
+1 FAMS @F88@
+0 @I517@ INDI
+1 NAME Robert L /Crum/
+2 SURN Crum
+2 GIVN Robert L
+1 FAMS @F100@
+0 @I518@ INDI
+1 NAME Robert /Phipps/
+2 SURN Phipps
+2 GIVN Robert
+1 BIRT
+2 DATE 1965
+2 PLAC Grand Haven, Michigan
+1 FAMC @F78@
+0 @I519@ INDI
+1 NAME Robert /Shore/
+2 SURN Shore
+2 GIVN Robert
+1 FAMS @F121@
+0 @I520@ INDI
+1 NAME Robert /Walter/
+2 SURN Walter
+2 GIVN Robert
+1 FAMS @F129@
+1 FAMS @F211@
+0 @I521@ INDI
+1 NAME Robert William /Hieftje/
+2 SURN Hieftje
+2 GIVN Robert William
+1 BIRT
+2 DATE 26 SEP 1929
+2 PLAC Detroit, Michigan
+1 DEAT
+2 DATE 5 JUN 2009
+2 PLAC Ionia Cnty Michigan
+1 FAMS @F41@
+1 FAMC @F105@
+0 @I522@ INDI
+1 NAME Robin /Bosselman/
+2 SURN Bosselman
+2 GIVN Robin
+1 FAMC @F125@
+0 @I523@ INDI
+1 NAME Robin Lyn /Brosseit/
+2 SURN Brosseit
+2 GIVN Robin Lyn
+1 BIRT
+2 DATE 8 JUN 1961
+2 PLAC Michigan
+1 FAMC @F88@
+0 @I524@ INDI
+1 NAME Rodney Stephen /Fritz/
+2 SURN Fritz
+2 GIVN Rodney Stephen
+1 BIRT
+2 DATE 16 NOV 1951
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 3 MAR 1952
+2 PLAC Grand haven, Michigan
+1 FAMC @F50@
+0 @I525@ INDI
+1 NAME Rofena Marie /Huyser/
+2 SURN Huyser
+2 GIVN Rofena Marie
+1 FAMS @F168@
+0 @I526@ INDI
+1 NAME Roger Alan /Crain/
+2 SURN Crain
+2 GIVN Roger Alan
+1 BIRT
+2 DATE 4 NOV 1959
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F8@
+0 @I527@ INDI
+1 NAME Ronald /Brosseit/
+2 SURN Brosseit
+2 GIVN Ronald
+1 BIRT
+2 DATE 5 DEC 1946
+2 PLAC Grand Haven, Michigan
+1 FAMS @F17@
+1 FAMC @F40@
+0 @I528@ INDI
+1 NAME Rose Ann /Bryant/
+2 SURN Bryant
+2 GIVN Rose Ann
+1 BIRT
+2 DATE 24 JUN 1939
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F94@
+1 FAMS @F234@
+0 @I529@ INDI
+1 NAME Rosemary Ten /Hagen/
+2 SURN Hagen
+2 GIVN Rosemary Ten
+1 FAMC @F48@
+0 @I530@ INDI
+1 NAME Ruby Mae /Jankoviak/
+2 SURN Jankoviak
+2 GIVN Ruby Mae
+1 BIRT
+2 DATE 3 JAN 2014
+2 PLAC Niles, Michigan
+1 FAMC @F43@
+0 @I531@ INDI
+1 NAME Russel Duane Ten /Hagen/
+2 SURN Hagen
+2 GIVN Russel Duane Ten
+1 FAMS @F48@
+0 @I532@ INDI
+1 NAME Russell Eugene Ten /Hagen/
+2 SURN Hagen
+2 GIVN Russell Eugene Ten
+1 BIRT
+2 DATE 1960
+1 FAMC @F48@
+0 @I533@ INDI
+1 NAME Ruth A /Kooi/
+2 SURN Kooi
+2 GIVN Ruth A
+1 BIRT
+2 DATE 26 JUN 1938
+2 PLAC Grand Rapids, MI
+1 DEAT
+2 DATE 26 SEP 2020
+2 PLAC Grand Rapids, MI
+1 FAMS @F26@
+1 FAMC @F70@
+0 @I534@ INDI
+1 NAME Ruth Charlotte /Dumke/
+2 SURN Dumke
+2 GIVN Ruth Charlotte
+0 @I535@ INDI
+1 NAME Ruthann /Hieftje/
+2 SURN Hieftje
+2 GIVN Ruthann
+1 BIRT
+2 DATE 12 APR 1953
+1 FAMC @F31@
+0 @I536@ INDI
+1 NAME Sabrina /Brosseit/
+2 SURN Brosseit
+2 GIVN Sabrina
+1 BIRT
+2 DATE 1979
+2 PLAC date  location
+1 FAMC @F22@
+0 @I537@ INDI
+1 NAME Sam D /Coffey/
+2 SURN Coffey
+2 GIVN Sam D
+1 FAMS @F126@
+0 @I538@ INDI
+1 NAME Sandra Ten /Hagen/
+2 SURN Hagen
+2 GIVN Sandra Ten
+1 FAMC @F48@
+0 @I539@ INDI
+1 NAME Sandy Kay /Burr/
+2 SURN Burr
+2 GIVN Sandy Kay
+1 FAMS @F137@
+0 @I540@ INDI
+1 NAME Sara /Coffey/
+2 SURN Coffey
+2 GIVN Sara
+1 FAMC @F126@
+0 @I541@ INDI
+1 NAME Sara /Laarman/
+2 SURN Laarman
+2 GIVN Sara
+1 BIRT
+2 DATE 6 JAN 1992
+2 PLAC Grand Haven, Michigan
+1 FAMS @F133@
+1 FAMC @F127@
+0 @I542@ INDI
+1 NAME Sarah /Atkinson/
+2 SURN Atkinson
+2 GIVN Sarah
+0 @I543@ INDI
+1 NAME Sarah /Atkison/
+2 SURN Atkison
+2 GIVN Sarah
+1 BIRT
+2 DATE 27 NOV 1665
+2 PLAC Salisbury, Essex, MA
+0 @I544@ INDI
+1 NAME Sarah /Coleman/
+2 SURN Coleman
+2 GIVN Sarah
+1 FAMS @F90@
+0 @I545@ INDI
+1 NAME Sarah Janette Leendertsd /Faas/
+2 SURN Faas
+2 GIVN Sarah Janette Leendertsd
+1 BIRT
+2 DATE 14 JAN 1851
+2 PLAC East Williamson, Wayne, New York
+1 FAMS @F203@
+1 FAMS @F257@
+0 @I546@ INDI
+1 NAME Sean Richard /Gordan/
+2 SURN Gordan
+2 GIVN Sean Richard
+1 FAMS @F76@
+0 @I547@ INDI
+1 NAME Sharon /Johnson/
+2 SURN Johnson
+2 GIVN Sharon
+1 FAMS @F29@
+0 @I548@ INDI
+1 NAME Sharon /Verhey/
+2 SURN Verhey
+2 GIVN Sharon
+1 BIRT
+2 DATE 4 MAR 1945
+2 PLAC Grand Rapids, Kent, MI
+1 FAMC @F128@
+0 @I549@ INDI
+1 NAME Shaun Robert /Walter/
+2 SURN Walter
+2 GIVN Shaun Robert
+1 BIRT
+2 DATE 7 DEC 1982
+2 PLAC Niles, Michigan
+1 FAMC @F129@
+0 @I550@ INDI
+1 NAME Shawn A /Powell/
+2 SURN Powell
+2 GIVN Shawn A
+1 FAMS @F13@
+0 @I551@ INDI
+1 NAME Shelby Jayne /James/
+2 SURN James
+2 GIVN Shelby Jayne
+1 FAMS @F28@
+0 @I552@ INDI
+1 NAME Shirley Ann /Davis/
+2 SURN Davis
+2 GIVN Shirley Ann
+1 FAMS @F41@
+0 @I553@ INDI
+1 NAME Shirley ( Evelyn ?) /Rezny/
+2 SURN Rezny
+2 GIVN Shirley ( Evelyn ?)
+1 BIRT
+2 DATE 21 FEB 1936
+2 PLAC Grand Haven, Michigan
+1 FAMS @F227@
+1 FAMC @F59@
+0 @I554@ INDI
+1 NAME Shirley Gertrude Van /Pelt/
+2 SURN Pelt
+2 GIVN Shirley Gertrude Van
+1 FAMS @F31@
+1 FAMS @F215@
+0 @I555@ INDI
+1 NAME Sofia /Villarreal/
+2 SURN Villarreal
+2 GIVN Sofia
+1 BIRT
+2 DATE 25 MAY 1998
+2 PLAC Lansing, Michigan
+1 FAMS @F72@
+1 FAMC @F18@
+0 @I556@ INDI
+1 NAME son /Cardoza/
+2 SURN Cardoza
+2 GIVN son
+1 FAMC @F130@
+0 @I557@ INDI
+1 NAME son /Eastling/
+2 SURN Eastling
+2 GIVN son
+1 FAMC @F131@
+0 @I558@ INDI
+1 NAME son /Eastling/
+2 SURN Eastling
+2 GIVN son
+1 FAMC @F132@
+0 @I559@ INDI
+1 NAME son Van /Dame/
+2 SURN Dame
+2 GIVN son Van
+1 BIRT
+2 DATE 29 OCT 2019
+1 FAMC @F133@
+0 @I560@ INDI
+1 NAME son //
+2 GIVN son
+0 @I561@ INDI
+1 NAME Spencer /Fuller/
+2 SURN Fuller
+2 GIVN Spencer
+1 FAMS @F209@
+0 @I562@ INDI
+1 NAME spouse /Wasson/
+2 SURN Wasson
+2 GIVN spouse
+1 FAMS @F132@
+0 @I563@ INDI
+1 NAME spouse //
+2 GIVN spouse
+1 FAMS @F119@
+1 FAMS @F217@
+1 FAMS @F222@
+1 FAMS @F225@
+1 FAMS @F228@
+0 @I564@ INDI
+1 NAME Stella Mary /Claflin/
+2 SURN Claflin
+2 GIVN Stella Mary
+1 BIRT
+2 DATE APR 1898
+2 PLAC Sturgeon Bay, Door Cnty., Wisc.
+0 @I565@ INDI
+1 NAME Stella Mary /Claftin/
+2 SURN Claftin
+2 GIVN Stella Mary
+1 DEAT
+2 DATE 24 DEC 1901
+2 PLAC Little Surgeon Bay, Door Cnty, Wisc
+0 @I566@ INDI
+1 NAME Stephanie /Saxton/
+2 SURN Saxton
+2 GIVN Stephanie
+1 FAMS @F49@
+0 @I567@ INDI
+1 NAME stepson //
+2 GIVN stepson
+1 FAMC @F134@
+0 @I568@ INDI
+1 NAME stepson //
+2 GIVN stepson
+1 FAMC @F135@
+0 @I569@ INDI
+1 NAME Steve /Williams/
+2 SURN Williams
+2 GIVN Steve
+1 FAMS @F228@
+1 FAMC @F122@
+0 @I570@ INDI
+1 NAME Steven /Greenfield/
+2 SURN Greenfield
+2 GIVN Steven
+0 @I571@ INDI
+1 NAME Steven Luis /Amador-Sperry/
+2 SURN Amador-Sperry
+2 GIVN Steven Luis
+1 FAMS @F103@
+0 @I572@ INDI
+1 NAME Stratie /Pelekonos/
+2 SURN Pelekonos
+2 GIVN Stratie
+1 BIRT
+2 PLAC Roca Raton, Florida
+1 FAMC @F11@
+0 @I573@ INDI
+1 NAME Susan K /Hieftje/
+2 SURN Hieftje
+2 GIVN Susan K
+1 BIRT
+2 DATE 2018
+1 FAMC @F93@
+0 @I574@ INDI
+1 NAME Suzanne /Gregory/
+2 SURN Gregory
+2 GIVN Suzanne
+1 FAMS @F117@
+0 @I575@ INDI
+1 NAME Sylvia Mae /Bliss/
+2 SURN Bliss
+2 GIVN Sylvia Mae
+1 BIRT
+2 DATE 5 DEC 1939
+2 PLAC Hammond, Lake, Indiana
+1 DEAT
+2 DATE 8 FEB 1940
+2 PLAC Hammond, Indiana
+1 FAMC @F7@
+0 @I576@ INDI
+1 NAME Tamie /name/
+2 SURN name
+2 GIVN Tamie
+1 FAMS @F134@
+0 @I577@ INDI
+1 NAME Tammie /name/
+2 SURN name
+2 GIVN Tammie
+1 FAMS @F135@
+1 FAMS @F231@
+0 @I578@ INDI
+1 NAME Teresa /Friz/
+2 SURN Friz
+2 GIVN Teresa
+1 FAMC @F50@
+0 @I579@ INDI
+1 NAME Terry /Starkweather/
+2 SURN Starkweather
+2 GIVN Terry
+1 FAMS @F35@
+0 @I580@ INDI
+1 NAME Terry /Starweather/
+2 SURN Starweather
+2 GIVN Terry
+1 BIRT
+2 DATE 21 FEB 1978
+2 PLAC Albion, New York
+1 FAMC @F35@
+0 @I581@ INDI
+1 NAME Thomas Orie /Jobin/
+2 SURN Jobin
+2 GIVN Thomas Orie
+1 BIRT
+2 DATE 17 JUN 1946
+1 FAMC @F136@
+0 @I582@ INDI
+1 NAME Tishey R /Wilson/
+2 SURN Wilson
+2 GIVN Tishey R
+1 FAMS @F42@
+0 @I583@ INDI
+1 NAME to /AMERICA/
+2 SURN AMERICA
+2 GIVN to
+0 @I584@ INDI
+1 NAME Tori Mae /Kennedy/
+2 SURN Kennedy
+2 GIVN Tori Mae
+1 BIRT
+2 DATE 26 SEP 2007
+2 PLAC Lansing, Michigan
+1 FAMC @F32@
+0 @I585@ INDI
+1 NAME Trinjtje B /Eibema/
+2 SURN Eibema
+2 GIVN Trinjtje B
+1 BIRT
+2 DATE 1 DEC 1825
+2 PLAC Zuidiaren, Drenthe, the Netherlands
+0 @I586@ INDI
+1 NAME Trot /Stafford/
+2 SURN Stafford
+2 GIVN Trot
+1 FAMS @F72@
+0 @I587@ INDI
+1 NAME Troy /Rezny/
+2 SURN Rezny
+2 GIVN Troy
+1 FAMC @F137@
+0 @I588@ INDI
+1 NAME Tyler /Frost/
+2 SURN Frost
+2 GIVN Tyler
+1 BIRT
+2 PLAC location     date
+1 FAMC @F86@
+0 @I589@ INDI
+1 NAME Upjohn /Blk/
+2 SURN Blk
+2 GIVN Upjohn
+0 @I590@ INDI
+1 NAME Valeri /Eastling/
+2 SURN Eastling
+2 GIVN Valeri
+1 BIRT
+2 DATE JUN 1960
+2 PLAC Grand Haven, Michigan
+1 FAMS @F131@
+1 FAMS @F132@
+1 FAMC @F27@
+0 @I591@ INDI
+1 NAME Vicente Daniel /DeLeon/
+2 SURN DeLeon
+2 GIVN Vicente Daniel
+1 BIRT
+2 DATE 14 JUN 2004
+2 PLAC Harlingen, TX
+1 FAMC @F12@
+0 @I592@ INDI
+1 NAME Vicki Merle /Clark/
+2 SURN Clark
+2 GIVN Vicki Merle
+1 BIRT
+2 DATE 28 MAY 1942
+2 PLAC Lake Worth, Palm Beach, Florida
+1 FAMC @F71@
+0 @I593@ INDI
+1 NAME Vicki /Wilson/
+2 SURN Wilson
+2 GIVN Vicki
+1 FAMS @F199@
+0 @I594@ INDI
+1 NAME Walter Owen /Eastling/
+2 SURN Eastling
+2 GIVN Walter Owen
+1 BIRT
+2 DATE 19 MAY 1963
+2 PLAC Grand Haven, Michigan
+1 FAMC @F132@
+0 @I595@ INDI
+1 NAME Wasson //
+2 GIVN Wasson
+1 FAMS @F131@
+0 @I596@ INDI
+1 NAME Wayne Eugene /Saunders/
+2 SURN Saunders
+2 GIVN Wayne Eugene
+1 FAMS @F116@
+0 @I597@ INDI
+1 NAME Wendy Lee /Crum/
+2 SURN Crum
+2 GIVN Wendy Lee
+1 BIRT
+2 DATE 27 JAN 1965
+1 FAMS @F229@
+1 FAMC @F100@
+0 @I598@ INDI
+1 NAME Wenndy Lee Crum /Vail/
+2 SURN Vail
+2 GIVN Wenndy Lee Crum
+1 FAMS @F62@
+0 @I599@ INDI
+1 NAME Wililda Calkins /Howard/
+2 SURN Howard
+2 GIVN Wililda Calkins
+1 DEAT
+2 DATE 30 AUG 1933
+2 PLAC Waukesha, Wisconsin
+0 @I600@ INDI
+1 NAME Wililda L /\/
+2 SURN \
+2 GIVN Wililda L
+0 @I601@ INDI
+1 NAME William /Claflin/
+2 SURN Claflin
+2 GIVN William
+0 @I602@ INDI
+1 NAME William /Deephouse/
+2 SURN Deephouse
+2 GIVN William
+1 BIRT
+2 DATE 1942
+2 PLAC Spring Lake, Ottawa, MI
+1 FAMC @F124@
+0 @I603@ INDI
+1 NAME William /Faranick/
+2 SURN Faranick
+2 GIVN William
+1 FAMS @F138@
+0 @I604@ INDI
+1 NAME William George /Farfanick/
+2 SURN Farfanick
+2 GIVN William George
+1 BIRT
+2 DATE 1944
+1 DEAT
+2 DATE 5 AUG 2018
+2 PLAC Alberta. Ontario, Canada
+1 FAMC @F138@
+0 @I605@ INDI
+1 NAME William James /Lawson/
+2 SURN Lawson
+2 GIVN William James
+1 FAMC @F139@
+0 @I606@ INDI
+1 NAME William Mil /Fleming/
+2 SURN Fleming
+2 GIVN William Mil
+1 BIRT
+2 DATE 8 OCT 1908
+2 PLAC Oakland, California
+1 FAMS @F253@
+0 @I607@ INDI
+1 NAME William Mil /Flemming/
+2 SURN Flemming
+2 GIVN William Mil
+1 DEAT
+2 DATE 26 NOV 1981
+2 PLAC Multnomah, Oregon
+0 @I608@ INDI
+1 NAME William Paul /Lawson/
+2 SURN Lawson
+2 GIVN William Paul
+1 FAMS @F139@
+1 FAMS @F212@
+0 @I609@ INDI
+1 NAME William Powers /Caulkins/
+2 SURN Caulkins
+2 GIVN William Powers
+0 @I610@ INDI
+1 NAME William Russel /Fritz/
+2 SURN Fritz
+2 GIVN William Russel
+1 BIRT
+2 DATE 23 FEB 1949
+2 PLAC Grand Haven, Michigan
+1 FAMC @F50@
+0 @I611@ INDI
+1 NAME Willow Skye Van /Dame/
+2 SURN Dame
+2 GIVN Willow Skye Van
+1 BIRT
+2 DATE 23 JUL 2017
+1 FAMC @F133@
+0 @I612@ INDI
+1 NAME Xander Leo Michael /Tomes/
+2 SURN Tomes
+2 GIVN Xander Leo Michael
+1 BIRT
+2 DATE 30 DEC 2012
+2 PLAC Grand Rapids, MI
+1 FAMC @F47@
+0 @I613@ INDI
+1 NAME Yianni /Pelekonos/
+2 SURN Pelekonos
+2 GIVN Yianni
+1 FAMS @F11@
+1 FAMS @F223@
+0 @I614@ INDI
+1 NAME Zachary Jaymes /Devereaux/
+2 SURN Devereaux
+2 GIVN Zachary Jaymes
+1 BIRT
+2 DATE 6 APR 2004
+2 PLAC Grand Haven, Michigan
+1 FAMC @F33@
+0 @I615@ INDI
+1 NAME _____________ //
+2 GIVN _____________
+1 FAMS @F130@
+0 @I616@ INDI
+1 NAME Anna /Samargia/
+2 SURN Samargia
+2 GIVN Anna
+1 BIRT
+2 DATE 25 MAY 1908
+2 PLAC Beljevine, Croatia
+1 FAMS @F144@
+0 @I617@ INDI
+1 NAME Abraham /Snoek/
+2 SURN Snoek
+2 GIVN Abraham
+1 BIRT
+2 DATE 21 SEP 1885
+2 PLAC Grand Haven  Ottawa Cnty  MI
+0 @I618@ INDI
+1 NAME Adrian John /Snoek/
+2 SURN Snoek
+2 GIVN Adrian John
+1 BIRT
+2 PLAC 21907  Grand Haven, Michigan
+1 DEAT
+2 DATE 8 SEP 1909
+2 PLAC Grand Haven, Michigan
+1 FAMC @F140@
+0 @I619@ INDI
+1 NAME Anna Margaret Samargia /Snoek/
+2 SURN Snoek
+2 GIVN Anna Margaret Samargia
+1 DEAT
+2 DATE 6 OCT 2001
+0 @I620@ INDI
+1 NAME Arend /Snoek/
+2 SURN Snoek
+2 GIVN Arend
+1 BIRT
+2 DATE 3 DEC 1778
+2 PLAC Rolde, Drenthe, the Netherlands
+1 FAMS @F145@
+1 FAMC @F141@
+0 @I621@ INDI
+1 NAME Arent Jan /Snoek/
+2 SURN Snoek
+2 GIVN Arent Jan
+1 BIRT
+2 DATE DEC 1849
+2 PLAC Twnp of Holland, Ottawa Cnty., MI
+0 @I622@ INDI
+1 NAME Benjamin /Snoek/
+2 SURN Snoek
+2 GIVN Benjamin
+1 FAMC @F142@
+0 @I623@ INDI
+1 NAME Clarence /Snoek/
+2 SURN Snoek
+2 GIVN Clarence
+1 BIRT
+2 DATE 11 APR 1905
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 25 FEB 1974
+2 PLAC Grand Haven, Michigan
+1 FAMS @F144@
+1 FAMC @F143@
+0 @I624@ INDI
+1 NAME Delia VerBerkmoes /Snoek/
+2 SURN Snoek
+2 GIVN Delia VerBerkmoes
+1 DEAT
+2 DATE 10 DEC 1952
+2 PLAC Grand Haven, Ottawa, MI
+0 @I625@ INDI
+1 NAME Dorena Madeline /Snoek/
+2 SURN Snoek
+2 GIVN Dorena Madeline
+1 BIRT
+2 DATE 23 MAR 1940
+2 PLAC Grand Haven, Michigan
+1 FAMS @F100@
+1 FAMC @F144@
+0 @I626@ INDI
+1 NAME Elizabeth Ann /Snoek/
+2 SURN Snoek
+2 GIVN Elizabeth Ann
+1 BIRT
+2 DATE 17 AUG 1949
+2 PLAC Grand Haven, Michigan
+1 FAMC @F144@
+0 @I627@ INDI
+1 NAME Elizabeth Mae /Snoek/
+2 SURN Snoek
+2 GIVN Elizabeth Mae
+1 BIRT
+2 DATE 22 JAN 1904
+2 PLAC Grand haven, Michigan
+1 DEAT
+2 DATE 5 APR 1931
+2 PLAC Flint, Michigan
+1 FAMS @F60@
+1 FAMC @F143@
+0 @I628@ INDI
+1 NAME Elizabeth Mae Snoek /Webster/
+2 SURN Webster
+2 GIVN Elizabeth Mae Snoek
+1 DEAT
+2 DATE 5 APR 1931
+2 PLAC Flint, Shiawassee, MI
+0 @I629@ INDI
+1 NAME James /Snoek/
+2 SURN Snoek
+2 GIVN James
+1 BIRT
+2 DATE 20 JUL 1971
+1 FAMS @F142@
+1 FAMC @F94@
+0 @I630@ INDI
+1 NAME Jan /Snoek/
+2 SURN Snoek
+2 GIVN Jan
+1 BIRT
+2 DATE 14 AUG 1817
+2 PLAC Gasselte, Drenthe Netherlands
+1 FAMS @F141@
+1 FAMC @F145@
+0 @I631@ INDI
+1 NAME Janna Arend Holthuis /Snoek/
+2 SURN Snoek
+2 GIVN Janna Arend Holthuis
+1 DEAT
+2 DATE 20 AUG 1826
+2 PLAC Rolde, Drenthe, the Netherlands
+0 @I632@ INDI
+1 NAME Jody Shaun /Snoek/
+2 SURN Snoek
+2 GIVN Jody Shaun
+1 BIRT
+2 DATE 19 SEP 1959
+2 PLAC Florida
+1 FAMS @F122@
+1 FAMS @F126@
+1 FAMC @F146@
+0 @I633@ INDI
+1 NAME Johanna Snoek Fisher (Visser) /old/
+2 SURN old
+2 GIVN Johanna Snoek Fisher (Visser)
+1 DEAT
+2 DATE 8 JUL 1912
+2 PLAC Kenosha, Kenosha Cnty, Wisconsin
+0 @I634@ INDI
+1 NAME Johanna Ursula /Snoek/
+2 SURN Snoek
+2 GIVN Johanna Ursula
+1 BIRT
+2 DATE FEB 1853
+2 PLAC Grand Haven, Ottawa, Michigan
+0 @I635@ INDI
+1 NAME John Adrian /Snoek/
+2 SURN Snoek
+2 GIVN John Adrian
+1 BIRT
+2 DATE 2 JUL 1907
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 6 SEP 1909
+2 PLAC Grand Haven, Michigan
+1 FAMC @F147@
+0 @I636@ INDI
+1 NAME John Marcus /Snoek/
+2 SURN Snoek
+2 GIVN John Marcus
+1 BIRT
+2 DATE 13 MAR 1961
+2 PLAC Florida
+1 FAMC @F146@
+0 @I637@ INDI
+1 NAME John Oren /Snoek/
+2 SURN Snoek
+2 GIVN John Oren
+1 BIRT
+2 DATE 8 OCT 1938
+2 PLAC Grand Haven, Michigan
+1 FAMS @F140@
+1 FAMS @F146@
+1 FAMS @F149@
+1 FAMS @F151@
+1 FAMC @F144@
+0 @I638@ INDI
+1 NAME John Orren Snoek /Jr/
+2 SURN Jr
+2 GIVN John Orren Snoek
+1 DEAT
+2 DATE 18 JUL 1937
+2 PLAC age 8 mons 20 days  passed away 4:45 pm at home    GH
+0 @I639@ INDI
+1 NAME John Orren /Snoek/
+2 SURN Snoek
+2 GIVN John Orren
+1 FAMS @F143@
+1 FAMS @F152@
+0 @I640@ INDI
+1 NAME John Orrin Snoek Sr 2 ms 7 /ds/
+2 SURN ds
+2 GIVN John Orrin Snoek Sr 2 ms 7
+1 DEAT
+2 DATE 21 MAY 1890
+2 PLAC Grand Haven, MI
+1 FAMC @F148@
+0 @I641@ INDI
+1 NAME John Orrin Snoek /Sr/
+2 SURN Sr
+2 GIVN John Orrin Snoek
+0 @I642@ INDI
+1 NAME Joseph /Snoek/
+2 SURN Snoek
+2 GIVN Joseph
+1 BIRT
+2 DATE 1965
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 2023
+2 PLAC Detroit, Michigan
+1 FAMS @F45@
+1 FAMC @F149@
+0 @I643@ INDI
+1 NAME Josephine Margaret /Snoek/
+2 SURN Snoek
+2 GIVN Josephine Margaret
+1 FAMC @F150@
+0 @I644@ INDI
+1 NAME Kelly Ann /Snoek/
+2 SURN Snoek
+2 GIVN Kelly Ann
+1 BIRT
+2 DATE 1 NOV 1961
+2 PLAC Grand Haven, Michigan
+1 FAMS @F8@
+1 FAMC @F94@
+0 @I645@ INDI
+1 NAME Kirt Bryant /Snoek/
+2 SURN Snoek
+2 GIVN Kirt Bryant
+1 BIRT
+2 DATE 24 DEC 1958
+2 PLAC Grand Haven, Michigan
+1 FAMS @F230@
+1 FAMC @F94@
+0 @I646@ INDI
+1 NAME Kraig Michael /Snoek/
+2 SURN Snoek
+2 GIVN Kraig Michael
+1 BIRT
+2 DATE 10 NOV 1963
+2 PLAC Grand haven, Michigan
+1 DEAT
+2 DATE 8 APR 2001
+2 PLAC Fruitport, Michigan
+1 FAMS @F231@
+1 FAMC @F94@
+0 @I647@ INDI
+1 NAME Margaret Jenette /Snoek/
+2 SURN Snoek
+2 GIVN Margaret Jenette
+1 BIRT
+2 DATE 25 APR 1910
+2 PLAC Grand Haven, Michigan
+1 FAMS @F232@
+1 FAMC @F147@
+0 @I648@ INDI
+1 NAME Marie Lucelle /Snoek/
+2 SURN Snoek
+2 GIVN Marie Lucelle
+1 BIRT
+2 DATE 25 APR 1910
+2 PLAC Grand Haven, Michigan
+1 FAMS @F79@
+1 FAMC @F140@
+0 @I649@ INDI
+1 NAME Marion /Snoek/
+2 SURN Snoek
+2 GIVN Marion
+1 BIRT
+2 DATE 29 SEP 1934
+2 PLAC Grand Haven, Michigan
+1 FAMS @F55@
+1 FAMC @F144@
+0 @I650@ INDI
+1 NAME Phoebe /Snoek/
+2 SURN Snoek
+2 GIVN Phoebe
+1 BIRT
+2 DATE 28 AUG 1883
+1 FAMC @F148@
+0 @I651@ INDI
+1 NAME Rebecca Jean /Snoek/
+2 SURN Snoek
+2 GIVN Rebecca Jean
+1 BIRT
+2 DATE 12 AUG 1969
+2 PLAC Grand Haven, Michigan
+1 FAMS @F233@
+1 FAMC @F94@
+0 @I652@ INDI
+1 NAME Robert John /Snoek/
+2 SURN Snoek
+2 GIVN Robert John
+1 BIRT
+2 DATE 12 DEC 1932
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 16 DEC 2023
+2 PLAC Grand Haven, Michigan
+1 FAMS @F234@
+1 FAMC @F144@
+0 @I653@ INDI
+1 NAME Robert John /Snoek/
+2 SURN Snoek
+2 GIVN Robert John
+1 BIRT
+2 DATE 1975
+2 PLAC Grand Haven, Michigan
+1 FAMS @F94@
+1 FAMC @F151@
+0 @I654@ INDI
+1 NAME Rose Ann Bryant /Snoek/
+2 SURN Snoek
+2 GIVN Rose Ann Bryant
+1 DEAT
+2 DATE 31 MAR 2012
+2 PLAC Muskegon, Muskegon, MI
+0 @I655@ INDI
+1 NAME Ruth Anna /Snoek/
+2 SURN Snoek
+2 GIVN Ruth Anna
+1 BIRT
+2 DATE 4 JUN 1946
+2 PLAC Grand Haven, Michigan
+1 FAMS @F235@
+1 FAMC @F144@
+0 @I656@ INDI
+1 NAME Ruth Louise /Snoek/
+2 SURN Snoek
+2 GIVN Ruth Louise
+1 BIRT
+2 DATE 2 JAN 1922
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 26 JAN 1985
+2 PLAC Grand Haven, MI
+1 FAMC @F152@
+0 @I657@ INDI
+1 NAME Stephanie Willemina /Snoek/
+2 SURN Snoek
+2 GIVN Stephanie Willemina
+1 BIRT
+2 DATE 9 MAR 1994
+1 FAMC @F153@
+0 @I658@ INDI
+1 NAME Trinjtje B Eibema /Snoek/
+2 SURN Snoek
+2 GIVN Trinjtje B Eibema
+1 DEAT
+2 DATE 12 JAN 1879
+2 PLAC Grand Haven, MI
+0 @I659@ INDI
+1 NAME Aaltje (Alice) Bosman /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Aaltje (Alice) Bosman
+1 DEAT
+2 DATE 23 DEC 1892
+2 PLAC wife of Kryn VerBerkmoes    G H, MI
+0 @I660@ INDI
+1 NAME Adriaan Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Adriaan Adriaansz
+1 BIRT
+2 DATE 5 AUG 1849
+2 PLAC Goes Zeeland the Netherlands
+1 DEAT
+2 DATE 13 JUL 1924
+2 PLAC Grand Haven, MI
+1 FAMS @F156@
+0 @I661@ INDI
+1 NAME Adriaan /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Adriaan
+1 FAMS @F165@
+1 FAMS @F202@
+0 @I662@ INDI
+1 NAME Adriaan Willemsz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Adriaan Willemsz
+1 BIRT
+2 DATE 26 JAN 1821
+2 PLAC Goes, Goes Municipality Zeeland the Netherlands
+1 DEAT
+2 DATE 18 DEC 1870
+2 PLAC Goes Zeeland the Netherlands
+1 FAMS @F172@
+1 FAMS @F193@
+1 FAMC @F154@
+0 @I663@ INDI
+1 NAME Adrian Edwin /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Adrian Edwin
+1 BIRT
+2 DATE 22 AUG 1875
+2 PLAC Fremont Center, Kalamazoo, Michigan
+1 FAMS @F184@
+1 FAMS @F201@
+1 FAMS @F236@
+1 FAMC @F155@
+0 @I664@ INDI
+1 NAME Adrian /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Adrian
+1 BIRT
+2 DATE 16 MAR 1880
+2 PLAC Grand Haven, Michigan
+1 FAMC @F156@
+0 @I665@ INDI
+1 NAME Albert Donald /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Albert Donald
+1 BIRT
+2 DATE 20 APR 1922
+1 DEAT
+2 DATE 7 JUL 1925
+2 PLAC Fairfax, Texas
+1 FAMC @F157@
+0 @I666@ INDI
+1 NAME Alfred Cornell /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Alfred Cornell
+1 BIRT
+2 DATE 12 JUL 1927
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 25 MAY 2019
+2 PLAC Grand Haven, Michigan
+1 FAMC @F158@
+0 @I667@ INDI
+1 NAME Alice /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Alice
+1 BIRT
+2 DATE 1912
+2 PLAC MI
+1 DEAT
+2 PLAC 19, 1994    East Grand Rapids, MI
+1 FAMC @F159@
+0 @I668@ INDI
+1 NAME Alice Vorar /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Alice Vorar
+1 FAMC @F160@
+0 @I669@ INDI
+1 NAME Alivia Pearl /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Alivia Pearl
+1 BIRT
+2 DATE 1995
+1 FAMC @F161@
+0 @I670@ INDI
+1 NAME Andrew /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Andrew
+1 BIRT
+2 DATE 5 JUL 1887
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 18 JUN 1965
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F185@
+1 FAMC @F162@
+0 @I671@ INDI
+1 NAME Anna C /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Anna C
+1 BIRT
+2 DATE 20 MAR 1913
+2 PLAC Grand Rapids, MI
+1 DEAT
+2 DATE 14 APR 1974
+2 PLAC Grand Rapids, MI
+1 FAMS @F70@
+1 FAMC @F159@
+0 @I672@ INDI
+1 NAME Anna Marie /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Anna Marie
+1 BIRT
+2 DATE 8 JUN 1917
+2 PLAC Grand Haven
+1 FAMC @F163@
+0 @I673@ INDI
+1 NAME Anne Marie /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Anne Marie
+1 BIRT
+2 DATE 1949
+2 PLAC Indiana
+1 FAMS @F85@
+1 FAMS @F237@
+1 FAMC @F164@
+0 @I674@ INDI
+1 NAME Anthonette Adriana Adriaansd /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Anthonette Adriana Adriaansd
+1 BIRT
+2 DATE 1788
+2 PLAC Hulst, Zeeland, the Netherlands
+1 FAMC @F165@
+0 @I675@ INDI
+1 NAME Ayda Huyser VerBerkmoes at 10:00 pm at /home/
+2 SURN home
+2 GIVN Ayda Huyser VerBerkmoes at 10:00 pm at
+1 DEAT
+2 DATE 31 DEC 1944
+2 PLAC 615 Franklin St   GH, MI
+0 @I676@ INDI
+1 NAME Barbara Ann /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Barbara Ann
+1 BIRT
+1 FAMC @F166@
+0 @I677@ INDI
+1 NAME Bonita Jean /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Bonita Jean
+1 BIRT
+2 DATE 24 FEB 1929
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 23 JUL 1988
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F167@
+0 @I678@ INDI
+1 NAME Bruce H /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Bruce H
+1 BIRT
+2 DATE 1925
+2 PLAC West Virginia
+1 DEAT
+2 DATE 6 MAY 1942
+2 PLAC Fort Wiliam, Manilla, the Philippines
+1 FAMC @F157@
+0 @I679@ INDI
+1 NAME Carol /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Carol
+1 FAMC @F168@
+0 @I680@ INDI
+1 NAME Catherine /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Catherine
+1 FAMC @F168@
+0 @I681@ INDI
+1 NAME Charles Ray /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Charles Ray
+1 BIRT
+2 DATE 10 FEB 1915
+2 PLAC Kalamazoo, Kalamazoo Cnty, Michigan Kalamazoo
+1 DEAT
+2 DATE 24 AUG 1992
+2 PLAC South Bend, Indiana
+1 FAMS @F238@
+1 FAMC @F169@
+0 @I682@ INDI
+1 NAME Charlotte Ruth /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Charlotte Ruth
+1 BIRT
+2 DATE 7 APR 1929
+1 FAMC @F163@
+0 @I683@ INDI
+1 NAME Clarence Roland /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Clarence Roland
+1 BIRT
+2 DATE 26 DEC 1934
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 19 JUN 2020
+2 PLAC Grand Haven, Michigan
+1 FAMS @F178@
+1 FAMC @F158@
+0 @I684@ INDI
+1 NAME Clayton /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Clayton
+1 BIRT
+2 DATE 1993
+1 FAMC @F170@
+0 @I685@ INDI
+1 NAME Cornelia Adriaansd /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelia Adriaansd
+1 BIRT
+2 DATE 26 JAN 1846
+2 PLAC Goes, Zeeland, the Netherlands
+1 DEAT
+2 DATE 28 MAY 1847
+2 PLAC Goes, Zeeland, the Netherlands
+1 FAMC @F171@
+0 @I686@ INDI
+1 NAME Cornelis Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelis Adriaansz
+1 BIRT
+2 DATE 20 JAN 1854
+2 PLAC Goes, Goes, Netherlands
+1 DEAT
+2 DATE 27 JUL 1856
+2 PLAC Goes, Goes, Netherlands
+1 FAMC @F172@
+0 @I687@ INDI
+1 NAME Cornelis Clarence /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelis Clarence
+1 BIRT
+2 DATE 10 MAR 1915
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 28 SEP 1983
+2 PLAC Grand Haven, Michigan
+1 FAMS @F189@
+1 FAMC @F163@
+0 @I688@ INDI
+1 NAME Cornelis /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Cornelis
+1 BIRT
+2 DATE 30 MAY 1858
+2 PLAC Goes, Zeeland Netherlands
+1 DEAT
+2 DATE 15 NOV 1931
+2 PLAC Grand Haven, MI
+1 FAMS @F162@
+1 FAMS @F176@
+1 FAMC @F172@
+0 @I689@ INDI
+1 NAME Cornelius Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelius Adriaansz
+1 BIRT
+2 DATE 20 JAN 1854
+2 PLAC Goes, Zeeland, Netherlands
+0 @I690@ INDI
+1 NAME Cornelius Adriaansz VerBerkmoes 6 /mons/
+2 SURN mons
+2 GIVN Cornelius Adriaansz VerBerkmoes 6
+1 DEAT
+2 DATE 27 JUN 1856
+2 PLAC Goes, Zeeland, Netherlands
+1 FAMC @F172@
+0 @I691@ INDI
+1 NAME Cornelius Henry /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelius Henry
+1 BIRT
+2 DATE 21 JAN 1935
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 13 OCT 2008
+2 PLAC Nunica, Michigan
+1 FAMS @F186@
+0 @I692@ INDI
+1 NAME Cornelius (Kack) /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelius (Kack)
+1 BIRT
+2 DATE 30 SEP 1898
+2 PLAC Grand Haven, Michigan
+1 FAMC @F173@
+0 @I693@ INDI
+1 NAME Cornelius /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cornelius
+1 BIRT
+2 DATE 1896
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 1896
+1 FAMC @F173@
+0 @I694@ INDI
+1 NAME Corneluis Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Corneluis Adriaansz
+0 @I695@ INDI
+1 NAME Craig Donald /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Craig Donald
+1 BIRT
+2 DATE 28 FEB 1963
+1 FAMS @F161@
+1 FAMC @F174@
+0 @I696@ INDI
+1 NAME Cynthia Elizabeth /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Cynthia Elizabeth
+1 BIRT
+2 DATE 30 NOV 1948
+1 FAMC @F175@
+0 @I697@ INDI
+1 NAME Daughter of Charles Ray /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Daughter of Charles Ray
+1 FAMS @F164@
+0 @I698@ INDI
+1 NAME Daughter of Robert Edward Culver /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Daughter of Robert Edward Culver
+1 FAMS @F195@
+0 @I699@ INDI
+1 NAME David /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN David
+1 BIRT
+2 DATE 12 MAY 1946
+1 FAMC @F168@
+0 @I700@ INDI
+1 NAME Deerkje (Delia) VerBerkmoes Jobin 8m /29d/
+2 SURN 29d
+2 GIVN Deerkje (Delia) VerBerkmoes Jobin 8m
+1 DEAT
+2 DATE 26 NOV 1944
+2 PLAC Detroit, MI
+0 @I701@ INDI
+1 NAME Deerkje /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Deerkje
+1 BIRT
+2 DATE 27 FEB 1882
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 26 NOV 1944
+2 PLAC Detroit, Wayne, MI
+1 FAMS @F65@
+1 FAMC @F176@
+0 @I702@ INDI
+1 NAME Delia (Derka) /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Delia (Derka)
+1 BIRT
+2 DATE 15 APR 1879
+2 PLAC Fremont Center, Michigan
+1 DEAT
+2 DATE 10 DEC 1952
+2 PLAC Grand Haven, Michigan
+1 FAMS @F152@
+1 FAMC @F155@
+0 @I703@ INDI
+1 NAME Delia /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Delia
+1 BIRT
+2 DATE 30 APR 1916
+2 PLAC Grand Rapids, Kent, MI
+1 DEAT
+2 DATE 1 AUG 1979
+2 PLAC Ann arbor, Washtenaw, MI
+1 FAMS @F140@
+1 FAMS @F143@
+1 FAMS @F147@
+1 FAMC @F159@
+0 @I704@ INDI
+1 NAME Della (Adele) /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Della (Adele)
+1 BIRT
+2 DATE NOV 1884
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 7 APR 1905
+2 PLAC Grand Haven, MI
+1 FAMS @F239@
+1 FAMC @F177@
+0 @I705@ INDI
+1 NAME Della (Adele) VerBerkmoes /Rinn/
+2 SURN Rinn
+2 GIVN Della (Adele) VerBerkmoes
+1 DEAT
+2 DATE 7 APR 1905
+2 PLAC Grand Haven, Ottawa, MI
+0 @I706@ INDI
+1 NAME Denise /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Denise
+1 FAMC @F178@
+0 @I707@ INDI
+1 NAME Derell Arnold /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Derell Arnold
+1 BIRT
+2 DATE 21 SEP 1925
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 28 APR 1926
+2 PLAC Grand Haven, Michigan
+1 FAMC @F179@
+0 @I708@ INDI
+1 NAME Derk Richard VerBerkmoes /Schowenaar/
+2 SURN Schowenaar
+2 GIVN Derk Richard VerBerkmoes
+1 BIRT
+2 DATE 14 OCT 1889
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 30 JAN 1915
+2 PLAC Grand Rapids, Kent, MI
+0 @I709@ INDI
+1 NAME Donald Henry /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Donald Henry
+1 BIRT
+2 DATE 1 APR 1919
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 5 NOV 1988
+2 PLAC Pentwater, MI
+1 FAMS @F168@
+1 FAMC @F163@
+0 @I710@ INDI
+1 NAME Donald /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Donald
+1 BIRT
+2 DATE 10 MAR 1942
+2 PLAC Grand Haven, Michigan
+1 FAMS @F166@
+1 FAMS @F174@
+1 FAMC @F180@
+0 @I711@ INDI
+1 NAME Donna Kay /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Donna Kay
+1 FAMS @F10@
+1 FAMC @F166@
+0 @I712@ INDI
+1 NAME Doris Louise /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Doris Louise
+1 BIRT
+2 DATE 23 NOV 1928
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 22 FEB 2007
+1 FAMC @F84@
+0 @I713@ INDI
+1 NAME Doris /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Doris
+1 BIRT
+2 DATE 7 FEB 1946
+1 DEAT
+2 DATE 22 MAR 2009
+0 @I714@ INDI
+1 NAME Durell Lee /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Durell Lee
+1 BIRT
+2 DATE 29 JAN 1940
+1 FAMC @F181@
+0 @I715@ INDI
+1 NAME Edith /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Edith
+1 BIRT
+2 DATE 26 SEP 1918
+2 PLAC Grand Rapids, Kent, MI
+1 FAMS @F128@
+1 FAMC @F159@
+0 @I716@ INDI
+1 NAME Edward /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Edward
+1 BIRT
+2 DATE 6 SEP 1884
+2 PLAC Grand Haven, Michigan
+1 FAMS @F159@
+0 @I717@ INDI
+1 NAME Edwin George /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Edwin George
+1 BIRT
+2 DATE 29 FEB 1924
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 30 NOV 2008
+2 PLAC Ada, MI
+1 FAMS @F191@
+1 FAMC @F163@
+0 @I718@ INDI
+1 NAME Elizabeth A VerBerkmoes Hieftje 3m /21d/
+2 SURN 21d
+2 GIVN Elizabeth A VerBerkmoes Hieftje 3m
+1 DEAT
+2 DATE 31 JAN 1932
+0 @I719@ INDI
+1 NAME Elizabeth Adriaansd /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Elizabeth Adriaansd
+1 BIRT
+2 DATE 10 OCT 1863
+2 PLAC Goes, Zeeland, Netherlands
+1 DEAT
+2 DATE 31 JAN 1932
+2 PLAC Grand Rapids, Grand Rapids
+1 FAMS @F240@
+1 FAMC @F172@
+0 @I720@ INDI
+1 NAME Elizabeth Mae /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Elizabeth Mae
+1 BIRT
+2 DATE 11 MAY 1914
+2 PLAC Indiana
+1 DEAT
+2 DATE 11 JUL 1969
+2 PLAC Hammond, Lake, Indiana
+1 FAMS @F7@
+1 FAMC @F160@
+0 @I721@ INDI
+1 NAME Elizabeth /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Elizabeth
+1 BIRT
+2 DATE 31 DEC 1890
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE JUL 1939
+2 PLAC Windsor, Canada
+1 FAMS @F63@
+1 FAMS @F104@
+1 FAMC @F173@
+0 @I722@ INDI
+1 NAME Elizabeth VerBerkmoes Deephouse McNamara 5m /15dy/
+2 SURN 15dy
+2 GIVN Elizabeth VerBerkmoes Deephouse McNamara 5m
+1 DEAT
+2 DATE 16 JUN 1939
+0 @I723@ INDI
+1 NAME Elizabeth VerBerkmoes /Deephouse/
+2 SURN Deephouse
+2 GIVN Elizabeth VerBerkmoes
+0 @I724@ INDI
+1 NAME Emily /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Emily
+1 BIRT
+2 DATE 24 APR 1932
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 24 APR 1932
+2 PLAC Grand Haven, MI
+1 FAMC @F158@
+0 @I725@ INDI
+1 NAME Evelyn Jean /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Evelyn Jean
+1 BIRT
+2 DATE 5 SEP 1926
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 7 JAN 2009
+2 PLAC Jefferson, Ohio
+1 FAMS @F121@
+1 FAMC @F182@
+0 @I726@ INDI
+1 NAME Female /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Female
+1 FAMC @F155@
+0 @I727@ INDI
+1 NAME Francis Adle /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Francis Adle
+1 FAMS @F38@
+0 @I728@ INDI
+1 NAME Francisa Domitaria /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Francisa Domitaria
+1 DEAT
+2 DATE 1878
+1 FAMC @F183@
+0 @I729@ INDI
+1 NAME Gary Anthony /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Gary Anthony
+1 BIRT
+2 DATE 5 APR 1941
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 PLAC 14, 2017
+1 FAMC @F158@
+0 @I730@ INDI
+1 NAME Geertruida Johanna Andriaansd /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Geertruida Johanna Andriaansd
+1 BIRT
+2 DATE 14 SEP 1791
+2 PLAC Hulst, Zeeland, the Netherlands
+1 FAMC @F165@
+0 @I731@ INDI
+1 NAME George W Verberkmoes /Jr/
+2 SURN Jr
+2 GIVN George W Verberkmoes
+0 @I732@ INDI
+1 NAME George William /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN George William
+1 BIRT
+2 DATE 27 APR 1902
+2 PLAC Ann Arbor Washtenaw, Michigan
+1 DEAT
+2 DATE 14 AUG 1987
+2 PLAC Grand Haven, Michigan
+1 FAMS @F190@
+1 FAMS @F241@
+1 FAMS @F242@
+1 FAMC @F184@
+0 @I733@ INDI
+1 NAME Gerald Lee /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Gerald Lee
+1 BIRT
+2 DATE 11 JAN 1930
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 2017
+1 FAMS @F198@
+1 FAMC @F158@
+0 @I734@ INDI
+1 NAME Gertrude Charlotte /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Gertrude Charlotte
+1 FAMS @F58@
+0 @I735@ INDI
+1 NAME Harold P /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Harold P
+1 BIRT
+2 DATE 2 MAR 1921
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 2 NOV 2010
+2 PLAC Englewood, Florida
+1 FAMC @F163@
+0 @I736@ INDI
+1 NAME Helen Teressa /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Helen Teressa
+1 BIRT
+2 DATE 22 FEB 1911
+1 FAMS @F77@
+1 FAMC @F185@
+0 @I737@ INDI
+1 NAME Hendrick Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Hendrick Adriaansz
+1 BIRT
+2 DATE 6 APR 1865
+2 PLAC Goes, Goes, Zeeland, Netherlands
+1 DEAT
+2 DATE 7 APR 1865
+2 PLAC Goes, Goes, Zeeland, Netherlands
+1 FAMC @F172@
+0 @I738@ INDI
+1 NAME Henrickie Pruim /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Henrickie Pruim
+1 DEAT
+2 DATE 13 NOV 1951
+2 PLAC Grand Haven, Ottawa, MI
+0 @I739@ INDI
+1 NAME Henry J /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Henry J
+1 BIRT
+2 DATE 1 JUN 1931
+2 PLAC Grand Haven, MI
+1 FAMS @F199@
+1 FAMC @F163@
+0 @I740@ INDI
+1 NAME Henry /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Henry
+1 BIRT
+2 DATE 30 JUN 1889
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 24 NOV 1930
+2 PLAC Grand Haven, Michigan
+1 FAMS @F163@
+1 FAMC @F173@
+0 @I741@ INDI
+1 NAME Holly /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Holly
+1 BIRT
+2 DATE 9 OCT 1962
+2 PLAC Biloxi, Mississippi
+1 FAMC @F186@
+0 @I742@ INDI
+1 NAME Howard A /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Howard A
+1 BIRT
+2 DATE 17 MAY 1909
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 19 JUL 1965
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F243@
+1 FAMC @F185@
+0 @I743@ INDI
+1 NAME Howard /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Howard
+1 BIRT
+2 PLAC 29, 1933     Grand Haven, Ottawa, MI
+1 FAMS @F167@
+1 FAMS @F181@
+1 FAMC @F181@
+0 @I744@ INDI
+1 NAME Ila Elizabeth /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Ila Elizabeth
+1 BIRT
+2 DATE 3 MAY 1909
+2 PLAC Kalamazoo, Kalamazoo Cnty, Michigan
+1 DEAT
+2 DATE 7 MAY 1909
+2 PLAC Kalamazoo, Kalamazoo Cnty, Michigan
+1 FAMC @F169@
+0 @I745@ INDI
+1 NAME Irmagene /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Irmagene
+1 BIRT
+2 DATE 17 NOV 1919
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 5 APR 2005
+2 PLAC Boynton, Beach, Florida
+1 FAMS @F69@
+1 FAMC @F185@
+0 @I746@ INDI
+1 NAME Jacoba Jane /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jacoba Jane
+1 BIRT
+2 DATE 29 APR 1925
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 28 JAN 2002
+2 PLAC Grand Haven, Michigan
+1 FAMS @F68@
+1 FAMC @F158@
+0 @I747@ INDI
+1 NAME Jacobus /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jacobus
+1 BIRT
+2 DATE 1672
+0 @I748@ INDI
+1 NAME James Dale /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN James Dale
+1 BIRT
+2 DATE 12 MAY 1946
+1 FAMC @F168@
+0 @I749@ INDI
+1 NAME James Merle /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN James Merle
+1 BIRT
+2 DATE 1940
+2 PLAC Indiana
+1 FAMC @F187@
+0 @I750@ INDI
+1 NAME Jared /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jared
+0 @I751@ INDI
+1 NAME Jeanette /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jeanette
+1 DEAT
+2 DATE 25 JUN 1923
+2 PLAC Chicago, Cook, Ill
+0 @I752@ INDI
+1 NAME Jeffery /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jeffery
+1 FAMS @F73@
+1 FAMC @F178@
+0 @I753@ INDI
+1 NAME Jill /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Jill
+1 FAMC @F73@
+0 @I754@ INDI
+1 NAME Johanna Katrina /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Johanna Katrina
+1 BIRT
+2 DATE 23 AUG 1894
+1 DEAT
+2 DATE 16 AUG 1981
+2 PLAC Goes, Zeeland, Netherlands
+1 FAMS @F56@
+1 FAMC @F188@
+0 @I755@ INDI
+1 NAME John A /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN John A
+1 BIRT
+2 DATE 21 JAN 1935
+2 PLAC Grand Haven, Michigan
+1 FAMS @F244@
+1 FAMC @F189@
+0 @I756@ INDI
+1 NAME John Thomas /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN John Thomas
+1 BIRT
+2 DATE 13 MAY 1924
+2 PLAC Marion, Grant, Indiana
+1 FAMS @F245@
+1 FAMC @F190@
+0 @I757@ INDI
+1 NAME Joseph Herbert /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Joseph Herbert
+1 BIRT
+2 DATE 3 DEC 1891
+2 PLAC Grand Haven, MI
+0 @I758@ INDI
+1 NAME Joseph Herbert VerBerkmoes /Jr/
+2 SURN Jr
+2 GIVN Joseph Herbert VerBerkmoes
+1 BIRT
+2 DATE 13 JUL 1923
+1 FAMC @F158@
+0 @I759@ INDI
+1 NAME Joseph Herbert VerBerkmoes /Sr/
+2 SURN Sr
+2 GIVN Joseph Herbert VerBerkmoes
+1 BIRT
+2 DATE 3 DEC 1891
+2 PLAC Grand Haven, Ottawa, Michigan
+1 DEAT
+2 DATE 10 JUL 1955
+2 PLAC Grand Haven, Ottawa, Michigan
+1 FAMS @F158@
+1 FAMC @F173@
+0 @I760@ INDI
+1 NAME Joseph /\/
+2 SURN \
+2 GIVN Joseph
+1 BIRT
+2 DATE 2 DEC 1892
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 2 DEC 1892
+2 PLAC Grand Haven, MI
+1 FAMC @F173@
+0 @I761@ INDI
+1 NAME Joyice Elaine /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Joyice Elaine
+1 BIRT
+2 DATE 2 MAY 1930
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 21 JUL 2010
+2 PLAC Spring Lake, Michigan
+1 FAMS @F50@
+1 FAMC @F84@
+0 @I762@ INDI
+1 NAME Karl /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Karl
+1 BIRT
+2 DATE 12 FEB 1953
+2 PLAC Grant, MI
+1 DEAT
+2 DATE 14 FEB 1953
+2 PLAC Grant, MI
+1 FAMC @F191@
+0 @I763@ INDI
+1 NAME Krien VerBerkmoes /Jr/
+2 SURN Jr
+2 GIVN Krien VerBerkmoes
+1 BIRT
+2 DATE 8 JUL 1924
+1 DEAT
+2 DATE 20 APR 2010
+1 FAMS @F246@
+1 FAMC @F84@
+0 @I764@ INDI
+1 NAME Krien VerBerkmoes /Sr/
+2 SURN Sr
+2 GIVN Krien VerBerkmoes
+1 BIRT
+2 DATE 19 OCT 1894
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 9 MAY 1961
+2 PLAC Grand Haven, MI
+1 FAMS @F247@
+1 FAMC @F173@
+0 @I765@ INDI
+1 NAME Krien /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Krien
+1 FAMS @F84@
+1 FAMS @F192@
+1 FAMC @F192@
+0 @I766@ INDI
+1 NAME Krijn (Krien) Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Krijn (Krien) Adriaansz
+1 BIRT
+2 DATE 18 JUL 1860
+2 PLAC Goes, Zeeland, the Netherlands
+1 FAMC @F193@
+0 @I767@ INDI
+1 NAME Krijn VerBerkmoes 4 mons 13 /dys/
+2 SURN dys
+2 GIVN Krijn VerBerkmoes 4 mons 13
+1 DEAT
+2 DATE 14 AUG 1856
+2 PLAC Goes, Zeeland, the Netherlands
+1 FAMC @F172@
+0 @I768@ INDI
+1 NAME Kryn (Krien) /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Kryn (Krien)
+1 DEAT
+2 DATE 20 DEC 1894
+2 PLAC Grand Haven, MI
+0 @I769@ INDI
+1 NAME Leonard /\/
+2 SURN \
+2 GIVN Leonard
+1 BIRT
+2 DATE 20 FEB 1878
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 29 OCT 1955
+2 PLAC Milwaukee, Wisconsin
+0 @I770@ INDI
+1 NAME Leonard VerBerkmoes Spring Lake, /MI/
+2 SURN MI
+2 GIVN Leonard VerBerkmoes Spring Lake,
+0 @I771@ INDI
+1 NAME Lester /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Lester
+1 BIRT
+2 DATE 1918
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 1975
+1 FAMC @F185@
+0 @I772@ INDI
+1 NAME Linda S /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Linda S
+1 BIRT
+2 DATE 5 JUL 1958
+2 PLAC Elkhart, Elkhart, Indiana
+1 DEAT
+2 DATE 17 JUN 2021
+2 PLAC South Bend, Indiana
+1 FAMC @F164@
+0 @I773@ INDI
+1 NAME Lisa /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Lisa
+1 FAMC @F186@
+0 @I774@ INDI
+1 NAME Lois /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Lois
+1 FAMC @F192@
+0 @I775@ INDI
+1 NAME Loyd L /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Loyd L
+1 BIRT
+2 DATE 1934
+1 FAMC @F163@
+0 @I776@ INDI
+1 NAME Margaret Wood Sayers /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Margaret Wood Sayers
+1 DEAT
+2 DATE 1967
+0 @I777@ INDI
+1 NAME Marianne /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Marianne
+1 BIRT
+2 DATE 1937
+2 PLAC Grand Haven, Michigan
+1 FAMC @F194@
+0 @I778@ INDI
+1 NAME Marie Mary /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Marie Mary
+1 BIRT
+2 DATE 29 AUG 1885
+2 PLAC Grand Haven  Ottawa, MI
+1 DEAT
+2 DATE 29 SEP 1898
+2 PLAC Grand Haven  Ottawa, MI
+0 @I779@ INDI
+1 NAME Marva May /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Marva May
+1 BIRT
+2 DATE 24 OCT 1921
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 3 MAR 1998
+2 PLAC Lake Worth, Palm Beach, Florida
+1 FAMC @F185@
+0 @I780@ INDI
+1 NAME Mary Helen /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Mary Helen
+1 BIRT
+2 DATE 4 NOV 1926
+1 DEAT
+2 DATE 7 APR 2020
+1 FAMS @F48@
+1 FAMC @F84@
+0 @I781@ INDI
+1 NAME Mary /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Mary
+1 BIRT
+2 DATE 16 JUN 1888
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 15 AUG 1951
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F155@
+0 @I782@ INDI
+1 NAME Mary /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Mary
+1 FAMC @F195@
+0 @I783@ INDI
+1 NAME Merle Dale /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Merle Dale
+1 BIRT
+2 DATE 4 NOV 1917
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMS @F187@
+1 FAMC @F185@
+0 @I784@ INDI
+1 NAME Opal Marie Cartwright /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Opal Marie Cartwright
+1 DEAT
+2 DATE 14 MAY 1939
+2 PLAC Marion Indiana
+0 @I785@ INDI
+1 NAME Pamela VerBerkmoes Elkhart, Elkhart, /Indiana/
+2 SURN Indiana
+2 GIVN Pamela VerBerkmoes Elkhart, Elkhart,
+1 BIRT
+2 DATE 1962
+1 FAMC @F195@
+0 @I786@ INDI
+1 NAME Patricia (Patsey) Ann /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Patricia (Patsey) Ann
+1 BIRT
+2 DATE 24 SEP 1932
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F181@
+0 @I787@ INDI
+1 NAME Peter /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Peter
+1 BIRT
+2 DATE JUL 1887
+2 PLAC Grand Haven Michigan
+1 DEAT
+2 DATE 13 JAN 1981
+2 PLAC Elkhart, Indiana
+1 FAMS @F169@
+1 FAMC @F155@
+0 @I788@ INDI
+1 NAME Peter VerBerkmoes /Jr/
+2 SURN Jr
+2 GIVN Peter VerBerkmoes
+1 BIRT
+2 DATE 14 FEB 1922
+2 PLAC Elkhart, Elkhart, Indiana
+1 DEAT
+2 PLAC California
+1 FAMS @F175@
+1 FAMC @F169@
+0 @I789@ INDI
+1 NAME Peter VerBerkmoes (law /clerk)/
+2 SURN clerk)
+2 GIVN Peter VerBerkmoes (law
+0 @I790@ INDI
+1 NAME Petronella Adriaansd /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Petronella Adriaansd
+1 BIRT
+2 DATE 1796
+2 PLAC Hulst, Zeeland, the Netherlands
+1 FAMC @F165@
+0 @I791@ INDI
+1 NAME Pieter Jabobus Adriaansz VerBerkmoes 2mons /14dys/
+2 SURN 14dys
+2 GIVN Pieter Jabobus Adriaansz VerBerkmoes 2mons
+1 DEAT
+2 DATE 20 FEB 1931
+0 @I792@ INDI
+1 NAME Pieter Jacobus Andriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Pieter Jacobus Andriaansz
+1 BIRT
+2 DATE 7 DEC 1851
+2 PLAC Goes, Zeeland, Netherlands
+1 DEAT
+2 DATE 20 FEB 1931
+2 PLAC Grand Rapids, Kent, MI
+1 FAMS @F183@
+1 FAMC @F172@
+0 @I793@ INDI
+1 NAME Pieter Jacobus Willemsz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Pieter Jacobus Willemsz
+1 BIRT
+2 DATE 22 DEC 1827
+2 PLAC Goes, Zeeland, the Netherlands
+1 DEAT
+2 DATE 22 JUL 1849
+2 PLAC Goes, Zeeland, the Netherlands
+1 FAMC @F154@
+0 @I794@ INDI
+1 NAME Randel /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Randel
+1 BIRT
+2 DATE 1963
+1 FAMS @F248@
+1 FAMC @F196@
+0 @I795@ INDI
+1 NAME Regina /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Regina
+1 FAMC @F73@
+0 @I796@ INDI
+1 NAME Richard Arthur /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Richard Arthur
+1 BIRT
+2 DATE 5 AUG 1924
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 14 AUG 2001
+2 PLAC Ashtabula, Ohio
+1 FAMS @F249@
+1 FAMC @F157@
+0 @I797@ INDI
+1 NAME Robert Edward Culver /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Robert Edward Culver
+1 BIRT
+2 DATE 4 AUG 1937
+2 PLAC Elkhart, Elkhart, Indiana
+1 DEAT
+2 DATE 27 MAR 2010
+2 PLAC Moultrie, Colquitt, Georgia
+1 FAMS @F250@
+1 FAMC @F197@
+0 @I798@ INDI
+1 NAME Robert Eugene /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Robert Eugene
+1 BIRT
+2 DATE 6 DEC 1936
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 10 DEC 1936
+2 PLAC Grand Haven, Michigan
+1 FAMC @F84@
+0 @I799@ INDI
+1 NAME Robert /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Robert
+1 FAMC @F192@
+0 @I800@ INDI
+1 NAME Russel Allen /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Russel Allen
+1 BIRT
+2 DATE 27 AUG 1952
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 27 AUG 1952
+2 PLAC Grand Haven, MI
+1 FAMC @F198@
+0 @I801@ INDI
+1 NAME Ruth Irene /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Ruth Irene
+1 BIRT
+2 DATE 16 FEB 1915
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 10 JUN 1973
+2 PLAC Lake Worth, Palm Beach, Florida
+1 FAMS @F21@
+1 FAMC @F185@
+0 @I802@ INDI
+1 NAME Ryan Peter /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Ryan Peter
+1 BIRT
+2 DATE NOV 1960
+1 FAMC @F175@
+0 @I803@ INDI
+1 NAME Sarah Jenette Leendertsd Faas /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Sarah Jenette Leendertsd Faas
+1 DEAT
+2 DATE 25 NOV 1921
+2 PLAC De Kalb, De Kalb, Illinois
+0 @I804@ INDI
+1 NAME Savannah Kay /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Savannah Kay
+1 BIRT
+2 DATE 1993
+1 FAMC @F161@
+0 @I805@ INDI
+1 NAME Selia /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Selia
+1 BIRT
+2 DATE FEB 1883
+2 PLAC Grand Haven  Ottawa, MI
+1 DEAT
+2 DATE 1883
+2 PLAC Grand Haven  Ottawa, MI
+1 FAMC @F162@
+0 @I806@ INDI
+1 NAME Sharon Yvone /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Sharon Yvone
+1 BIRT
+2 DATE 2 JUL 1930
+2 PLAC Grand Haven, Ottawa, MI
+1 DEAT
+2 DATE 6 AUG 2002
+2 PLAC Grand Haven, Ottawa, MI
+1 FAMC @F167@
+0 @I807@ INDI
+1 NAME Shelica /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Shelica
+1 FAMC @F195@
+0 @I808@ INDI
+1 NAME Sherry /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Sherry
+1 BIRT
+2 DATE 1949
+1 FAMC @F192@
+0 @I809@ INDI
+1 NAME Son of Charles Ray /Verberkmoes/
+2 SURN Verberkmoes
+2 GIVN Son of Charles Ray
+1 FAMS @F197@
+0 @I810@ INDI
+1 NAME Son of Randel /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Son of Randel
+1 FAMS @F170@
+0 @I811@ INDI
+1 NAME Son of Robert Edward Culver /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Son of Robert Edward Culver
+1 FAMS @F196@
+0 @I812@ INDI
+1 NAME Stephanie /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Stephanie
+1 BIRT
+2 DATE 1966
+2 PLAC MI
+1 FAMC @F199@
+0 @I813@ INDI
+1 NAME Stephen Marquardt /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Stephen Marquardt
+1 FAMC @F196@
+0 @I814@ INDI
+1 NAME Stewart Arthur /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Stewart Arthur
+1 BIRT
+2 DATE 1 SEP 1899
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 24 SEP 1968
+2 PLAC Gales Creek, Washington, Oregon
+1 FAMS @F157@
+1 FAMC @F184@
+0 @I815@ INDI
+1 NAME Susan A /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Susan A
+1 BIRT
+2 DATE JUL 1881
+2 PLAC Grand Haven, Michigan
+1 DEAT
+2 DATE 18 OCT 1945
+2 PLAC Mount Sterling, Illinois
+1 FAMS @F251@
+1 FAMS @F252@
+1 FAMC @F156@
+0 @I816@ INDI
+1 NAME Susan A VerBerkmoes Abbott /Rutledge/
+2 SURN Rutledge
+2 GIVN Susan A VerBerkmoes Abbott
+1 DEAT
+2 DATE 18 OCT 1945
+2 PLAC Mount Sterling, Illinois
+0 @I817@ INDI
+1 NAME Susan E /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Susan E
+1 BIRT
+2 DATE 1944
+2 PLAC North Carolina
+1 FAMC @F187@
+0 @I818@ INDI
+1 NAME Suzanne Louise /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Suzanne Louise
+1 BIRT
+2 DATE 10 MAR 1944
+2 PLAC Traverse City, MI
+1 FAMC @F168@
+0 @I819@ INDI
+1 NAME Tammy /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Tammy
+1 FAMC @F195@
+0 @I820@ INDI
+1 NAME VerBerkmoes //
+2 GIVN VerBerkmoes
+1 FAMC @F200@
+0 @I821@ INDI
+1 NAME Viola Lou /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Viola Lou
+1 BIRT
+2 DATE 6 OCT 1908
+2 PLAC Nevada
+1 DEAT
+2 DATE 18 JAN 1977
+2 PLAC Multnomah Cnty, Oregon
+1 FAMS @F253@
+1 FAMC @F201@
+0 @I822@ INDI
+1 NAME Viola Lou VerBerkmoes /Flemming/
+2 SURN Flemming
+2 GIVN Viola Lou VerBerkmoes
+1 DEAT
+2 DATE 18 JAN 1977
+0 @I823@ INDI
+1 NAME Vorar A /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Vorar A
+1 BIRT
+2 DATE 22 MAY 1914
+2 PLAC Hammond,  Lake Cnty, Ind
+0 @I824@ INDI
+1 NAME Willem Felix Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Willem Felix Adriaansz
+1 BIRT
+2 DATE 4 NOV 1789
+2 PLAC Hulst Zeeland the Netherlands
+1 DEAT
+2 DATE 6 APR 1843
+2 PLAC Hulst, Zeeland, the Netherlands
+1 FAMS @F254@
+1 FAMC @F202@
+0 @I825@ INDI
+1 NAME William /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN William
+1 BIRT
+2 DATE 5 MAY 1883
+2 PLAC Grand Haven, MI
+0 @I826@ INDI
+1 NAME William /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN William
+1 BIRT
+2 DATE 5 MAY 1883
+2 PLAC Grand Haven, Michigan     Grand Haven, MI
+1 DEAT
+2 DATE 6 MAR 1946
+2 PLAC Los Angeles, California
+1 FAMS @F255@
+1 FAMC @F155@
+0 @I827@ INDI
+1 NAME William /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN William
+1 BIRT
+2 DATE 12 MAR 1888
+2 PLAC Grand Haven, MI
+1 DEAT
+2 DATE 2 FEB 1921
+2 PLAC Chicago. Cook, Illinois
+1 FAMS @F160@
+1 FAMS @F256@
+1 FAMC @F203@
+0 @I828@ INDI
+1 NAME Williem Feliz Adriaansz /VerBerkmoes/
+2 SURN VerBerkmoes
+2 GIVN Williem Feliz Adriaansz
+1 BIRT
+2 DATE 12 MAR 1847
+2 PLAC Goes, Zeeland, the Netherlands
+1 DEAT
+2 DATE 5 JAN 1922
+2 PLAC Eastmanville, Ottawa Grand Haven, Michigan
+1 FAMS @F257@
+1 FAMC @F171@
+0 @I829@ INDI
+1 NAME Williem VerBerkmoes F /A/
+2 SURN A
+2 GIVN Williem VerBerkmoes F
+1 FAMS @F177@
+0 @F1@ FAM
+1 HUSB @I31@
+1 WIFE @I268@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I19@
+1 CHIL @I23@
+1 CHIL @I29@
+0 @F2@ FAM
+1 HUSB @I35@
+1 WIFE @I165@
+1 CHIL @I6@
+1 CHIL @I8@
+1 CHIL @I13@
+1 CHIL @I16@
+1 CHIL @I21@
+1 CHIL @I34@
+0 @F3@ FAM
+1 HUSB @I33@
+1 CHIL @I14@
+0 @F4@ FAM
+1 HUSB @I35@
+1 WIFE @I353@
+1 CHIL @I22@
+0 @F5@ FAM
+1 WIFE @I421@
+1 CHIL @I24@
+0 @F6@ FAM
+1 HUSB @I24@
+1 CHIL @I26@
+0 @F7@ FAM
+1 HUSB @I480@
+1 WIFE @I720@
+1 CHIL @I42@
+1 CHIL @I144@
+1 CHIL @I575@
+0 @F8@ FAM
+1 HUSB @I526@
+1 WIFE @I644@
+1 CHIL @I48@
+1 CHIL @I116@
+1 CHIL @I321@
+1 CHIL @I497@
+0 @F9@ FAM
+1 HUSB @I143@
+1 CHIL @I50@
+1 CHIL @I438@
+0 @F10@ FAM
+1 HUSB @I499@
+1 WIFE @I711@
+1 CHIL @I51@
+0 @F11@ FAM
+1 HUSB @I613@
+1 CHIL @I52@
+1 CHIL @I69@
+1 CHIL @I76@
+1 CHIL @I572@
+0 @F12@ FAM
+1 HUSB @I503@
+1 WIFE @I402@
+1 CHIL @I53@
+1 CHIL @I105@
+1 CHIL @I110@
+1 CHIL @I194@
+1 CHIL @I591@
+0 @F13@ FAM
+1 HUSB @I506@
+1 WIFE @I550@
+1 CHIL @I54@
+1 CHIL @I82@
+1 CHIL @I439@
+0 @F14@ FAM
+1 WIFE @I72@
+1 CHIL @I55@
+1 CHIL @I119@
+0 @F15@ FAM
+1 HUSB @I176@
+1 CHIL @I56@
+1 CHIL @I312@
+1 CHIL @I436@
+0 @F16@ FAM
+1 HUSB @I141@
+1 WIFE @I320@
+1 CHIL @I59@
+1 CHIL @I320@
+0 @F17@ FAM
+1 HUSB @I527@
+1 WIFE @I115@
+1 CHIL @I61@
+1 CHIL @I325@
+1 CHIL @I372@
+0 @F18@ FAM
+1 HUSB @I247@
+1 WIFE @I56@
+1 CHIL @I63@
+1 CHIL @I403@
+1 CHIL @I555@
+0 @F19@ FAM
+1 HUSB @I291@
+1 CHIL @I64@
+1 CHIL @I140@
+1 CHIL @I250@
+1 CHIL @I333@
+1 CHIL @I452@
+0 @F20@ FAM
+1 WIFE @I381@
+1 CHIL @I65@
+1 CHIL @I200@
+0 @F21@ FAM
+1 HUSB @I187@
+1 WIFE @I801@
+1 CHIL @I66@
+1 CHIL @I422@
+0 @F22@ FAM
+1 HUSB @I337@
+1 WIFE @I217@
+1 CHIL @I74@
+1 CHIL @I465@
+1 CHIL @I536@
+0 @F23@ FAM
+1 HUSB @I74@
+1 WIFE @I447@
+1 CHIL @I75@
+0 @F24@ FAM
+1 HUSB @I79@
+1 WIFE @I384@
+1 CHIL @I78@
+0 @F25@ FAM
+1 HUSB @I349@
+1 WIFE @I481@
+1 CHIL @I85@
+0 @F26@ FAM
+1 HUSB @I138@
+1 WIFE @I533@
+1 CHIL @I88@
+1 CHIL @I99@
+0 @F27@ FAM
+1 HUSB @I92@
+1 CHIL @I91@
+1 CHIL @I590@
+0 @F28@ FAM
+1 WIFE @I551@
+1 CHIL @I93@
+1 CHIL @I296@
+0 @F29@ FAM
+1 HUSB @I242@
+1 WIFE @I547@
+1 CHIL @I94@
+0 @F30@ FAM
+1 HUSB @I509@
+1 WIFE @I100@
+1 CHIL @I101@
+1 CHIL @I348@
+0 @F31@ FAM
+1 WIFE @I554@
+1 CHIL @I103@
+1 CHIL @I358@
+1 CHIL @I385@
+1 CHIL @I535@
+0 @F32@ FAM
+1 HUSB @I357@
+1 WIFE @I449@
+1 CHIL @I104@
+1 CHIL @I584@
+0 @F33@ FAM
+1 HUSB @I44@
+1 WIFE @I48@
+1 CHIL @I106@
+1 CHIL @I212@
+1 CHIL @I614@
+0 @F34@ FAM
+1 WIFE @I371@
+1 CHIL @I107@
+1 CHIL @I369@
+0 @F35@ FAM
+1 HUSB @I579@
+1 WIFE @I196@
+1 CHIL @I108@
+1 CHIL @I580@
+0 @F36@ FAM
+1 HUSB @I160@
+1 WIFE @I407@
+1 CHIL @I109@
+1 CHIL @I264@
+0 @F37@ FAM
+1 HUSB @I505@
+1 WIFE @I70@
+1 CHIL @I112@
+0 @F38@ FAM
+1 HUSB @I213@
+1 WIFE @I727@
+1 CHIL @I113@
+0 @F39@ FAM
+1 HUSB @I333@
+1 WIFE @I468@
+1 CHIL @I114@
+1 CHIL @I231@
+1 CHIL @I406@
+1 CHIL @I467@
+0 @F40@ FAM
+1 HUSB @I508@
+1 CHIL @I118@
+1 CHIL @I416@
+1 CHIL @I527@
+0 @F41@ FAM
+1 HUSB @I521@
+1 WIFE @I552@
+1 CHIL @I121@
+1 CHIL @I295@
+1 CHIL @I515@
+0 @F42@ FAM
+1 HUSB @I237@
+1 WIFE @I582@
+1 CHIL @I122@
+1 CHIL @I488@
+0 @F43@ FAM
+1 HUSB @I317@
+1 WIFE @I55@
+1 CHIL @I123@
+1 CHIL @I391@
+1 CHIL @I530@
+0 @F44@ FAM
+1 HUSB @I350@
+1 WIFE @I451@
+1 CHIL @I128@
+1 CHIL @I129@
+0 @F45@ FAM
+1 HUSB @I642@
+1 WIFE @I451@
+1 CHIL @I130@
+0 @F46@ FAM
+1 HUSB @I218@
+1 WIFE @I431@
+1 CHIL @I131@
+0 @F47@ FAM
+1 HUSB @I349@
+1 CHIL @I132@
+1 CHIL @I356@
+1 CHIL @I473@
+1 CHIL @I612@
+0 @F48@ FAM
+1 HUSB @I531@
+1 WIFE @I780@
+1 CHIL @I133@
+1 CHIL @I529@
+1 CHIL @I532@
+1 CHIL @I538@
+0 @F49@ FAM
+1 HUSB @I436@
+1 WIFE @I566@
+1 CHIL @I135@
+1 CHIL @I396@
+1 CHIL @I427@
+0 @F50@ FAM
+1 HUSB @I151@
+1 WIFE @I761@
+1 CHIL @I139@
+1 CHIL @I150@
+1 CHIL @I435@
+1 CHIL @I524@
+1 CHIL @I578@
+1 CHIL @I610@
+0 @F51@ FAM
+1 HUSB @I476@
+1 WIFE @I204@
+1 CHIL @I145@
+0 @F52@ FAM
+1 HUSB @I507@
+1 WIFE @I451@
+1 CHIL @I146@
+1 CHIL @I147@
+1 CHIL @I148@
+0 @F53@ FAM
+1 HUSB @I512@
+1 CHIL @I153@
+1 CHIL @I510@
+0 @F54@ FAM
+1 HUSB @I249@
+1 WIFE @I223@
+1 CHIL @I156@
+1 CHIL @I248@
+1 CHIL @I380@
+1 CHIL @I474@
+0 @F55@ FAM
+1 HUSB @I506@
+1 WIFE @I649@
+1 CHIL @I157@
+1 CHIL @I484@
+1 CHIL @I506@
+1 CHIL @I514@
+0 @F56@ FAM
+1 HUSB @I413@
+1 WIFE @I754@
+1 CHIL @I164@
+1 CHIL @I230@
+0 @F57@ FAM
+1 HUSB @I220@
+1 WIFE @I446@
+1 CHIL @I166@
+1 CHIL @I253@
+0 @F58@ FAM
+1 HUSB @I282@
+1 WIFE @I734@
+1 CHIL @I168@
+1 CHIL @I446@
+0 @F59@ FAM
+1 WIFE @I175@
+1 CHIL @I173@
+1 CHIL @I343@
+1 CHIL @I553@
+0 @F60@ FAM
+1 WIFE @I627@
+1 CHIL @I193@
+1 CHIL @I288@
+0 @F61@ FAM
+1 HUSB @I503@
+1 WIFE @I170@
+1 CHIL @I203@
+0 @F62@ FAM
+1 HUSB @I440@
+1 WIFE @I598@
+1 CHIL @I204@
+1 CHIL @I350@
+0 @F63@ FAM
+1 HUSB @I721@
+1 WIFE @I276@
+1 CHIL @I214@
+0 @F64@ FAM
+1 HUSB @I503@
+1 CHIL @I216@
+1 CHIL @I382@
+0 @F65@ FAM
+1 HUSB @I701@
+1 WIFE @I228@
+1 CHIL @I223@
+1 CHIL @I227@
+1 CHIL @I237@
+1 CHIL @I342@
+0 @F66@ FAM
+1 HUSB @I491@
+1 CHIL @I225@
+0 @F67@ FAM
+1 HUSB @I349@
+1 WIFE @I62@
+1 CHIL @I236@
+0 @F68@ FAM
+1 HUSB @I283@
+1 WIFE @I746@
+1 CHIL @I239@
+1 CHIL @I355@
+0 @F69@ FAM
+1 HUSB @I243@
+1 WIFE @I745@
+1 CHIL @I242@
+0 @F70@ FAM
+1 HUSB @I278@
+1 WIFE @I671@
+1 CHIL @I245@
+1 CHIL @I533@
+0 @F71@ FAM
+1 HUSB @I81@
+1 CHIL @I246@
+1 CHIL @I592@
+0 @F72@ FAM
+1 HUSB @I586@
+1 WIFE @I555@
+1 CHIL @I254@
+0 @F73@ FAM
+1 HUSB @I752@
+1 WIFE @I301@
+1 CHIL @I262@
+1 CHIL @I753@
+1 CHIL @I795@
+0 @F74@ FAM
+1 HUSB @I169@
+1 WIFE @I309@
+1 CHIL @I265@
+1 CHIL @I374@
+1 CHIL @I388@
+0 @F75@ FAM
+1 HUSB @I124@
+1 WIFE @I389@
+1 CHIL @I266@
+0 @F76@ FAM
+1 HUSB @I546@
+1 WIFE @I504@
+1 CHIL @I267@
+0 @F77@ FAM
+1 HUSB @I279@
+1 WIFE @I736@
+1 CHIL @I279@
+0 @F78@ FAM
+1 HUSB @I57@
+1 WIFE @I117@
+1 CHIL @I290@
+1 CHIL @I518@
+0 @F79@ FAM
+1 WIFE @I648@
+1 CHIL @I298@
+0 @F80@ FAM
+1 HUSB @I80@
+1 WIFE @I430@
+1 CHIL @I300@
+0 @F81@ FAM
+1 HUSB @I168@
+1 WIFE @I257@
+1 CHIL @I303@
+1 CHIL @I318@
+0 @F82@ FAM
+1 HUSB @I180@
+1 WIFE @I89@
+1 CHIL @I308@
+1 CHIL @I415@
+1 CHIL @I489@
+0 @F83@ FAM
+1 HUSB @I245@
+1 WIFE @I375@
+1 CHIL @I310@
+1 CHIL @I400@
+0 @F84@ FAM
+1 HUSB @I765@
+1 WIFE @I408@
+1 CHIL @I311@
+1 CHIL @I712@
+1 CHIL @I761@
+1 CHIL @I763@
+1 CHIL @I780@
+1 CHIL @I798@
+0 @F85@ FAM
+1 HUSB @I673@
+1 WIFE @I367@
+1 CHIL @I315@
+0 @F86@ FAM
+1 HUSB @I456@
+1 WIFE @I483@
+1 CHIL @I319@
+1 CHIL @I588@
+0 @F87@ FAM
+1 HUSB @I301@
+1 CHIL @I329@
+0 @F88@ FAM
+1 HUSB @I516@
+1 WIFE @I90@
+1 CHIL @I337@
+1 CHIL @I523@
+0 @F89@ FAM
+1 HUSB @I343@
+1 WIFE @I411@
+1 CHIL @I341@
+0 @F90@ FAM
+1 HUSB @I79@
+1 WIFE @I544@
+1 CHIL @I345@
+0 @F91@ FAM
+1 HUSB @I152@
+1 WIFE @I98@
+1 CHIL @I352@
+1 CHIL @I464@
+1 CHIL @I498@
+0 @F92@ FAM
+1 HUSB @I492@
+1 WIFE @I423@
+1 CHIL @I360@
+1 CHIL @I373@
+1 CHIL @I470@
+0 @F93@ FAM
+1 HUSB @I64@
+1 WIFE @I189@
+1 CHIL @I362@
+1 CHIL @I501@
+1 CHIL @I573@
+0 @F94@ FAM
+1 HUSB @I653@
+1 WIFE @I528@
+1 CHIL @I363@
+1 CHIL @I629@
+1 CHIL @I644@
+1 CHIL @I645@
+1 CHIL @I646@
+1 CHIL @I651@
+0 @F95@ FAM
+1 HUSB @I346@
+1 WIFE @I364@
+1 CHIL @I365@
+0 @F96@ FAM
+1 HUSB @I312@
+1 WIFE @I405@
+1 CHIL @I368@
+0 @F97@ FAM
+1 HUSB @I218@
+1 WIFE @I451@
+1 CHIL @I370@
+0 @F98@ FAM
+1 HUSB @I335@
+1 WIFE @I482@
+1 CHIL @I377@
+1 CHIL @I431@
+0 @F99@ FAM
+1 HUSB @I338@
+1 WIFE @I103@
+1 CHIL @I383@
+0 @F100@ FAM
+1 HUSB @I517@
+1 WIFE @I625@
+1 CHIL @I384@
+1 CHIL @I597@
+0 @F101@ FAM
+1 HUSB @I385@
+1 WIFE @I96@
+1 CHIL @I387@
+0 @F102@ FAM
+1 HUSB @I344@
+1 WIFE @I406@
+1 CHIL @I407@
+0 @F103@ FAM
+1 HUSB @I571@
+1 WIFE @I486@
+1 CHIL @I417@
+0 @F104@ FAM
+1 HUSB @I241@
+1 WIFE @I721@
+1 CHIL @I420@
+1 CHIL @I424@
+0 @F105@ FAM
+1 HUSB @I64@
+1 WIFE @I393@
+1 CHIL @I423@
+1 CHIL @I521@
+0 @F106@ FAM
+1 HUSB @I494@
+1 WIFE @I449@
+1 CHIL @I432@
+1 CHIL @I475@
+1 CHIL @I487@
+0 @F107@ FAM
+1 HUSB @I488@
+1 WIFE @I392@
+1 CHIL @I434@
+1 CHIL @I448@
+0 @F108@ FAM
+1 HUSB @I442@
+1 WIFE @I355@
+1 CHIL @I437@
+1 CHIL @I443@
+0 @F109@ FAM
+1 HUSB @I297@
+1 WIFE @I420@
+1 CHIL @I441@
+0 @F110@ FAM
+1 HUSB @I218@
+1 WIFE @I163@
+1 CHIL @I444@
+1 CHIL @I461@
+0 @F111@ FAM
+1 HUSB @I312@
+1 WIFE @I102@
+1 CHIL @I449@
+0 @F112@ FAM
+1 HUSB @I159@
+1 WIFE @I54@
+1 CHIL @I453@
+1 CHIL @I454@
+1 CHIL @I455@
+0 @F113@ FAM
+1 HUSB @I119@
+1 WIFE @I314@
+1 CHIL @I457@
+1 CHIL @I458@
+0 @F114@ FAM
+1 HUSB @I218@
+1 WIFE @I462@
+1 CHIL @I459@
+0 @F115@ FAM
+1 HUSB @I248@
+1 WIFE @I210@
+1 CHIL @I460@
+1 CHIL @I493@
+0 @F116@ FAM
+1 HUSB @I596@
+1 WIFE @I42@
+1 CHIL @I462@
+0 @F117@ FAM
+1 HUSB @I484@
+1 WIFE @I574@
+1 CHIL @I463@
+1 CHIL @I485@
+0 @F118@ FAM
+1 HUSB @I289@
+1 WIFE @I82@
+1 CHIL @I466@
+1 CHIL @I469@
+0 @F119@ FAM
+1 HUSB @I247@
+1 WIFE @I563@
+1 CHIL @I471@
+0 @F120@ FAM
+1 HUSB @I232@
+1 CHIL @I472@
+0 @F121@ FAM
+1 HUSB @I519@
+1 WIFE @I725@
+1 CHIL @I486@
+0 @F122@ FAM
+1 HUSB @I500@
+1 WIFE @I632@
+1 CHIL @I504@
+1 CHIL @I569@
+0 @F123@ FAM
+1 HUSB @I218@
+1 WIFE @I111@
+1 CHIL @I507@
+0 @F124@ FAM
+1 HUSB @I214@
+1 WIFE @I271@
+1 CHIL @I513@
+1 CHIL @I602@
+0 @F125@ FAM
+1 HUSB @I218@
+1 WIFE @I172@
+1 CHIL @I522@
+0 @F126@ FAM
+1 HUSB @I537@
+1 WIFE @I632@
+1 CHIL @I540@
+0 @F127@ FAM
+1 WIFE @I324@
+1 CHIL @I541@
+0 @F128@ FAM
+1 HUSB @I332@
+1 WIFE @I715@
+1 CHIL @I548@
+0 @F129@ FAM
+1 HUSB @I520@
+1 CHIL @I549@
+0 @F130@ FAM
+1 HUSB @I476@
+1 WIFE @I615@
+1 CHIL @I556@
+0 @F131@ FAM
+1 HUSB @I595@
+1 WIFE @I590@
+1 CHIL @I557@
+0 @F132@ FAM
+1 HUSB @I562@
+1 WIFE @I590@
+1 CHIL @I558@
+1 CHIL @I594@
+0 @F133@ FAM
+1 HUSB @I158@
+1 WIFE @I541@
+1 CHIL @I559@
+1 CHIL @I611@
+0 @F134@ FAM
+1 HUSB @I218@
+1 WIFE @I576@
+1 CHIL @I567@
+0 @F135@ FAM
+1 HUSB @I218@
+1 WIFE @I577@
+1 CHIL @I568@
+0 @F136@ FAM
+1 WIFE @I190@
+1 CHIL @I581@
+0 @F137@ FAM
+1 HUSB @I298@
+1 WIFE @I539@
+1 CHIL @I587@
+0 @F138@ FAM
+1 HUSB @I603@
+1 WIFE @I424@
+1 CHIL @I604@
+0 @F139@ FAM
+1 HUSB @I608@
+1 WIFE @I174@
+1 CHIL @I605@
+0 @F140@ FAM
+1 HUSB @I637@
+1 WIFE @I703@
+1 CHIL @I618@
+1 CHIL @I648@
+0 @F141@ FAM
+1 HUSB @I630@
+1 CHIL @I620@
+0 @F142@ FAM
+1 HUSB @I629@
+1 WIFE @I60@
+1 CHIL @I622@
+0 @F143@ FAM
+1 HUSB @I639@
+1 WIFE @I703@
+1 CHIL @I623@
+1 CHIL @I627@
+0 @F144@ FAM
+1 HUSB @I623@
+1 WIFE @I616@
+1 CHIL @I625@
+1 CHIL @I626@
+1 CHIL @I637@
+1 CHIL @I649@
+1 CHIL @I652@
+1 CHIL @I655@
+0 @F145@ FAM
+1 HUSB @I620@
+1 CHIL @I630@
+0 @F146@ FAM
+1 HUSB @I637@
+1 WIFE @I171@
+1 CHIL @I632@
+1 CHIL @I636@
+0 @F147@ FAM
+1 HUSB @I336@
+1 WIFE @I703@
+1 CHIL @I635@
+1 CHIL @I647@
+0 @F148@ FAM
+1 WIFE @I30@
+1 CHIL @I640@
+1 CHIL @I650@
+0 @F149@ FAM
+1 HUSB @I637@
+1 WIFE @I163@
+1 CHIL @I642@
+0 @F150@ FAM
+1 WIFE @I483@
+1 CHIL @I643@
+0 @F151@ FAM
+1 HUSB @I637@
+1 WIFE @I482@
+1 CHIL @I653@
+0 @F152@ FAM
+1 HUSB @I639@
+1 WIFE @I702@
+1 CHIL @I656@
+0 @F153@ FAM
+1 WIFE @I451@
+1 CHIL @I657@
+0 @F154@ FAM
+1 WIFE @I195@
+1 CHIL @I662@
+1 CHIL @I793@
+0 @F155@ FAM
+1 WIFE @I191@
+1 CHIL @I663@
+1 CHIL @I702@
+1 CHIL @I726@
+1 CHIL @I781@
+1 CHIL @I787@
+1 CHIL @I826@
+0 @F156@ FAM
+1 HUSB @I660@
+1 WIFE @I198@
+1 CHIL @I664@
+1 CHIL @I815@
+0 @F157@ FAM
+1 HUSB @I814@
+1 WIFE @I401@
+1 CHIL @I665@
+1 CHIL @I678@
+1 CHIL @I796@
+0 @F158@ FAM
+1 HUSB @I759@
+1 WIFE @I252@
+1 CHIL @I666@
+1 CHIL @I683@
+1 CHIL @I724@
+1 CHIL @I729@
+1 CHIL @I733@
+1 CHIL @I746@
+1 CHIL @I758@
+0 @F159@ FAM
+1 HUSB @I716@
+1 WIFE @I419@
+1 CHIL @I667@
+1 CHIL @I671@
+1 CHIL @I703@
+1 CHIL @I715@
+0 @F160@ FAM
+1 HUSB @I827@
+1 WIFE @I234@
+1 CHIL @I668@
+1 CHIL @I720@
+0 @F161@ FAM
+1 HUSB @I695@
+1 WIFE @I429@
+1 CHIL @I669@
+1 CHIL @I804@
+0 @F162@ FAM
+1 HUSB @I688@
+1 WIFE @I495@
+1 CHIL @I670@
+1 CHIL @I805@
+0 @F163@ FAM
+1 HUSB @I740@
+1 WIFE @I256@
+1 CHIL @I672@
+1 CHIL @I682@
+1 CHIL @I687@
+1 CHIL @I709@
+1 CHIL @I717@
+1 CHIL @I735@
+1 CHIL @I739@
+1 CHIL @I775@
+0 @F164@ FAM
+1 HUSB @I697@
+1 WIFE @I386@
+1 CHIL @I673@
+1 CHIL @I772@
+0 @F165@ FAM
+1 HUSB @I661@
+1 CHIL @I674@
+1 CHIL @I730@
+1 CHIL @I790@
+0 @F166@ FAM
+1 HUSB @I710@
+1 WIFE @I125@
+1 CHIL @I676@
+1 CHIL @I711@
+0 @F167@ FAM
+1 HUSB @I743@
+1 WIFE @I183@
+1 CHIL @I677@
+1 CHIL @I806@
+0 @F168@ FAM
+1 HUSB @I709@
+1 WIFE @I525@
+1 CHIL @I679@
+1 CHIL @I680@
+1 CHIL @I699@
+1 CHIL @I748@
+1 CHIL @I818@
+0 @F169@ FAM
+1 HUSB @I787@
+1 WIFE @I399@
+1 CHIL @I681@
+1 CHIL @I744@
+1 CHIL @I788@
+0 @F170@ FAM
+1 HUSB @I810@
+1 WIFE @I154@
+1 CHIL @I684@
+0 @F171@ FAM
+1 WIFE @I161@
+1 CHIL @I685@
+1 CHIL @I828@
+0 @F172@ FAM
+1 HUSB @I662@
+1 WIFE @I161@
+1 CHIL @I686@
+1 CHIL @I688@
+1 CHIL @I690@
+1 CHIL @I719@
+1 CHIL @I737@
+1 CHIL @I767@
+1 CHIL @I792@
+0 @F173@ FAM
+1 WIFE @I496@
+1 CHIL @I692@
+1 CHIL @I693@
+1 CHIL @I721@
+1 CHIL @I740@
+1 CHIL @I759@
+1 CHIL @I760@
+1 CHIL @I764@
+0 @F174@ FAM
+1 HUSB @I710@
+1 WIFE @I126@
+1 CHIL @I695@
+0 @F175@ FAM
+1 HUSB @I788@
+1 WIFE @I390@
+1 CHIL @I696@
+1 CHIL @I802@
+0 @F176@ FAM
+1 HUSB @I688@
+1 CHIL @I701@
+0 @F177@ FAM
+1 HUSB @I829@
+1 CHIL @I704@
+0 @F178@ FAM
+1 HUSB @I683@
+1 WIFE @I502@
+1 CHIL @I706@
+1 CHIL @I752@
+0 @F179@ FAM
+1 WIFE @I269@
+1 CHIL @I707@
+0 @F180@ FAM
+1 HUSB @I137@
+1 WIFE @I284@
+1 CHIL @I710@
+0 @F181@ FAM
+1 HUSB @I743@
+1 WIFE @I184@
+1 CHIL @I714@
+1 CHIL @I743@
+1 CHIL @I786@
+0 @F182@ FAM
+1 WIFE @I256@
+1 CHIL @I725@
+0 @F183@ FAM
+1 HUSB @I792@
+1 CHIL @I728@
+0 @F184@ FAM
+1 HUSB @I663@
+1 WIFE @I207@
+1 CHIL @I732@
+1 CHIL @I814@
+0 @F185@ FAM
+1 HUSB @I670@
+1 CHIL @I736@
+1 CHIL @I742@
+1 CHIL @I745@
+1 CHIL @I771@
+1 CHIL @I779@
+1 CHIL @I783@
+1 CHIL @I801@
+0 @F186@ FAM
+1 HUSB @I691@
+1 WIFE @I270@
+1 CHIL @I741@
+1 CHIL @I773@
+0 @F187@ FAM
+1 HUSB @I783@
+1 WIFE @I272@
+1 CHIL @I749@
+1 CHIL @I817@
+0 @F188@ FAM
+1 WIFE @I294@
+1 CHIL @I754@
+0 @F189@ FAM
+1 HUSB @I687@
+1 WIFE @I284@
+1 CHIL @I755@
+0 @F190@ FAM
+1 HUSB @I732@
+1 CHIL @I756@
+0 @F191@ FAM
+1 HUSB @I717@
+1 WIFE @I77@
+1 CHIL @I762@
+0 @F192@ FAM
+1 HUSB @I765@
+1 WIFE @I181@
+1 CHIL @I765@
+1 CHIL @I774@
+1 CHIL @I799@
+1 CHIL @I808@
+0 @F193@ FAM
+1 HUSB @I662@
+1 CHIL @I766@
+0 @F194@ FAM
+1 HUSB @I136@
+1 WIFE @I284@
+1 CHIL @I777@
+0 @F195@ FAM
+1 HUSB @I698@
+1 WIFE @I354@
+1 CHIL @I782@
+1 CHIL @I785@
+1 CHIL @I807@
+1 CHIL @I819@
+0 @F196@ FAM
+1 HUSB @I811@
+1 WIFE @I354@
+1 CHIL @I794@
+1 CHIL @I813@
+0 @F197@ FAM
+1 HUSB @I809@
+1 WIFE @I386@
+1 CHIL @I797@
+0 @F198@ FAM
+1 HUSB @I733@
+1 WIFE @I490@
+1 CHIL @I800@
+0 @F199@ FAM
+1 HUSB @I739@
+1 WIFE @I593@
+1 CHIL @I812@
+0 @F200@ FAM
+1 WIFE @I87@
+1 CHIL @I820@
+0 @F201@ FAM
+1 HUSB @I663@
+1 WIFE @I478@
+1 CHIL @I821@
+0 @F202@ FAM
+1 HUSB @I661@
+1 WIFE @I73@
+1 CHIL @I824@
+0 @F203@ FAM
+1 WIFE @I545@
+1 CHIL @I827@
+0 @F204@ FAM
+1 HUSB @I64@
+1 WIFE @I381@
+0 @F205@ FAM
+1 HUSB @I88@
+1 WIFE @I180@
+0 @F206@ FAM
+1 HUSB @I97@
+1 WIFE @I509@
+0 @F207@ FAM
+1 HUSB @I99@
+1 WIFE @I152@
+0 @F208@ FAM
+1 HUSB @I108@
+1 WIFE @I371@
+0 @F209@ FAM
+1 HUSB @I116@
+1 WIFE @I561@
+0 @F210@ FAM
+1 HUSB @I118@
+1 WIFE @I57@
+0 @F211@ FAM
+1 HUSB @I157@
+1 WIFE @I520@
+0 @F212@ FAM
+1 HUSB @I173@
+1 WIFE @I608@
+0 @F213@ FAM
+1 HUSB @I224@
+1 WIFE @I213@
+0 @F214@ FAM
+1 HUSB @I227@
+1 WIFE @I190@
+0 @F215@ FAM
+1 HUSB @I231@
+1 WIFE @I554@
+0 @F216@ FAM
+1 HUSB @I321@
+1 WIFE @I349@
+0 @F217@ FAM
+1 HUSB @I350@
+1 WIFE @I563@
+0 @F218@ FAM
+1 HUSB @I365@
+1 WIFE @I346@
+0 @F219@ FAM
+1 HUSB @I388@
+1 WIFE @I124@
+0 @F220@ FAM
+1 HUSB @I410@
+1 WIFE @I92@
+0 @F221@ FAM
+1 HUSB @I462@
+1 WIFE @I459@
+0 @F222@ FAM
+1 HUSB @I463@
+1 WIFE @I563@
+0 @F223@ FAM
+1 HUSB @I472@
+1 WIFE @I613@
+0 @F224@ FAM
+1 HUSB @I497@
+1 WIFE @I503@
+0 @F225@ FAM
+1 HUSB @I507@
+1 WIFE @I563@
+0 @F226@ FAM
+1 HUSB @I514@
+1 WIFE @I72@
+0 @F227@ FAM
+1 HUSB @I553@
+1 WIFE @I512@
+0 @F228@ FAM
+1 HUSB @I569@
+1 WIFE @I563@
+0 @F229@ FAM
+1 HUSB @I597@
+1 WIFE @I440@
+0 @F230@ FAM
+1 HUSB @I645@
+1 WIFE @I155@
+0 @F231@ FAM
+1 HUSB @I646@
+1 WIFE @I577@
+0 @F232@ FAM
+1 HUSB @I647@
+1 WIFE @I508@
+0 @F233@ FAM
+1 HUSB @I651@
+1 WIFE @I142@
+0 @F234@ FAM
+1 HUSB @I652@
+1 WIFE @I528@
+0 @F235@ FAM
+1 HUSB @I655@
+1 WIFE @I176@
+0 @F236@ FAM
+1 HUSB @I663@
+1 WIFE @I208@
+0 @F237@ FAM
+1 HUSB @I673@
+1 WIFE @I366@
+0 @F238@ FAM
+1 HUSB @I681@
+1 WIFE @I386@
+0 @F239@ FAM
+1 HUSB @I704@
+1 WIFE @I226@
+0 @F240@ FAM
+1 HUSB @I719@
+1 WIFE @I291@
+0 @F241@ FAM
+1 HUSB @I732@
+1 WIFE @I477@
+0 @F242@ FAM
+1 HUSB @I732@
+1 WIFE @I361@
+0 @F243@ FAM
+1 HUSB @I742@
+1 WIFE @I183@
+0 @F244@ FAM
+1 HUSB @I755@
+1 WIFE @I87@
+0 @F245@ FAM
+1 HUSB @I756@
+1 WIFE @I255@
+0 @F246@ FAM
+1 HUSB @I763@
+1 WIFE @I181@
+0 @F247@ FAM
+1 HUSB @I764@
+1 WIFE @I408@
+0 @F248@ FAM
+1 HUSB @I794@
+1 WIFE @I154@
+0 @F249@ FAM
+1 HUSB @I796@
+1 WIFE @I70@
+0 @F250@ FAM
+1 HUSB @I797@
+1 WIFE @I354@
+0 @F251@ FAM
+1 HUSB @I815@
+1 WIFE @I186@
+0 @F252@ FAM
+1 HUSB @I815@
+1 WIFE @I479@
+0 @F253@ FAM
+1 HUSB @I821@
+1 WIFE @I606@
+0 @F254@ FAM
+1 HUSB @I824@
+1 WIFE @I195@
+0 @F255@ FAM
+1 HUSB @I826@
+1 WIFE @I234@
+0 @F256@ FAM
+1 HUSB @I827@
+1 WIFE @I306@
+0 @F257@ FAM
+1 HUSB @I828@
+1 WIFE @I545@
+0 TRLR
